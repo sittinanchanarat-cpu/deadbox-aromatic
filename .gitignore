@@ -13,3 +13,8 @@ __pycache__/
 # large regenerable tables (stage1/run.sh)
 stage1/results/census_*.tsv
 figures/out/*.tiff
+# generated manuscript files (python manuscript/build/build_docx.py)
+manuscript/build/render/
+manuscript/build/manuscript_NAR.md
+manuscript/build/*.docx
+manuscript/build/refs.log
