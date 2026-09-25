@@ -59,3 +59,20 @@ def save_figure(fig, stem):
     fig.savefig(OUT / f"{stem}.pdf", dpi=600)
     fig.savefig(OUT / f"{stem}.tiff", dpi=300, pil_kwargs={"compression": "tiff_lzw"})
     fig.savefig(OUT / f"{stem}.png", dpi=150)
+
+
+def show_structure(ax, stem, caption=None, pad=12):
+    """Place a PyMOL rendering (figures/out/<stem>.png) on an axis, trimmed to its content."""
+    import matplotlib.image as mpimg
+    img = mpimg.imread(OUT / f"{stem}.png")
+    rgb = img[..., :3] if img.ndim == 3 else img
+    ink = (rgb < 0.97).any(axis=-1) if rgb.ndim == 3 else rgb < 0.97
+    rows, cols = np.where(ink)
+    if len(rows):
+        r0, r1 = max(rows.min() - pad, 0), min(rows.max() + pad, img.shape[0])
+        c0, c1 = max(cols.min() - pad, 0), min(cols.max() + pad, img.shape[1])
+        img = img[r0:r1, c0:c1]
+    ax.imshow(img, interpolation="lanczos")
+    ax.set_axis_off()
+    if caption:
+        ax.text(0.5, -0.02, caption, transform=ax.transAxes, ha="center", va="top", fontsize=6.5, color=SC_AXIS)

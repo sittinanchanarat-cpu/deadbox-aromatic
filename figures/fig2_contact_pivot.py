@@ -10,6 +10,10 @@ C  partner contacts along the anchor loop: fraction of partner-bound chains in w
    mates excluded), and mean buried area (stage0/results/loop_contacts.tsv)
 D  anchor-loop C-alpha RMSD to the nearest free structure of the same protein (another
    entry), free chains vs partner-bound chains (stage0/results/loop_summary.tsv)
+E  DDX19B closed (3FHT, RNA-bound) and open (6B4K) superposed on RecA1: the segment before
+   the anchor re-routes while F94 stays in place
+F  eIF4AIII in the exon junction complex (2J0Q): Y14 contacts D41 (UA+1) next to the
+   buried anchor F40 (renderings from structures.py)
 """
 import pandas as pd
 
@@ -97,15 +101,20 @@ def panel_d(ax):
 
 def main():
     n = pd.read_csv(S0 / "n6_geometry.tsv", sep="\t")
-    fig = plt.figure(figsize=(JOURNAL_2COL, 5.0), constrained_layout=True)
-    gs = fig.add_gridspec(2, 2, width_ratios=[1, 1.15])
+    fig = plt.figure(figsize=(JOURNAL_2COL, 7.6), constrained_layout=True)
+    gs = fig.add_gridspec(3, 2, width_ratios=[1, 1.15], height_ratios=[1, 1, 1.05])
     a, b, c, d = (fig.add_subplot(gs[i, j]) for i in range(2) for j in range(2))
+    e, f = fig.add_subplot(gs[2, 0]), fig.add_subplot(gs[2, 1])
     panel_a(a, n)
     panel_b(b, n)
     panel_c(c)
     panel_d(d)
+    show_structure(e, "struct_ddx19_pivot", "DDX19B: closed (sand) vs open (moss)")
+    show_structure(f, "struct_ejc_y14", "eIF4AIII with Y14 (exon junction complex)")
     for ax, lab in zip((a, b, c, d), "ABCD"):
         add_panel_label(ax, lab, x=-0.2)
+    for ax, lab in zip((e, f), "EF"):
+        add_panel_label(ax, lab, x=0.0, y=1.02)
     save_figure(fig, "fig2_contact_pivot")
     print(f"Fig 2: {len(n)} sites; edge-on median angle {n.approach_angle.median():.0f} deg")
 

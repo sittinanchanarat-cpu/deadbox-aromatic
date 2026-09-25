@@ -5,7 +5,9 @@ A  per SF2 family (PDB, nucleotide-bound): % proteins with a Q-motif Gln on aden
    vs % with an inserted upstream anchor (stage0/results/per_protein.tsv)
 B  anchor -> Q-motif Gln spacing across eukaryotic DEAD-box proteins (log scale), one sequence
    per genus and subfamily (stage1/results/census_balanced_assigned.tsv)
-Structure panels (anchor, Q-motif stacker, Gln and adenine) are rendered separately.
+C-E  the adenine pocket in the same orientation (superposed on Vasa RecA1): Vasa-AMPPNP
+   (2DB3, Phe anchor), Prp5-ADP (4LJY, Trp anchor), Mtr4-ADP (2XGJ, Ski2-like, no anchor)
+   (renderings from structures.py)
 """
 import pandas as pd
 from scipy.stats import fisher_exact
@@ -73,12 +75,19 @@ def panel_b(ax):
 
 
 def main():
-    fig, (a, b) = plt.subplots(1, 2, figsize=(JOURNAL_2COL, 2.6), gridspec_kw={"width_ratios": [1.1, 1]},
-                               constrained_layout=True)
+    fig = plt.figure(figsize=(JOURNAL_2COL, 5.3), constrained_layout=True)
+    gs = fig.add_gridspec(2, 6, height_ratios=[1, 1.05])
+    a, b = fig.add_subplot(gs[0, :3]), fig.add_subplot(gs[0, 3:])
+    c, d, e = fig.add_subplot(gs[1, :2]), fig.add_subplot(gs[1, 2:4]), fig.add_subplot(gs[1, 4:])
     pv = panel_a(a)
     n = panel_b(b)
+    show_structure(c, "struct_vasa_phe", "Vasa (DEAD), Phe anchor")
+    show_structure(d, "struct_prp5_trp", "Prp5 (DEAD), Trp anchor")
+    show_structure(e, "struct_mtr4_none", "Mtr4 (Ski2-like), no anchor")
     add_panel_label(a, "A", x=-0.16)
     add_panel_label(b, "B", x=-0.16)
+    for ax, lab in zip((c, d, e), "CDE"):
+        add_panel_label(ax, lab, x=0.0, y=1.02)
     save_figure(fig, "fig1_definition")
     print(f"Fig 1: DEAD vs other SF2 anchor, Fisher p = {pv:.1e}; spacing panel n = {n}")
 

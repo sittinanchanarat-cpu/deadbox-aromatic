@@ -37,7 +37,7 @@ def setup():
     cmd.bg_color("white")
     for k, v in {"ray_opaque_background": 1, "antialias": 2, "ray_shadows": 0, "orthoscopic": 1,
                  "cartoon_transparency": 0.45, "cartoon_fancy_helices": 1, "stick_radius": 0.2,
-                 "dash_gap": 0.25, "dash_radius": 0.07, "dash_color": "sc_annot", "label_size": 11,
+                 "dash_gap": 0.25, "dash_radius": 0.07, "dash_color": "sc_annot", "label_size": 24,
                  "label_font_id": 5, "label_color": "black", "float_labels": 1, "depth_cue": 0,
                  "specular": 0.1, "ambient": 0.45, "sphere_transparency": 0.55}.items():
         cmd.set(k, v)
@@ -143,7 +143,7 @@ def fig1():
 
     cmd.hide("everything", "prp5")
     cmd.delete("prp5_*")
-    d = pocket("mtr4", None, 148, 151, 154, "ADP", "sc_sage",
+    d = pocket("mtr4", None, 148, 150, 154, "ADP", "sc_sage",
                {148: "F148", 154: "Q154"}, {148: (-2.5, 2.0, 4.0), 154: (2.5, -2.0, 4.0)})
     cmd.pseudoatom("slot", pos=ring)
     cmd.show("spheres", "slot")
