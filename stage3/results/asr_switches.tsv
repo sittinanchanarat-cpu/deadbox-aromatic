@@ -1,0 +1,112 @@
+subfamily	from	to	p_parent	p_child	n_tips	supergroups	clade	tip_states
+DDX46/PRP5	F	W	0.9	0.99	396	Amorphea,Archaeplastida,Cryptophyceae,Discoba,Haptista,Metamonada,SAR	mixed kingdom:Fungi,Metazoa,Viridiplantae	W340F56
+DDX46/PRP5	W	F	0.99	1.0	1	Amorphea	genus:Astathelohania	F1
+DDX46/PRP5	W	F	1.0	0.66	2	Amorphea,Metamonada	mixed order:Apusomonadida,Oxymonadida	F2
+DDX46/PRP5	W	F	1.0	1.0	12	SAR	mixed phylum:Apicomplexa,Perkinsozoa	F12
+DDX46/PRP5	W	F	1.0	0.99	15	SAR	mixed class:Bacillariophyceae,Bolidophyceae,Coscinodiscophyceae	F15
+DDX46/PRP5	W	F	0.9	0.89	2	Amorphea	mixed phylum:Discosea,Evosea	F2
+DDX46/PRP5	W	F	0.9	1.0	1	Archaeplastida	genus:Chondrus	F1
+DDX46/PRP5	W	F	0.98	1.0	1	Amorphea	genus:Peltaster	F1
+DDX46/PRP5	W	F	0.98	1.0	1	Amorphea	genus:Aulographum	F1
+DDX46/PRP5	W	F	0.99	0.97	2	Amorphea	order:Botryosphaeriales	F2
+DDX46/PRP5	W	F	1.0	0.99	5	Amorphea	order:Pleosporales	F4W1
+DDX46/PRP5	F	W	0.99	1.0	1	Amorphea	genus:Epicoccum	W1
+DDX46/PRP5	W	F	0.94	1.0	1	Amorphea	genus:Viridothelium	F1
+DDX46/PRP5	W	F	0.78	0.99	4	Amorphea	class:Dothideomycetes	F4
+DDX46/PRP5	W	F	0.57	0.96	2	Amorphea	class:Dothideomycetes	F2
+DDX46/PRP5	W	F	0.57	1.0	1	Amorphea	genus:Recurvomyces	F1
+DDX46/PRP5	W	F	1.0	1.0	1	Amorphea	genus:Pachysolen	F1
+DDX46/PRP5	W	F	0.98	1.0	1	Amorphea	genus:Sungouiella	F1
+DDX46/PRP5	W	F	0.98	1.0	1	Amorphea	genus:Suhomyces	F1
+DDX46/PRP5	W	F	0.99	0.98	2	Amorphea	order:Phaffomycetales	F2
+DDX46/PRP5	W	F	1.0	1.0	1	Amorphea	genus:Caenorhabditis	F1
+DDX46/PRP5	W	F	1.0	1.0	1	Metamonada	genus:Anaeramoeba	F1
+DDX23/PRP28	W	F	1.0	1.0	1	Amorphea	genus:Hyalella	F1
+DDX23/PRP28	W	F	1.0	1.0	1	Amorphea	genus:Pachysolen	F1
+DDX23/PRP28	W	F	1.0	1.0	3	SAR	family:Bacillariaceae	F3
+DDX23/PRP28	W	F	0.72	1.0	1	Discoba	genus:Leptomonas	F1
+DDX23/PRP28	W	I	0.72	1.0	1	Amorphea	genus:Scylla	F1
+DDX55/SPB4	W	F	0.9	0.98	3	Archaeplastida	kingdom:Viridiplantae	F3
+DDX55/SPB4	W	F	0.9	1.0	1	Amorphea	genus:Nematocida	F1
+DDX55/SPB4	W	F	1.0	0.96	51	Archaeplastida,Haptista,SAR	mixed phylum:Bacillariophyta,Chlorophyta,Haptophyta,Oomycota...	F50W1
+DDX55/SPB4	F	K	0.81	1.0	1	SAR	genus:Fistulifera	F1
+DDX55/SPB4	F	W	0.81	0.68	2	SAR	family:Pelagomonadaceae	F1W1
+DDX55/SPB4	W	-	0.68	1.0	1	SAR	genus:Aureococcus	F1
+DDX55/SPB4	W	F	0.99	0.99	2	Amorphea	class:Trematoda	F2
+DDX55/SPB4	W	F	1.0	1.0	1	Amorphea	genus:Stegodyphus	F1
+DDX55/SPB4	W	Y	1.0	1.0	1	Amorphea	genus:Exocentrus	F1
+DDX55/SPB4	W	F	1.0	1.0	2	Amorphea	order:Parachela	F2
+DDX55/SPB4	W	F	1.0	1.0	1	Amorphea	genus:Hydra	F1
+DDX55/SPB4	W	F	1.0	1.0	1	SAR	genus:Theileria	F1
+DDX55/SPB4	W	F	1.0	1.0	3	Amorphea	order:Pucciniales	F3
+DDX55/SPB4	W	F	1.0	1.0	1	Amorphea	genus:Microstroma	F1
+DDX55/SPB4	W	F	1.0	1.0	1	Amorphea	genus:Aulographum	F1
+DDX55/SPB4	W	F	1.0	1.0	1	Amorphea	genus:Viridothelium	F1
+DDX55/SPB4	W	F	1.0	1.0	1	Amorphea	genus:Schizosaccharomyces	F1
+DDX55/SPB4	W	F	0.95	1.0	1	Amorphea	genus:Neolentinus	F1
+DDX55/SPB4	W	F	0.95	1.0	1	Metamonada	genus:Spironucleus	F1
+DDX47/RRP3	F	A	0.99	1.0	1	Amorphea	genus:Salpingoeca	F1
+DDX47/RRP3	F	W	0.99	0.96	2	Metamonada,SAR	mixed phylum:Apicomplexa,Fornicata	W2
+DDX47/RRP3	F	W	1.0	0.99	387	Amorphea,Archaeplastida,Cryptophyceae,Haptista,Metamonada,SAR	mixed kingdom:Fungi,Metazoa,Viridiplantae	F350W37
+DDX47/RRP3	W	F	0.99	1.0	383	Amorphea,Archaeplastida,Cryptophyceae,Haptista,Metamonada,SAR	mixed kingdom:Fungi,Metazoa,Viridiplantae	F350W33
+DDX47/RRP3	F	W	1.0	1.0	21	Amorphea	class:Insecta	W21
+DDX47/RRP3	F	W	1.0	1.0	11	Amorphea	order:Diptera	W11
+DDX47/RRP3	F	W	1.0	1.0	1	Amorphea	genus:Oikopleura	W1
+DDX54/DBP10	F	W	1.0	1.0	1	SAR	genus:Aureococcus	W1
+DDX54/DBP10	F	W	1.0	1.0	6	Amorphea	class:Tremellomycetes	W6
+DDX54/DBP10	F	W	1.0	1.0	1	Amorphea	genus:Filobasidium	W1
+DDX54/DBP10	F	W	1.0	1.0	1	Amorphea	genus:Polyplosphaeria	W1
+DDX54/DBP10	F	W	1.0	1.0	22	Amorphea	class:Chromadorea	W22
+DDX54/DBP10	F	Y	1.0	1.0	1	Archaeplastida	genus:Gracilariopsis	Y1
+DDX56/DBP9	F	W	1.0	1.0	1	Amorphea	genus:Eremomyces	W1
+DDX56/DBP9	F	W	1.0	1.0	1	Amorphea	genus:Seiridium	W1
+DDX56/DBP9	F	W	1.0	1.0	1	Amorphea	genus:Apiospora	W1
+DDX56/DBP9	F	W	1.0	1.0	1	Amorphea	genus:Verticillium	W1
+DDX56/DBP9	F	W	1.0	1.0	3	Amorphea	kingdom:Fungi	W3
+DDX56/DBP9	F	-	0.99	1.0	1	Amorphea	genus:Funneliformis	F1
+DDX56/DBP9	F	-	0.99	1.0	1	Amorphea	genus:Acaulospora	F1
+DDX56/DBP9	F	Y	0.99	1.0	1	Amorphea	genus:Tilletia	F1
+DDX56/DBP9	F	W	1.0	1.0	1	Amorphea	genus:Monosiga	W1
+DDX56/DBP9	F	W	1.0	1.0	1	Amorphea	genus:Oikopleura	W1
+DDX56/DBP9	F	W	0.98	1.0	1	Discoba	genus:Acrasis	W1
+DDX56/DBP9	F	W	1.0	1.0	7	Discoba	class:Kinetoplastea	W7
+DDX56/DBP9	F	W	1.0	1.0	1	Archaeplastida	genus:Papaver	W1
+DDX56/DBP9	F	W	0.99	1.0	1	Archaeplastida	genus:Chlorella	W1
+DDX56/DBP9	F	W	0.99	1.0	1	Archaeplastida	genus:Raphidocelis	W1
+DDX56/DBP9	F	W	1.0	1.0	1	Archaeplastida	genus:Micromonas	W1
+DDX56/DBP9	F	W	1.0	1.0	1	Metamonada	genus:Kipferlia	W1
+DDX6/DHH1	F	W	1.0	1.0	3	Amorphea	phylum:Microsporidia	W3
+DDX6/DHH1	F	W	1.0	1.0	7	Amorphea	phylum:Microsporidia	W7
+DDX6/DHH1	F	Y	0.99	1.0	1	Metamonada	genus:Aduncisulcus	Y1
+DDX6/DHH1	F	W	1.0	1.0	4	Amorphea	class:Dothideomycetes	W4
+DDX6/DHH1	F	W	1.0	1.0	2	Amorphea	order:Sordariales	W2
+DDX6/DHH1	F	W	1.0	1.0	7	Amorphea	class:Sordariomycetes	W7
+DDX6/DHH1	F	W	1.0	1.0	1	Amorphea	genus:Patellaria	W1
+DDX6/DHH1	F	W	1.0	1.0	1	Amorphea	genus:Lithohypha	W1
+DDX6/DHH1	F	W	1.0	1.0	1	Amorphea	genus:Neodothiora	W1
+DDX6/DHH1	F	W	1.0	1.0	1	Amorphea	genus:Tulasnella	W1
+DDX6/DHH1	F	W	1.0	1.0	1	Amorphea	genus:Laetiporus	W1
+DDX6/DHH1	F	W	1.0	1.0	1	Amorphea	genus:Gymnopilus	W1
+DDX6/DHH1	F	W	1.0	1.0	3	Amorphea	phylum:Basidiomycota	W3
+DDX6/DHH1	F	W	1.0	1.0	2	SAR	order:Heterotrichida	W2
+DDX19/DBP5	F	W	1.0	1.0	17	SAR	mixed class:Aconoidasida,Conoidasida,Dinophyceae,Pelagophyceae	W15F2
+DDX19/DBP5	F	W	1.0	1.0	3	SAR	phylum:Ciliophora	W2F1
+DDX19/DBP5	F	W	1.0	1.0	1	Amorphea	genus:Hymenoscyphus	W1
+DDX19/DBP5	F	W	1.0	1.0	9	Amorphea	order:Hypocreales	W9
+DDX19/DBP5	F	W	1.0	1.0	2	Amorphea	order:Parachela	W2
+DDX19/DBP5	W	F	1.0	1.0	2	SAR	family:Symbiodiniaceae	F2
+DDX27/DRS1	F	W	1.0	0.98	7	Discoba,Metamonada	mixed phylum:Euglenozoa,Fornicata	W7
+DDX27/DRS1	F	W	1.0	1.0	1	Amorphea	genus:Planoprotostelium	W1
+DDX27/DRS1	F	W	0.99	0.96	17	SAR	mixed phylum:Apicomplexa,Perkinsozoa	W12F5
+DDX27/DRS1	W	F	0.96	1.0	5	SAR	class:Dinophyceae	F5
+DDX27/DRS1	F	W	0.99	1.0	2	SAR	class:Oligohymenophorea	W2
+DDX27/DRS1	F	W	1.0	1.0	1	Archaeplastida	genus:Cyanidioschyzon	W1
+DDX27/DRS1	F	W	1.0	1.0	1	Metamonada	genus:Giardia	W1
+eIF4A	F	W	1.0	1.0	6	Amorphea	phylum:Microsporidia	W6
+eIF4A	F	W	1.0	1.0	1	Amorphea	genus:Lobosporangium	W1
+DDX3/DED1	F	W	1.0	1.0	1	Haptista	genus:Diacronema	W1
+DDX3/DED1	F	Y	1.0	1.0	1	Amorphea	genus:Blomia	Y1
+DDX3/DED1	F	Y	1.0	1.0	1	Amorphea	genus:Cloeon	Y1
+DDX3/DED1	F	Y	1.0	1.0	1	Amorphea	genus:Nesidiocoris	Y1
+DDX3/DED1	F	Y	1.0	1.0	1	Metamonada	genus:Blattamonas	Y1
+DDX3/DED1	F	W	1.0	1.0	1	Amorphea	genus:Planoprotostelium	W1

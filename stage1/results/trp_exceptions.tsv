@@ -1,0 +1,148 @@
+genus	proteome	organism	kingdom	phylum	cls	order	group	DDX46/PRP5	DDX23/PRP28	DDX24/MAK5	DDX55/SPB4	DDX3/DED1	eIF4A	busco_c	hub1
+Acacia	UP001293593	Acacia crassicarpa (northern wattle)	Viridiplantae	Streptophyta	Magnoliopsida	Fabales	Viridiplantae	W	W		F	F	F	91.4	yes
+Acanthamoeba	UP000011083	Acanthamoeba castellanii (strain ATCC 30010 / Neff)		Discosea		Longamoebia	Discosea	F	W					77.6	yes
+Acorus	UP001180020	Acorus calamus (Sweet flag)	Viridiplantae	Streptophyta	Magnoliopsida	Acorales	Viridiplantae	W	W		F	F	F	81.5	yes
+Actinidia	UP000241394	Actinidia chinensis var. chinensis (Chinese soft-hair kiwi)	Viridiplantae	Streptophyta	Magnoliopsida	Ericales	Viridiplantae	W			F	F	F	93.8	yes
+Alternaria	UP000676310	Alternaria atra	Fungi	Ascomycota	Dothideomycetes	Pleosporales	Fungi	W	W		F	F	F	94.5	yes
+Anisodus	UP001291623	Anisodus tanguticus	Viridiplantae	Streptophyta	Magnoliopsida	Solanales	Viridiplantae	W	W		F	F	F	95.5	yes
+Arabis	UP000489600	Arabis nemorensis	Viridiplantae	Streptophyta	Magnoliopsida	Brassicales	Viridiplantae	W			F	F	F	93.8	yes
+Arachis	UP000289738	Arachis hypogaea (Peanut)	Viridiplantae	Streptophyta	Magnoliopsida	Fabales	Viridiplantae	W	W		F	F	F	95.2	yes
+Aristolochia	UP000825729	Aristolochia fimbriata (White veined hardy Dutchman's pipe vine)	Viridiplantae	Streptophyta	Magnoliopsida	Piperales	Viridiplantae	W	W		F	F	F	96.7	no
+Artemisia	UP000245207	Artemisia annua (Sweet wormwood)	Viridiplantae	Streptophyta	Magnoliopsida	Asterales	Viridiplantae	W	W		F	F	F	89.2	yes
+Asbolus	UP000292052	Asbolus verrucosus (Blue death-feigning beetle)	Metazoa	Arthropoda	Insecta	Coleoptera	Metazoa	-	W			F	F	83.3	yes
+Aulographum	UP000800041	Aulographum hederae CBS 113979	Fungi	Ascomycota	Dothideomycetes	Aulographales	Fungi		W		F	F	F	93.5	yes
+Aureobasidium	UP000729357	Aureobasidium melanogenum (Aureobasidium pullulans var. melanogenum)	Fungi	Ascomycota	Dothideomycetes	Dothideales	Fungi	F	W		W	F	F	78.2	yes
+Avena	UP001732700	Avena sativa (Oat)	Viridiplantae	Streptophyta	Magnoliopsida	Poales	Viridiplantae	W	W		Y	F	F	97.5	yes
+Bauhinia	UP000828941	Bauhinia variegata (Purple orchid tree) (Phanera variegata)	Viridiplantae	Streptophyta	Magnoliopsida	Fabales	Viridiplantae	W	W		F	F	F	94.4	yes
+Blattamonas	UP001281761	Blattamonas nauphoetae		Preaxostyla		Oxymonadida	Preaxostyla	F	W					53.7	yes
+Botryosphaeria	UP000572817	Botryosphaeria dothidea	Fungi	Ascomycota	Dothideomycetes	Botryosphaeriales	Fungi	F	W		W	F	F	95.7	yes
+Brachypodium	UP000008810	Brachypodium distachyon (Purple false brome) (Trachynia distachya)	Viridiplantae	Streptophyta	Magnoliopsida	Poales	Viridiplantae	W	W		F	F	F	99.0	yes
+Brettanomyces	UP000290900	Brettanomyces naardenensis (Yeast)	Fungi	Ascomycota	Pichiomycetes	Pichiales	Fungi	W			-	F	F	87.3	yes
+Camelina	UP000694864	Camelina sativa (False flax) (Myagrum sativum)	Viridiplantae	Streptophyta	Magnoliopsida	Brassicales	Viridiplantae	W	W		F	F	F	99.8	yes
+Camellia	UP001060215	Camellia lanceoleosa	Viridiplantae	Streptophyta	Magnoliopsida	Ericales	Viridiplantae	W	W		F	F	F	93.1	yes
+Canavalia	UP001367508	Canavalia gladiata (Sword bean) (Dolichos gladiatus)	Viridiplantae	Streptophyta	Magnoliopsida	Fabales	Viridiplantae	W	W		F	F	F	80.5	unknown
+Capsella	UP000029121	Capsella rubella	Viridiplantae	Streptophyta	Magnoliopsida	Brassicales	Viridiplantae	W	W		F	F	F	96.4	yes
+Capsicum	UP000224567	Capsicum baccatum (Peruvian pepper)	Viridiplantae	Streptophyta	Magnoliopsida	Solanales	Viridiplantae	W	W		F	F	F	87.9	yes
+Cardamine	UP001558713	Cardamine amara subsp. amara	Viridiplantae	Streptophyta	Magnoliopsida	Brassicales	Viridiplantae	W			F	F	F	95.1	yes
+Carnegiea	UP001153076	Carnegiea gigantea	Viridiplantae	Streptophyta	Magnoliopsida	Caryophyllales	Viridiplantae	W	W		F	F	F	76.2	unknown
+Castanea	UP000737018	Castanea mollissima (Chinese chestnut)	Viridiplantae	Streptophyta	Magnoliopsida	Fagales	Viridiplantae	W	W		F	F	F	93.4	no
+Castilleja	UP001632038	Castilleja foliolosa	Viridiplantae	Streptophyta	Magnoliopsida	Lamiales	Viridiplantae	W	W		F	F	F	96.1	yes
+Catharanthus	UP001060085	Catharanthus roseus (Madagascar periwinkle) (Vinca rosea)	Viridiplantae	Streptophyta	Magnoliopsida	Gentianales	Viridiplantae	W	W		F	F	F	91.1	no
+Ceuthmochares	UP000519239	Ceuthmochares aereus	Metazoa	Chordata	Aves	Cuculiformes	Metazoa			-		F	F	69.4	yes
+Chaetoceros	UP001054902	Chaetoceros tenuissimus		Bacillariophyta	Coscinodiscophyceae	Chaetocerotales	Bacillariophyta	F					F	95.0	yes
+Chondrus	UP000012073	Chondrus crispus (Carrageen Irish moss) (Polymorpha crispa)		Rhodophyta	Florideophyceae	Gigartinales	Rhodophyta	F	W				F	63.9	yes
+Cichorium	UP001055811	Cichorium intybus (Chicory)	Viridiplantae	Streptophyta	Magnoliopsida	Asterales	Viridiplantae		W		F	F	F	79.9	yes
+Cinchona	UP001630127	Cinchona calisaya	Viridiplantae	Streptophyta	Magnoliopsida	Gentianales	Viridiplantae	W	W		F	F	F	97.0	no
+Citrus	UP000829398	Citrus sinensis (Sweet orange) (Citrus aurantium var. sinensis)	Viridiplantae	Streptophyta	Magnoliopsida	Sapindales	Viridiplantae	W	W		F	F	F	99.3	yes
+Cladosporium	UP000803884	Cladosporium halotolerans	Fungi	Ascomycota	Dothideomycetes	Cladosporiales	Fungi	F	W			F	F	98.3	yes
+Clathrospora	UP000800038	Clathrospora elynae	Fungi	Ascomycota	Dothideomycetes	Pleosporales	Fungi	F	W			F		96.6	yes
+Conger	UP001152803	Conger conger (Conger eel) (Muraena conger)	Metazoa	Chordata	Actinopteri	Anguilliformes	Metazoa		W	-	W	F	F	84.3	yes
+Conidiobolus	UP000070444	Conidiobolus coronatus (strain ATCC 28846 / CBS 209.66 / NRRL 28638) (Delacroixia coronata)	Fungi	Entomophthoromycota	Entomophthoromycetes	Entomophthorales	Fungi	W	W		F	F	F	79.8	yes
+Coptis	UP000631114	Coptis chinensis	Viridiplantae	Streptophyta	Magnoliopsida	Ranunculales	Viridiplantae	W	W		F	F	F	79.6	yes
+Corchorus	UP000187203	Corchorus olitorius	Viridiplantae	Streptophyta	Magnoliopsida	Malvales	Viridiplantae	W	W		F	F	F	81.3	yes
+Corylus	UP000832498	Corylus avellana (European hazel) (Corylus maxima)	Viridiplantae	Streptophyta	Magnoliopsida	Fagales	Viridiplantae	W	W		F	F	F	99.1	no
+Corymbia	UP000806378	Corymbia citriodora subsp. variegata	Viridiplantae	Streptophyta	Magnoliopsida	Myrtales	Viridiplantae	W	W		F	F	F	11.6	yes
+Cotesia	UP000826195	Cotesia glomerata (Lepidopteran parasitic wasp) (Apanteles glomeratus)	Metazoa	Arthropoda	Insecta	Hymenoptera	Metazoa	W	W		Y	F	F	86.4	yes
+Cryoendolithus	UP000192596	Cryoendolithus antarcticus	Fungi	Ascomycota	Dothideomycetes	Cladosporiales	Fungi	F	W			F	F	97.6	yes
+Cucumis	UP001652600	Cucumis melo (Muskmelon)	Viridiplantae	Streptophyta	Magnoliopsida	Cucurbitales	Viridiplantae	W	W		F	F	F	98.5	yes
+Cucurbita	UP000504608	Cucurbita maxima (Pumpkin) (Winter squash)	Viridiplantae	Streptophyta	Magnoliopsida	Cucurbitales	Viridiplantae	W	W		F	F	F	98.5	yes
+Cylindrotheca	UP001295423	Cylindrotheca closterium		Bacillariophyta	Bacillariophyceae	Bacillariales	Bacillariophyta	F					F	97.0	yes
+Daucus	UP000077755	Daucus carota subsp. sativus (Carrot)	Viridiplantae	Streptophyta	Magnoliopsida	Apiales	Viridiplantae	W	W		F	F	F	98.4	yes
+Deinandra	UP001408789	Deinandra increscens subsp. villosa	Viridiplantae	Streptophyta	Magnoliopsida	Asterales	Viridiplantae	W	W		F	F	F	93.3	yes
+Dendryphion	UP000700596	Dendryphion nanum	Fungi	Ascomycota	Dothideomycetes	Pleosporales	Fungi	F	W		W	F	F	90.7	yes
+Dillenia	UP001370490	Dillenia turbinata	Viridiplantae	Streptophyta	Magnoliopsida	Dilleniales	Viridiplantae	W	W		F	F	F	92.8	yes
+Diplodia	UP001430584	Diplodia seriata	Fungi	Ascomycota	Dothideomycetes	Botryosphaeriales	Fungi	F	W		W	F	F	88.9	unknown
+Dipteronia	UP001281410	Dipteronia sinensis	Viridiplantae	Streptophyta	Magnoliopsida	Sapindales	Viridiplantae	W	W		F	F	F	91.1	yes
+Durio	UP000515121	Durio zibethinus (Durian)	Viridiplantae	Streptophyta	Magnoliopsida	Malvales	Viridiplantae	W	W		F	F	F	98.7	yes
+Elsinoe	UP000799538	Elsinoe ampelina	Fungi	Ascomycota	Dothideomycetes	Myriangiales	Fungi	F	W		W	F		94.1	yes
+Eruca	UP001642260	Eruca vesicaria subsp. sativa (Garden rocket) (Eruca sativa)	Viridiplantae	Streptophyta	Magnoliopsida	Brassicales	Viridiplantae	W	W		F	F	F	96.6	yes
+Erythranthe	UP000030748	Erythranthe guttata (Yellow monkey flower) (Mimulus guttatus)	Viridiplantae	Streptophyta	Magnoliopsida	Lamiales	Viridiplantae	W	W		F	F	F	89.9	yes
+Erythroxylum	UP001159364	Erythroxylum novogranatense (Peruvian coca) (Erythroxylum coca var. novogranatense)	Viridiplantae	Streptophyta	Magnoliopsida	Malpighiales	Viridiplantae	W	W		F	F	F	97.2	yes
+Escallonia	UP001188597	Escallonia herrerae	Viridiplantae	Streptophyta	Magnoliopsida	Escalloniales	Viridiplantae	W	W		F	F	F	88.9	yes
+Eucalyptus	UP000030711	Eucalyptus grandis (Flooded gum)	Viridiplantae	Streptophyta	Magnoliopsida	Myrtales	Viridiplantae	W	W		F	F	F	92.1	yes
+Eutrema	UP000030689	Eutrema salsugineum (Saltwater cress) (Sisymbrium salsugineum)	Viridiplantae	Streptophyta	Magnoliopsida	Brassicales	Viridiplantae	W	W		F	F	F	97.6	yes
+Exocentrus	UP001159042	Exocentrus adspersus	Metazoa	Arthropoda	Insecta	Coleoptera	Metazoa		W		F	F	F	86.2	yes
+Ficus	UP001187192	Ficus carica (Common fig)	Viridiplantae	Streptophyta	Magnoliopsida	Rosales	Viridiplantae	W	W		F	F	F	88.4	yes
+Fistulifera	UP000198406	Fistulifera solaris (Oleaginous diatom)		Bacillariophyta	Bacillariophyceae	Naviculales	Bacillariophyta	F						97.0	yes
+Flemingia	UP001603857	Flemingia macrophylla	Viridiplantae	Streptophyta	Magnoliopsida	Fabales	Viridiplantae	W	W		F	F	F	95.4	yes
+Fragilariopsis	UP000095751	Fragilariopsis cylindrus CCMP1102		Bacillariophyta	Bacillariophyceae	Bacillariales	Bacillariophyta	F					F	95.0	yes
+Glycine	UP000289340	Glycine soja (Wild soybean)	Viridiplantae	Streptophyta	Magnoliopsida	Fabales	Viridiplantae	W	W		F	F	F	99.0	yes
+Gonapodya	UP000070544	Gonapodya prolifera (strain JEL478) (Monoblepharis prolifera)	Fungi	Monoblepharomycota	Monoblepharidomycetes	Monoblepharidales	Fungi	W	W		F		F	83.6	yes
+Gossypium	UP000323597	Gossypium mustelinum (Cotton) (Gossypium caicoense)	Viridiplantae	Streptophyta	Magnoliopsida	Malvales	Viridiplantae	W	W		F	F	F	98.9	yes
+Heracleum	UP001237642	Heracleum sosnowskyi	Viridiplantae	Streptophyta	Magnoliopsida	Apiales	Viridiplantae	W	W		F	F	F	96.0	no
+Herrania	UP000504621	Herrania umbratica	Viridiplantae	Streptophyta	Magnoliopsida	Malvales	Viridiplantae		W		F	F	F	93.6	yes
+Hibiscus	UP001396334	Hibiscus sabdariffa (roselle)	Viridiplantae	Streptophyta	Magnoliopsida	Malvales	Viridiplantae	W	W		F	F	F	92.0	yes
+Hordeum	UP000011116	Hordeum vulgare subsp. vulgare (Domesticated barley)	Viridiplantae	Streptophyta	Magnoliopsida	Poales	Viridiplantae	W	W		F	F	F	94.0	yes
+Hyalella	UP000694843	Hyalella azteca (Mexican freshwater shrimp) (Ampithoe aztecus)	Metazoa	Arthropoda	Malacostraca	Amphipoda	Metazoa	W	F			F		95.6	no
+Hypsibius	UP000192578	Hypsibius exemplaris (Freshwater tardigrade)	Metazoa	Tardigrada	Eutardigrada	Parachela	Metazoa	W			F		F	84.6	yes
+Ilex	UP001642360	Ilex paraguariensis (yerba mate)	Viridiplantae	Streptophyta	Magnoliopsida	Aquifoliales	Viridiplantae	W	W		F	F	F	77.3	yes
+Iris	UP001140949	Iris pallida (Sweet iris)	Viridiplantae	Streptophyta	Magnoliopsida	Asparagales	Viridiplantae		W		F	F	F	79.7	yes
+Jatropha	UP000027138	Jatropha curcas (Barbados nut)	Viridiplantae	Streptophyta	Magnoliopsida	Malpighiales	Viridiplantae	W	W		F	F	F	91.3	yes
+Juglans	UP000235220	Juglans regia (English walnut)	Viridiplantae	Streptophyta	Magnoliopsida	Fagales	Viridiplantae	W	W		F	F	F	99.4	yes
+Klebsormidium	UP000054558	Klebsormidium nitens (Green alga) (Ulothrix nitens)	Viridiplantae	Streptophyta	Klebsormidiophyceae	Klebsormidiales	Viridiplantae	W	W		F	F	F	96.9	yes
+Lactuca	UP001157418	Lactuca virosa	Viridiplantae	Streptophyta	Magnoliopsida	Asterales	Viridiplantae		W		F	F	F	90.1	yes
+Lasiodiplodia	UP000325902	Lasiodiplodia theobromae	Fungi	Ascomycota	Dothideomycetes	Botryosphaeriales	Fungi	F	W		W	F	F	97.5	yes
+Leersia	UP000032180	Leersia perrieri	Viridiplantae	Streptophyta	Magnoliopsida	Poales	Viridiplantae	W	W		F	F	F	93.7	yes
+Lindgomyces	UP000799755	Lindgomyces ingoldianus	Fungi	Ascomycota	Dothideomycetes	Pleosporales	Fungi	F	W			F	F	89.4	yes
+Lolium	UP001231189	Lolium multiflorum (Italian ryegrass) (Lolium perenne subsp. multiflorum)	Viridiplantae	Streptophyta	Magnoliopsida	Poales	Viridiplantae	W	W		F	F	F	82.5	yes
+Macleaya	UP000195402	Macleaya cordata (Five-seeded plume-poppy) (Bocconia cordata)	Viridiplantae	Streptophyta	Magnoliopsida	Ranunculales	Viridiplantae	W	W		F	F	F	93.1	yes
+Macrophomina	UP000774617	Macrophomina phaseolina (Charcoal rot fungus) (Macrophoma phaseolina)	Fungi	Ascomycota	Dothideomycetes	Botryosphaeriales	Fungi	F	W		W	F	F	98.5	yes
+Malus	UP000290289	Malus domestica (Apple) (Pyrus malus)	Viridiplantae	Streptophyta	Magnoliopsida	Rosales	Viridiplantae	W	W		F	F	F	92.5	yes
+Melia	UP001164539	Melia azedarach (Chinaberry tree)	Viridiplantae	Streptophyta	Magnoliopsida	Sapindales	Viridiplantae	W	W		F	F	F	97.2	yes
+Micractinium	UP001701531	Micractinium tetrahymenae	Viridiplantae	Chlorophyta	Trebouxiophyceae	Chlorellales	Viridiplantae		W		F	F	F	99.2	no
+Momordica	UP000504603	Momordica charantia (Bitter gourd) (Balsam pear)	Viridiplantae	Streptophyta	Magnoliopsida	Cucurbitales	Viridiplantae	W	W		F	F	F	96.9	yes
+Morella	UP000516437	Morella rubra (Chinese bayberry)	Viridiplantae	Streptophyta	Magnoliopsida	Fagales	Viridiplantae				F	F	F	81.0	yes
+Morus	UP000030645	Morus notabilis	Viridiplantae	Streptophyta	Magnoliopsida	Rosales	Viridiplantae	W	W		F	F	F	87.8	yes
+Mucuna	UP000257109	Mucuna pruriens (Velvet bean) (Dolichos pruriens)	Viridiplantae	Streptophyta	Magnoliopsida	Fabales	Viridiplantae	W	W		F	F	F	83.7	yes
+Mugilogobius	UP001460270	Mugilogobius chulae (yellowstripe goby)	Metazoa	Chordata	Actinopteri	Gobiiformes	Metazoa	-	W	W		F	F	77.7	yes
+Myriangium	UP000799439	Myriangium duriaei CBS 260.36	Fungi	Ascomycota	Dothideomycetes	Myriangiales	Fungi	F	W		W	F	F	93.2	yes
+Mytilinidion	UP000504636	Mytilinidion resinicola	Fungi	Ascomycota	Dothideomycetes	Mytilinidiales	Fungi	-	W		W	F	F	97.4	yes
+Neodothiora	UP001562354	Neodothiora populina	Fungi	Ascomycota	Dothideomycetes	Dothideales	Fungi	F	W		W	F	F	93.2	yes
+Neofusicoccum	UP001521116	Neofusicoccum ribis	Fungi	Ascomycota	Dothideomycetes	Botryosphaeriales	Fungi	F	W		W	F	F	94.2	yes
+Nicotiana	UP000790787	Nicotiana tabacum (Common tobacco)	Viridiplantae	Streptophyta	Magnoliopsida	Solanales	Viridiplantae	W	W		F	F	F	99.1	no
+Nitzschia	UP000693970	Nitzschia inconspicua		Bacillariophyta	Bacillariophyceae	Bacillariales	Bacillariophyta	F					F	100.0	no
+Nyssa	UP000325577	Nyssa sinensis	Viridiplantae	Streptophyta	Magnoliopsida	Cornales	Viridiplantae		W		F	F	F	86.9	yes
+Olea	UP000594638	Olea europaea subsp. europaea	Viridiplantae	Streptophyta	Magnoliopsida	Lamiales	Viridiplantae	W	W		F	F	F	97.1	yes
+Oryza	UP000026962	Oryza punctata (Red rice)	Viridiplantae	Streptophyta	Magnoliopsida	Poales	Viridiplantae	W	W		F	F	F	94.7	yes
+Pachysolen	UP000094236	Pachysolen tannophilus NRRL Y-2460	Fungi	Ascomycota	Pichiomycetes	Alaninales	Fungi		F			F	F	93.0	yes
+Perilla	UP001190926	Perilla frutescens var. hirtella (Perilla citriodora) (Perilla setoyensis)	Viridiplantae	Streptophyta	Magnoliopsida	Lamiales	Viridiplantae	W	W		F	F	F	83.3	yes
+Phakopsora	UP001153365	Phakopsora pachyrhizi (Asian soybean rust disease fungus)	Fungi	Basidiomycota	Pucciniomycetes	Pucciniales	Fungi	W	W		F	F	F	91.3	no
+Phaseolus	UP000000226	Phaseolus vulgaris (Kidney bean) (French bean)	Viridiplantae	Streptophyta	Magnoliopsida	Fabales	Viridiplantae	W	W		F	F	F	98.1	yes
+Phyllosticta	UP001363622	Phyllosticta citriasiana	Fungi	Ascomycota	Dothideomycetes	Botryosphaeriales	Fungi	F	W		W	F	F	96.8	yes
+Pistacia	UP001163603	Pistacia integerrima	Viridiplantae	Streptophyta	Magnoliopsida	Sapindales	Viridiplantae	W	W		F	F	F	76.7	yes
+Planoprotostelium	UP000241769	Planoprotostelium fungivorum		Evosea	Variosea	Cavosteliida	Evosea	F	W				F	94.5	yes
+Polychaeton	UP000799441	Polychaeton citri CBS 116435	Fungi	Ascomycota	Dothideomycetes	Capnodiales	Fungi	F	W			F		91.1	yes
+Punica	UP000515151	Punica granatum (Pomegranate)	Viridiplantae	Streptophyta	Magnoliopsida	Myrtales	Viridiplantae	W	W		F	F	F	98.7	yes
+Quercus	UP001324115	Quercus rubra (Northern red oak) (Quercus borealis)	Viridiplantae	Streptophyta	Magnoliopsida	Fagales	Viridiplantae	W	W		F	F	F	98.1	yes
+Quillaja	UP001163823	Quillaja saponaria (Soap bark tree)	Viridiplantae	Streptophyta	Magnoliopsida	Fabales	Viridiplantae	W	W		F	F	F	88.7	yes
+Raphanus	UP000504610	Raphanus sativus (Radish) (Raphanus raphanistrum var. sativus)	Viridiplantae	Streptophyta	Magnoliopsida	Brassicales	Viridiplantae	W	W		F	F	F	99.5	yes
+Recurvomyces	UP001274830	Recurvomyces mirabilis	Fungi	Ascomycota	Dothideomycetes	Mycosphaerellales	Fungi	F	W			F	F	94.5	yes
+Rehmannia	UP001318860	Rehmannia glutinosa (Chinese foxglove)	Viridiplantae	Streptophyta	Magnoliopsida	Lamiales	Viridiplantae		W		F	F	F	94.2	yes
+Rhamnella	UP000796880	Rhamnella rubrinervis	Viridiplantae	Streptophyta	Magnoliopsida	Rosales	Viridiplantae	W	W		F	F	F	95.6	yes
+Rhodamnia	UP000827889	Rhodamnia argentea	Viridiplantae	Streptophyta	Magnoliopsida	Myrtales	Viridiplantae	W	W		F	F	F	98.8	yes
+Rhododendron	UP000823749	Rhododendron griersonianum	Viridiplantae	Streptophyta	Magnoliopsida	Ericales	Viridiplantae	W	W		F	F	F	88.7	yes
+Rhynchospora	UP001140206	Rhynchospora pubera	Viridiplantae	Streptophyta	Magnoliopsida	Poales	Viridiplantae	W	W		F	F	F	78.4	yes
+Salvia	UP000298416	Salvia splendens (Scarlet sage)	Viridiplantae	Streptophyta	Magnoliopsida	Lamiales	Viridiplantae	W	W		F	F		92.7	no
+Schizosaccharomyces	UP000001744	Schizosaccharomyces japonicus (strain yFS275 / FY16936) (Fission yeast)	Fungi	Ascomycota	Schizosaccharomycetes	Schizosaccharomycetales	Fungi	W	W		F	F	F	81.2	yes
+Sesamum	UP000504604	Sesamum indicum (Oriental sesame) (Sesamum orientale)	Viridiplantae	Streptophyta	Magnoliopsida	Lamiales	Viridiplantae	W	W		F	F	F	98.5	yes
+Setomelanomma	UP000799777	Setomelanomma holmii	Fungi	Ascomycota	Dothideomycetes	Pleosporales	Fungi	W	W		F	F	F	97.3	yes
+Smallanthus	UP001056120	Smallanthus sonchifolius	Viridiplantae	Streptophyta	Magnoliopsida	Asterales	Viridiplantae	W	W		F	F	F	96.7	yes
+Stegodyphus	UP000054359	Stegodyphus mimosarum (African social velvet spider)	Metazoa	Arthropoda	Arachnida	Araneae	Metazoa	W	W		F	F	F	88.4	yes
+Stylosanthes	UP001341840	Stylosanthes scabra	Viridiplantae	Streptophyta	Magnoliopsida	Fabales	Viridiplantae	W	W		F	F	F	92.6	yes
+Teratosphaeria	UP001138500	Teratosphaeria destructans	Fungi	Ascomycota	Dothideomycetes	Mycosphaerellales	Fungi	F	W			F	F	89.7	yes
+Thecamonas	UP000054408	Thecamonas trahens ATCC 50062				Apusomonadida	unclassified	F					F	81.6	yes
+Theobroma	UP000026915	Theobroma cacao (Cacao) (Cocoa)	Viridiplantae	Streptophyta	Magnoliopsida	Malvales	Viridiplantae	W	W		F	F	F	99.3	yes
+Thermochaetoides	UP000008066	Thermochaetoides thermophila (strain DSM 1495 / CBS 144.50 / DAOM 24625 / IMI 039719) (Chaetomium thermophilum)	Fungi	Ascomycota	Sordariomycetes	Sordariales	Fungi	W	W		F	F	F	93.7	yes
+Thermothielavioides	UP000008181	Thermothielavioides terrestris (strain ATCC 38088 / NRRL 8126) (Thielavia terrestris)	Fungi	Ascomycota	Sordariomycetes	Sordariales	Fungi	W	W		F	F	F	95.5	yes
+Thlaspi	UP000836841	Thlaspi arvense (Field penny-cress)	Viridiplantae	Streptophyta	Magnoliopsida	Brassicales	Viridiplantae	W	W		F	F	F	82.9	yes
+Trema	UP000237000	Trema orientale (Charcoal tree) (Celtis orientalis)	Viridiplantae	Streptophyta	Magnoliopsida	Rosales	Viridiplantae		W		F	F	F	92.5	yes
+Tribonema	UP000664859	Tribonema minus			Xanthophyceae	Tribonematales	unclassified	W	W		F		F	93.0	yes
+Tripterygium	UP000593562	Tripterygium wilfordii (Thunder God vine)	Viridiplantae	Streptophyta	Magnoliopsida	Celastrales	Viridiplantae	W	W		F	F	F	91.2	yes
+Triticum	UP000324705	Triticum turgidum subsp. durum (Durum wheat) (Triticum durum)	Viridiplantae	Streptophyta	Magnoliopsida	Poales	Viridiplantae	W	W		F	F	F	96.7	yes
+Turnera	UP001141552	Turnera subulata	Viridiplantae	Streptophyta	Magnoliopsida	Malpighiales	Viridiplantae	W	W		F	F		86.9	yes
+Vaccinium	UP000828048	Vaccinium darrowii	Viridiplantae	Streptophyta	Magnoliopsida	Ericales	Viridiplantae	W	W		F	F	F	90.2	yes
+Venturia	UP000298493	Venturia nashicola	Fungi	Ascomycota	Dothideomycetes	Venturiales	Fungi		W		F	F	F	92.9	yes
+Vigna	UP000087766	Vigna radiata var. radiata (Mung bean) (Phaseolus aureus)	Viridiplantae	Streptophyta	Magnoliopsida	Fabales	Viridiplantae	W	W		F	F	F	98.6	yes
+Viridothelium	UP000800092	Viridothelium virens (Speckled blister lichen) (Trypethelium virens)	Fungi	Ascomycota	Dothideomycetes	Trypetheliales	Fungi	F	W		F	F	F	94.2	yes
+Vitis	UP001168098	Vitis rotundifolia (Muscadine grape)	Viridiplantae	Streptophyta	Magnoliopsida	Vitales	Viridiplantae	W	W		F	F	F	83.7	yes
+Vitrella	UP000041254	Vitrella brassicaformis					unclassified	F	W				F	99.4	yes

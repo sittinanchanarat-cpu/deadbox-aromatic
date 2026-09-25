@@ -1,0 +1,284 @@
+acc	subfamily	organism	kingdom	phylum	class	order	anchor	ua_pos	ua_spacing	q_pos	ua_context	label	af
+A0AAD3H728	DDX46/PRP5	Chaetoceros tenuissimus		Bacillariophyta	Coscinodiscophyceae	Chaetocerotales	F	402.0	25.0	427.0	PVES[F]DECG		ok
+A0A2P6N4T0	DDX46/PRP5	Planoprotostelium fungivorum		Evosea	Variosea	Cavosteliida	F	1324.0	25.0	1349.0	PIKN[F]AQAG		fail:HTTPError
+A0A9P8Q4K4	DDX46/PRP5	Wickerhamomyces pijperi (Yeast) (Pichia pijperi)	Fungi	Ascomycota	Saccharomycetes	Phaffomycetales	Y	254.0	25.0	279.0	ILNF[Y]HFGL		ok
+A0A8H4IXG8	DDX46/PRP5	Botryosphaeria dothidea	Fungi	Ascomycota	Dothideomycetes	Botryosphaeriales	F	528.0	25.0	553.0	PVSA[F]AQCG		ok
+A0ABQ6MEG6	DDX46/PRP5	Tetraparma gracilis			Bolidophyceae	Parmales	F	65.0	26.0	91.0	PISS[F]ADSG		fail:HTTPError
+A0A2I0AJE8	DDX46/PRP5	Apostasia shenzhenica	Viridiplantae	Streptophyta	Magnoliopsida	Asparagales	F	436.0	25.0	461.0	GQLW[F]DECN		ok
+A0A2R6NSJ6	DDX46/PRP5	Hermanssonia centrifuga	Fungi	Basidiomycota	Agaricomycetes	Polyporales	F	43.0	27.0	70.0	AQQS[F]EELG		ok
+A0A448YV18	DDX46/PRP5	Pseudo-nitzschia multistriata		Bacillariophyta	Bacillariophyceae	Bacillariales	F	471.0	25.0	496.0	PVAS[F]EQCG		ok
+A0ABQ8X695	DDX46/PRP5	Anaeramoeba flamelloides					F	457.0	25.0	482.0	PITS[F]GQAG		fail:HTTPError
+L1LBU7	DDX46/PRP5	Theileria equi (strain WA) (Babesia equi)		Apicomplexa	Aconoidasida	Piroplasmida	F	348.0	25.0	373.0	PIYS[F]SQCG		ok
+Q2HAD8	DDX46/PRP5	Chaetomium globosum (strain ATCC 6205 / CBS 148.51 / DSM 1962 / NBRC 6347 / NRRL 1970) (Soil fungus)	Fungi	Ascomycota	Sordariomycetes	Sordariales	W	431.0	25.0	456.0	PVQK[W]SQCG		ok
+Q6BML1	DDX46/PRP5	Debaryomyces hansenii (strain ATCC 36239 / CBS 767 / BCRC 21394 / JCM 1990 / NBRC 0083 / IGC 2968) (Yeast) (Torulaspora hansenii)	Fungi	Ascomycota	Pichiomycetes	Serinales	W	318.0	26.0	344.0	PIIR[W]SQLG		ok
+Q4TVV3	DDX46/PRP5	Danio rerio (Zebrafish) (Brachydanio rerio)	Metazoa	Chordata	Actinopteri	Cypriniformes	W	342.0	25.0	367.0	PIKT[W]VQCG		ok
+Q6CKI1	DDX46/PRP5	Kluyveromyces lactis (strain ATCC 8585 / CBS 2359 / DSM 70799 / NBRC 1267 / NRRL Y-1140 / WM37) (Yeast) (Candida sphaerica)	Fungi	Ascomycota	Saccharomycetes	Saccharomycetales	W	247.0	26.0	273.0	PVTK[W]SQLG		ok
+Q62780	DDX46/PRP5	Rattus norvegicus (Rat)	Metazoa	Chordata	Mammalia	Rodentia	W	374.0	25.0	399.0	PIKS[W]VQCG		ok
+Q4PFD9	DDX46/PRP5	Mycosarcoma maydis (Corn smut fungus) (Ustilago maydis)	Fungi	Basidiomycota	Ustilaginomycetes	Ustilaginales	W	478.0	25.0	503.0	PLTK[W]SHCG		ok
+A6RW79	DDX46/PRP5	Botrytis cinerea (strain B05.10) (Noble rot fungus) (Botryotinia fuckeliana)	Fungi	Ascomycota	Leotiomycetes	Helotiales	W	556.0	25.0	581.0	PVQK[W]SQCG		ok
+Q6CCZ1	DDX46/PRP5	Yarrowia lipolytica (strain CLIB 122 / E 150) (Yeast) (Candida lipolytica)	Fungi	Ascomycota	Dipodascomycetes	Dipodascales	W	380.0	25.0	405.0	PISK[W]TQLG		ok
+A0A8E0RJX8	DDX46/PRP5	Fasciolopsis buskii	Metazoa	Platyhelminthes	Trematoda	Plagiorchiida	W	355.0	25.0	380.0	PLKT[W]VQAG		ok
+A0ABQ7TJI2	DDX46/PRP5	Phrynosoma platyrhinos (Desert horned lizard)	Metazoa	Chordata	Lepidosauria	Squamata	W	379.0	25.0	404.0	PIKT[W]VQCG		fail:HTTPError
+A0AAD8AMG3	DDX46/PRP5	Diploptera punctata (Pacific beetle cockroach)	Metazoa	Arthropoda	Insecta	Blattodea	W	201.0	25.0	226.0	PIKT[W]AQCG		ok
+A0A397JMH7	DDX46/PRP5	Diversispora epigaea	Fungi	Glomeromycota	Glomeromycetes	Diversisporales	W	408.0	25.0	433.0	PIQK[W]THAG		ok
+A0A507QNH6	DDX46/PRP5	Monascus purpureus (Red mold) (Monascus anka)	Fungi	Ascomycota	Eurotiomycetes	Eurotiales	W	568.0	25.0	593.0	PVQK[W]SHCG		ok
+A0A852HXH7	DDX46/PRP5	Nicator chloris	Metazoa	Chordata	Aves	Passeriformes	W	378.0	25.0	403.0	PIKT[W]VQCG		ok
+A0A5N5GF68	DDX46/PRP5	Pyrus ussuriensis x Pyrus communis	Viridiplantae	Streptophyta	Magnoliopsida	Rosales	W	431.0	25.0	456.0	PIKT[W]NQTG		ok
+A0A8J4CGR1	DDX46/PRP5	Volvox reticuliferus	Viridiplantae	Chlorophyta	Chlorophyceae	Chlamydomonadales	W	77.0	25.0	102.0	PIRA[W]TQAG		ok
+A0A074SZZ0	DDX46/PRP5	Rhizoctonia solani 123E	Fungi	Basidiomycota	Agaricomycetes	Cantharellales	W	469.0	25.0	494.0	PVTK[W]SHCG		ok
+A0A9P6NAV9	DDX46/PRP5	Cronartium quercuum f. sp. fusiforme G11	Fungi	Basidiomycota	Pucciniomycetes	Pucciniales	W	264.0	25.0	289.0	PVMK[W]SWFG		ok
+T0RTC8	DDX46/PRP5	Saprolegnia diclina (strain VS20)		Oomycota	Saprolegniomycetes	Saprolegniales	W	452.0	25.0	477.0	PILK[W]TQAG		ok
+A0A7I4E2Q9	DDX46/PRP5	Physcomitrium patens (Spreading-leaved earth moss) (Physcomitrella patens)	Viridiplantae	Streptophyta	Bryopsida	Funariales	W	517.0	25.0	542.0	PLKT[W]NQTG		ok
+A0A6A6BR42	DDX46/PRP5	Aplosporella prunicola CBS 121167	Fungi	Ascomycota	Dothideomycetes	Botryosphaeriales	W	368.0	25.0	393.0	PIQH[W]AQSG		ok
+A0AAV6TY08	DDX46/PRP5	Oedothorax gibbosus	Metazoa	Arthropoda	Arachnida	Araneae	W	355.0	25.0	380.0	PIRN[W]AQCG		ok
+I4YAL6	DDX46/PRP5	Wallemia mellicola (strain ATCC MYA-4683 / CBS 633.66) (Wallemia sebi (CBS 633.66))	Fungi	Basidiomycota	Wallemiomycetes	Wallemiales	W	343.0	25.0	368.0	PVTK[W]SLLG		ok
+A0A1Y1V0L0	DDX46/PRP5	Piromyces finnis	Fungi	Neocallimastigomycota	Neocallimastigomycetes	Neocallimastigales	W	138.0	26.0	164.0	PVRK[W]TQFG		ok
+A0A8T2J740	DDX46/PRP5	Hymenochirus boettgeri (Congo dwarf clawed frog)	Metazoa	Chordata	Amphibia	Anura	W	370.0	25.0	395.0	PIKS[W]VQCG		ok
+A0A1R2B2Z6	DDX46/PRP5	Stentor coeruleus		Ciliophora	Heterotrichea	Heterotrichida	W	257.0	25.0	282.0	PILN[W]YQCG		ok
+A0AAW1PMA9	DDX46/PRP5	Symbiochloris irregularis	Viridiplantae	Chlorophyta	Trebouxiophyceae	Trebouxiales	W	589.0	25.0	614.0	PVRF[W]WQCG		ok
+A0AAV4E3K7	DDX46/PRP5	Plakobranchus ocellatus	Metazoa	Mollusca	Gastropoda		W	340.0	25.0	365.0	PIKS[W]AQCG		ok
+A0A7M4FXN1	DDX46/PRP5	Crocodylus porosus (Saltwater crocodile) (Estuarine crocodile)	Metazoa	Chordata		Crocodylia	W	342.0	25.0	367.0	PIKT[W]VQCG		ok
+F0ZSP5	DDX46/PRP5	Dictyostelium purpureum (Slime mold)		Evosea	Eumycetozoa	Dictyosteliales	W	29.0	25.0	54.0	PIQS[W]SQAG		ok
+A0A1E4TR64	DDX23/PRP28	Pachysolen tannophilus NRRL Y-2460	Fungi	Ascomycota	Pichiomycetes	Alaninales	F	96.0	25.0	121.0	PLRS[F]DESS		ok
+A0A1E7FI79	DDX23/PRP28	Fragilariopsis cylindrus CCMP1102		Bacillariophyta	Bacillariophyceae	Bacillariales	F	44.0	27.0	71.0	PLRY[F]NDGS		ok
+A0A8J4XZZ5	DDX23/PRP28	Chionoecetes opilio (Atlantic snow crab) (Cancer opilio)	Metazoa	Arthropoda	Malacostraca	Decapoda	F	135.0	25.0	160.0	AAED[F]ASLG		ok
+A0ACB7EHL8	DDX23/PRP28	Nibea albiflora (Yellow drum) (Corvina albiflora)	Metazoa	Chordata	Actinopteri		F	151.0	25.0	176.0	EKSS[F]SNLR		fail:HTTPError
+A0AA39MCZ3	DDX23/PRP28	Steinernema hermaphroditum	Metazoa	Nematoda	Chromadorea	Rhabditida	F	149.0	25.0	174.0	LIDN[F]DECN		ok
+A0A2J7PS80	DDX23/PRP28	Cryptotermes secundus	Metazoa	Arthropoda	Insecta	Blattodea	F	122.0	25.0	147.0	SGIS[F]SDTG		ok
+A0A0M9FWT3	DDX23/PRP28	Leptomonas pyrrhocoris (Firebug parasite)		Euglenozoa	Kinetoplastea	Trypanosomatida	F	108.0	25.0	133.0	TIDN[F]DDML		ok
+A0AAN9WYF3	DDX23/PRP28	Psophocarpus tetragonolobus (Winged bean) (Dolichos tetragonolobus)	Viridiplantae	Streptophyta	Magnoliopsida	Fabales	-	40.0	25.0	65.0	CALT[A]TKSK		ok
+A0A0L0MXQ9	DDX23/PRP28	Tolypocladium ophioglossoides (strain CBS 100239) (Snaketongue truffleclub) (Elaphocordyceps ophioglossoides)	Fungi	Ascomycota	Sordariomycetes	Hypocreales	Y	62.0	27.0	89.0	FYRA[Y]DKEE		ok
+A0A6A6JDC7	DDX23/PRP28	Westerdykella ornata	Fungi	Ascomycota	Dothideomycetes	Pleosporales	F	190.0	25.0	215.0	QTVS[F]EKLG		ok
+A5DF03	DDX23/PRP28	Meyerozyma guilliermondii (strain ATCC 6260 / CBS 566 / DSM 6381 / JCM 1539 / NBRC 10279 / NRRL Y-324) (Yeast) (Candida guilliermondii)	Fungi	Ascomycota	Pichiomycetes	Serinales	W	152.0	25.0	177.0	PLRS[W]KESG		ok
+Q9BUQ8	DDX23/PRP28	Homo sapiens (Human)	Metazoa	Chordata	Mammalia	Primates	W	393.0	25.0	418.0	PIRS[W]KDSS	human DDX23	ok
+A6RJA2	DDX23/PRP28	Botrytis cinerea (strain B05.10) (Noble rot fungus) (Botryotinia fuckeliana)	Fungi	Ascomycota	Leotiomycetes	Helotiales	W	382.0	25.0	407.0	PMRN[W]SESK		ok
+Q2HEB0	DDX23/PRP28	Chaetomium globosum (strain ATCC 6205 / CBS 148.51 / DSM 1962 / NBRC 6347 / NRRL 1970) (Soil fungus)	Fungi	Ascomycota	Sordariomycetes	Sordariales	W	271.0	25.0	296.0	PMRS[W]AESN		ok
+A0A4V0KB21	DDX23/PRP28	Plasmodium chabaudi chabaudi		Apicomplexa	Aconoidasida	Haemosporida	W	517.0	25.0	542.0	PIRK[W]EESN		ok
+A0A7L1XHL4	DDX23/PRP28	Thinocorus orbignyianus	Metazoa	Chordata	Aves	Ciconiiformes	W	173.0	25.0	198.0	PIRS[W]KDSS		ok
+A0ABR2X1S8	DDX23/PRP28	Basidiobolus ranarum	Fungi	Basidiobolomycota	Basidiobolomycetes	Basidiobolales	W	284.0	25.0	309.0	PYRS[W]SESG		fail:HTTPError
+A0ACB9TD37	DDX23/PRP28	Holotrichia oblita (Chafer beetle)	Metazoa	Arthropoda	Insecta	Coleoptera	W	349.0	25.0	374.0	PIRN[W]KESG		fail:HTTPError
+A0A665T888	DDX23/PRP28	Echeneis naucrates (Live sharksucker)	Metazoa	Chordata	Actinopteri	Carangiformes	W	316.0	25.0	341.0	PIRN[W]KEYP		ok
+M2MYS1	DDX23/PRP28	Baudoinia panamericana (strain UAMH 10762) (Angels' share fungus) (Baudoinia compniacensis (strain UAMH 10762))	Fungi	Ascomycota	Dothideomycetes	Mycosphaerellales	W	343.0	25.0	368.0	PMRS[W]AESG		ok
+A0A7J7JSD7	DDX23/PRP28	Bugula neritina (Brown bryozoan) (Sertularia neritina)	Metazoa	Bryozoa	Gymnolaemata	Cheilostomatida	W	386.0	25.0	411.0	PLRN[W]KESP		ok
+A0AAD8JQ90	DDX23/PRP28	Tagetes erecta (African marigold)	Viridiplantae	Streptophyta	Magnoliopsida	Asterales	W	286.0	25.0	311.0	PMRS[W]AESK		ok
+A0A8X6PKR4	DDX23/PRP28	Nephila pilipes (Giant wood spider) (Nephila maculata)	Metazoa	Arthropoda	Arachnida	Araneae	W	417.0	25.0	442.0	PIRH[W]KESG		ok
+A0ABD0L455	DDX23/PRP28	Batillaria attramentaria	Metazoa	Mollusca	Gastropoda		W	343.0	25.0	368.0	PIRY[W]KEAK		ok
+A0AA35VZK4	DDX23/PRP28	Geodia barretti (Barrett's horny sponge)	Metazoa	Porifera	Demospongiae	Tetractinellida	W	358.0	25.0	383.0	PLRS[W]AEAG		ok
+A0A1E3PQ74	DDX23/PRP28	Nadsonia fulvescens var. elongata DSM 6958	Fungi	Ascomycota	Dipodascomycetes	Dipodascales	W	143.0	25.0	168.0	PIRY[W]SESG		ok
+A0A087SAU3	DDX23/PRP28	Auxenochlorella protothecoides (Green microalga) (Chlorella protothecoides)	Viridiplantae	Chlorophyta	Trebouxiophyceae	Chlorellales	W	275.0	25.0	300.0	PLRN[W]EEAN		ok
+A0A165H4G0	DDX23/PRP28	Laetiporus sulphureus 93-53	Fungi	Basidiomycota	Agaricomycetes	Polyporales	W	329.0	25.0	354.0	PLRS[W]AESS		ok
+A0A4V1IWZ5	DDX23/PRP28	Thamnocephalis sphaerospora	Fungi	Zoopagomycota	Zoopagomycetes	Zoopagales	W	162.0	25.0	187.0	PMRS[W]AEST		ok
+A0A0W4ZGH6	DDX23/PRP28	Pneumocystis jirovecii (strain RU7) (Human pneumocystis pneumonia agent)	Fungi	Ascomycota	Pneumocystomycetes	Pneumocystales	W	410.0	25.0	435.0	PIRN[W]KESG		ok
+D8T5B6	DDX23/PRP28	Selaginella moellendorffii (Gemmiferous spikemoss) (Kungiselaginella moellendorffii)	Viridiplantae	Streptophyta	Lycopodiopsida	Selaginellales	W	187.0	25.0	212.0	PARN[W]EESG		ok
+A0AAE9IMN0	DDX23/PRP28	Caenorhabditis briggsae	Metazoa	Nematoda	Chromadorea	Rhabditida	W	305.0	25.0	330.0	PLRN[W]EESG		ok
+V5EX56	DDX23/PRP28	Kalmanozyma brasiliensis (strain GHG001) (Yeast) (Pseudozyma brasiliensis)	Fungi	Basidiomycota	Ustilaginomycetes	Ustilaginales	W	262.0	25.0	287.0	PLRS[W]REST		ok
+A0A8J4XV95	DDX23/PRP28	Chionoecetes opilio (Atlantic snow crab) (Cancer opilio)	Metazoa	Arthropoda	Malacostraca	Decapoda	W	431.0	25.0	456.0	PIRA[W]SESN		ok
+A0A4S2N709	DDX23/PRP28	Ascodesmis nigricans	Fungi	Ascomycota	Pezizomycetes	Pezizales	W	344.0	25.0	369.0	PMRS[W]AESG		ok
+A0A813QNS3	DDX23/PRP28	Brachionus calyciflorus	Metazoa	Rotifera	Eurotatoria	Ploima	W	299.0	25.0	324.0	GLRN[W]SEAK		ok
+A0A250XKS0	DDX23/PRP28	Chlamydomonas eustigma	Viridiplantae	Chlorophyta	Chlorophyceae	Chlamydomonadales	W	532.0	25.0	557.0	PMRK[W]EEGG		ok
+A0ACF7XE80	DDX23/PRP28	Tetrahymena utriculariae		Ciliophora	Oligohymenophorea	Hymenostomatida	W	324.0	25.0	349.0	PMRT[W]EEGE		fail:HTTPError
+A9V7D0	DDX23/PRP28	Monosiga brevicollis (Choanoflagellate)			Choanoflagellata	Craspedida	W	275.0	25.0	300.0	PLRS[W]DEAG		ok
+A0AAD6J549	DDX23/PRP28	Drechslerella dactyloides (Nematode-trapping fungus) (Arthrobotrys dactyloides)	Fungi	Ascomycota	Orbiliomycetes	Orbiliales	W	387.0	25.0	412.0	PMRS[W]QESS		ok
+F0VJC3	DDX24/MAK5	Neospora caninum (strain Liverpool)		Apicomplexa	Conoidasida	Eucoccidiorida	-	228.0	25.0	253.0	ALDS[S]SEDL		ok
+A0A0G4EMC1	DDX24/MAK5	Vitrella brassicaformis					Y	162.0	26.0	188.0	ECLD[Y]GGEA		ok
+A0A0C2YDM5	DDX24/MAK5	Hebeloma cylindrosporum	Fungi	Basidiomycota	Agaricomycetes	Agaricales	F	29.0	27.0	56.0	RRLS[F]AALG		ok
+A0ACC3MRE7	DDX24/MAK5	Vermiconidia calcicola	Fungi	Ascomycota	Dothideomycetes	Mycosphaerellales	-	184.0	25.0	209.0	DQAA[V]EGEG		fail:HTTPError
+A0A8J5QSR7	DDX24/MAK5	[Candida] subhashii	Fungi	Ascomycota	Pichiomycetes	Serinales	F	209.0	22.0	231.0	SESD[F]SLSP		ok
+A0A9Q1I8Q6	DDX24/MAK5	Conger conger (Conger eel) (Muraena conger)	Metazoa	Chordata	Actinopteri	Anguilliformes	-	65.0	25.0	90.0	LVDS[A]KDLF		ok
+A0A2C6KLY9	DDX24/MAK5	Cystoisospora suis		Apicomplexa	Conoidasida	Eucoccidiorida	-	259.0	25.0	284.0	AVDE[E]SLDL		ok
+Q5RDL2	DDX24/MAK5	Pongo abelii (Sumatran orangutan) (Pongo pygmaeus abelii)	Metazoa	Chordata	Mammalia	Primates	W	194.0	25.0	219.0	DVSA[W]KDLF		ok
+Q6BV58	DDX24/MAK5	Debaryomyces hansenii (strain ATCC 36239 / CBS 767 / BCRC 21394 / JCM 1990 / NBRC 0083 / IGC 2968) (Yeast) (Torulaspora hansenii)	Fungi	Ascomycota	Pichiomycetes	Serinales	W	201.0	25.0	226.0	NLPY[W]DDLS		ok
+Q6CTN7	DDX24/MAK5	Kluyveromyces lactis (strain ATCC 8585 / CBS 2359 / DSM 70799 / NBRC 1267 / NRRL Y-1140 / WM37) (Yeast) (Candida sphaerica)	Fungi	Ascomycota	Saccharomycetes	Saccharomycetales	W	220.0	26.0	246.0	VLPE[W]SENM		ok
+A0A835NZH5	DDX24/MAK5	Lamprotornis superbus	Metazoa	Chordata	Aves	Passeriformes	W	196.0	25.0	221.0	DVSA[W]KDLF		ok
+A0ABR2P6T2	DDX24/MAK5	Hibiscus sabdariffa (roselle)	Viridiplantae	Streptophyta	Magnoliopsida	Malvales	W	184.0	25.0	209.0	EFYE[W]NELR		fail:HTTPError
+A0AAD7TH54	DDX24/MAK5	Trametes cubensis	Fungi	Basidiomycota	Agaricomycetes	Polyporales	W	132.0	25.0	157.0	LLPS[W]DTFH		ok
+S2JU68	DDX24/MAK5	Mucor circinelloides f. circinelloides (strain 1006PhL) (Mucormycosis agent) (Calyptromyces circinelloides)	Fungi	Mucoromycota	Mucoromycetes	Mucorales	W	273.0	25.0	298.0	DVSA[W]KDLN		ok
+A0A3Q2ZA12	DDX24/MAK5	Hippocampus comes (Tiger tail seahorse)	Metazoa	Chordata	Actinopteri	Syngnathiformes	W	222.0	25.0	247.0	DMRA[W]KGLF		ok
+A0ABD1F8E6	DDX24/MAK5	Hypothenemus hampei (Coffee berry borer)	Metazoa	Arthropoda	Insecta	Coleoptera	W	100.0	25.0	125.0	SMKS[W]HEYG		ok
+A0A433D0K2	DDX24/MAK5	Jimgerdemannia flammicorona	Fungi	Mucoromycota	Endogonomycetes	Endogonales	W	308.0	25.0	333.0	DVSA[W]DSFN		ok
+R4XP02	DDX24/MAK5	Taphrina deformans (strain PYCC 5710 / ATCC 11124 / CBS 356.35 / IMI 108563 / JCM 9778 / NBRC 8474) (Peach leaf curl fungus) (Lalaria deformans)	Fungi	Ascomycota	Taphrinomycetes	Taphrinales	W	166.0	25.0	191.0	SSSA[W]QNLG		ok
+A0AAV5GG77	DDX24/MAK5	Rhodotorula paludigena	Fungi	Basidiomycota	Microbotryomycetes	Sporidiobolales	W	219.0	25.0	244.0	VAPG[W]AHIP		ok
+A0A9W9CYH9	DDX24/MAK5	Gnomoniopsis smithogilvyi	Fungi	Ascomycota	Sordariomycetes	Diaporthales	W	184.0	25.0	209.0	DMSA[W]MPLD		ok
+A0AAD9UXU5	DDX24/MAK5	Acropora cervicornis (Staghorn coral)	Metazoa	Cnidaria	Anthozoa	Scleractinia	W	177.0	25.0	202.0	AMVA[W]ESLG		ok
+A0A152AA77	DDX24/MAK5	Tieghemostelium lacteum (Slime mold) (Dictyostelium lacteum)		Evosea	Eumycetozoa	Dictyosteliales	W	259.0	25.0	284.0	DMSA[W]KDFN		ok
+A0A8C3SF55	DDX24/MAK5	Chelydra serpentina (Snapping turtle) (Testudo serpentina)	Metazoa	Chordata		Testudines	W	195.0	25.0	220.0	DVSA[W]KDLV		ok
+A0A139A9F3	DDX24/MAK5	Gonapodya prolifera (strain JEL478) (Monoblepharis prolifera)	Fungi	Monoblepharomycota	Monoblepharidomycetes	Monoblepharidales	W	193.0	25.0	218.0	DMSA[W]TPFS		ok
+A0A5B0M2U1	DDX24/MAK5	Puccinia graminis f. sp. tritici	Fungi	Basidiomycota	Pucciniomycetes	Pucciniales	W	236.0	25.0	261.0	LLPA[W]SDLK		ok
+A0A8C6VC11	DDX24/MAK5	Naja naja (Indian cobra)	Metazoa	Chordata	Lepidosauria	Squamata	W	189.0	25.0	214.0	DVSA[W]KSLF		ok
+M2SQB5	DDX24/MAK5	Cochliobolus sativus (strain ND90Pr / ATCC 201652) (Common root rot and spot blotch fungus) (Bipolaris sorokiniana)	Fungi	Ascomycota	Dothideomycetes	Pleosporales	W	254.0	25.0	279.0	DVSA[W]GKLD		ok
+A0A317XWY0	DDX24/MAK5	Testicularia cyperi	Fungi	Basidiomycota	Ustilaginomycetes	Ustilaginales	W	260.0	25.0	285.0	LLPA[W]SHIP		ok
+A0A9P6M9K3	DDX24/MAK5	Modicella reniformis	Fungi	Mortierellomycota	Mortierellomycetes	Mortierellales	W	277.0	25.0	302.0	DISA[W]KDFT		ok
+A0A427YUN0	DDX24/MAK5	Saitozyma podzolica	Fungi	Basidiomycota	Tremellomycetes	Tremellales	W	240.0	25.0	265.0	LLPE[W]KAIS		ok
+A0A3S3PGC6	DDX24/MAK5	Dinothrombium tinctorium	Metazoa	Arthropoda	Arachnida	Trombidiformes	W	79.0	25.0	104.0	ALSQ[W]TQFP		ok
+A0A8C5R2F8	DDX24/MAK5	Leptobrachium leishanense (Leishan spiny toad)	Metazoa	Chordata	Amphibia	Anura	W	193.0	25.0	218.0	DVSA[W]KNLC		ok
+V9EBC1	DDX24/MAK5	Phytophthora nicotianae P1569		Oomycota	Peronosporomycetes	Peronosporales	W	171.0	25.0	196.0	NLPK[W]NKFK		ok
+A0A0K0EJ76	DDX24/MAK5	Strongyloides stercoralis (Threadworm)	Metazoa	Nematoda	Chromadorea	Rhabditida	W	13.0	25.0	38.0	VTSS[W]ENLN		ok
+A0ABP0FD79	DDX24/MAK5	Clavelina lepadiformis (Light-bulb sea squirt) (Ascidia lepadiformis)	Metazoa	Chordata	Ascidiacea	Aplousobranchia	W	151.0	25.0	176.0	DMSH[W]DNLF		fail:HTTPError
+A0A0D1Z8F9	DDX24/MAK5	Exophiala mesophila (Black yeast-like fungus)	Fungi	Ascomycota	Eurotiomycetes	Chaetothyriales	W	176.0	25.0	201.0	DVSA[W]NDLD		ok
+A0ACF8YP33	DDX24/MAK5	Mnemiopsis leidyi (Sea walnut) (Warty comb jellyfish)	Metazoa	Ctenophora	Tentaculata	Lobata	W	297.0	25.0	322.0	NGKA[W]LNLD		fail:HTTPError
+A0ABM0TAW9	DDX55/SPB4	Camelina sativa (False flax) (Myagrum sativum)	Viridiplantae	Streptophyta	Magnoliopsida	Brassicales	F	16.0	27.0	43.0	TETR[F]SDLE		fail:HTTPError
+A0A087UXC2	DDX55/SPB4	Stegodyphus mimosarum (African social velvet spider)	Metazoa	Arthropoda	Arachnida	Araneae	F	6.0	25.0	31.0	EVQS[F]GDLD		ok
+A0A1Z5KBD8	DDX55/SPB4	Fistulifera solaris (Oleaginous diatom)		Bacillariophyta	Bacillariophyceae	Naviculales	F	23.0	25.0	48.0	ADDS[F]QRLP		ok
+A0A1Y1II54	DDX55/SPB4	Klebsormidium nitens (Green alga) (Ulothrix nitens)	Viridiplantae	Streptophyta	Klebsormidiophyceae	Klebsormidiales	F	14.0	27.0	41.0	TSTR[F]SDLK		ok
+A0A8S1J4W7	DDX55/SPB4	Ostreobium quekettii	Viridiplantae	Chlorophyta	Ulvophyceae	Bryopsidales	F	114.0	26.0	140.0	TSVR[F]ADLG		ok
+A0A075AYG9	DDX55/SPB4	Rozella allomycis (strain CSF55)	Fungi	Rozellomycota			F	9.0	25.0	34.0	TAES[F]DTID		ok
+A0A137P9W5	DDX55/SPB4	Conidiobolus coronatus (strain ATCC 28846 / CBS 209.66 / NRRL 28638) (Delacroixia coronata)	Fungi	Entomophthoromycota	Entomophthoromycetes	Entomophthorales	F	28.0	26.0	54.0	HLHR[F]HTLN		ok
+A0A9P4HPM4	DDX55/SPB4	Setomelanomma holmii	Fungi	Ascomycota	Dothideomycetes	Pleosporales	F	11.0	27.0	38.0	VDRA[F]SALT		ok
+G0RYG4	DDX55/SPB4	Thermochaetoides thermophila (strain DSM 1495 / CBS 144.50 / DAOM 24625 / IMI 039719) (Chaetomium thermophilum)	Fungi	Ascomycota	Sordariomycetes	Sordariales	F	18.0	24.0	42.0	SWTA[F]NPPL		ok
+A0AAV0AQY8	DDX55/SPB4	Phakopsora pachyrhizi (Asian soybean rust disease fungus)	Fungi	Basidiomycota	Pucciniomycetes	Pucciniales	F	10.0	27.0	37.0	LPRL[F]SELE		ok
+Q6ZPL9	DDX55/SPB4	Mus musculus (Mouse)	Metazoa	Chordata	Mammalia	Rodentia	W	9.0	27.0	36.0	TEGA[W]ESLQ		ok
+Q9VHU1	DDX55/SPB4	Drosophila melanogaster (Fruit fly)	Metazoa	Arthropoda	Insecta	Diptera	W	6.0	28.0	34.0	SRKK[W]SSLD		ok
+Q6FKS8	DDX55/SPB4	Candida glabrata (strain ATCC 2001 / BCRC 20586 / JCM 3761 / NBRC 0622 / NRRL Y-65 / CBS 138) (Yeast) (Nakaseomyces glabratus)	Fungi	Ascomycota	Saccharomycetes	Saccharomycetales	W	7.0	27.0	34.0	KSLE[W]ADLD		ok
+A5E2I8	DDX55/SPB4	Lodderomyces elongisporus (strain ATCC 11503 / CBS 2605 / JCM 1781 / NBRC 1676 / NRRL YB-4239) (Yeast) (Saccharomyces elongisporus)	Fungi	Ascomycota	Pichiomycetes	Serinales	W	10.0	27.0	37.0	GSLL[W]ENLR		ok
+Q8JHJ2	DDX55/SPB4	Danio rerio (Zebrafish) (Brachydanio rerio)	Metazoa	Chordata	Actinopteri	Cypriniformes	W	9.0	27.0	36.0	TDGK[W]GSLP		ok
+Q5ZLN8	DDX55/SPB4	Gallus gallus (Chicken)	Metazoa	Chordata	Aves	Galliformes	W	9.0	27.0	36.0	TEGG[W]SSLP		ok
+Q2GV49	DDX55/SPB4	Chaetomium globosum (strain ATCC 6205 / CBS 148.51 / DSM 1962 / NBRC 6347 / NRRL 1970) (Soil fungus)	Fungi	Ascomycota	Sordariomycetes	Sordariales	W	15.0	27.0	42.0	TPRS[W]GALT		ok
+A6RMZ2	DDX55/SPB4	Botrytis cinerea (strain B05.10) (Noble rot fungus) (Botryotinia fuckeliana)	Fungi	Ascomycota	Leotiomycetes	Helotiales	W	14.0	27.0	41.0	DPRA[W]DALT		ok
+A0A9P6M018	DDX55/SPB4	Modicella reniformis	Fungi	Mortierellomycota	Mortierellomycetes	Mortierellales	W	490.0	27.0	517.0	PAGS[W]GSLE		ok
+A0A674JZ70	DDX55/SPB4	Terrapene triunguis (Three-toed box turtle)	Metazoa	Chordata		Testudines	W	9.0	27.0	36.0	TEGR[W]ESLP		ok
+A0AAD6NHR8	DDX55/SPB4	Drechslerella dactyloides (Nematode-trapping fungus) (Arthrobotrys dactyloides)	Fungi	Ascomycota	Orbiliomycetes	Orbiliales	W	24.0	26.0	50.0	DKQL[W]TSLT		ok
+A0ACM8DNZ7	DDX55/SPB4	Ixodes scapularis (Black-legged tick) (Deer tick)	Metazoa	Arthropoda	Arachnida	Ixodida	W	9.0	25.0	34.0	VNSS[W]RSLK		fail:HTTPError
+A0A6A6B6X2	DDX55/SPB4	Aplosporella prunicola CBS 121167	Fungi	Ascomycota	Dothideomycetes	Botryosphaeriales	W	11.0	27.0	38.0	NPRA[W]ENLT		ok
+A0ACE1TJ50	DDX55/SPB4	Xanthoria parietina	Fungi	Ascomycota	Lecanoromycetes	Teloschistales	W	11.0	27.0	38.0	SSRA[W]EGLT		fail:HTTPError
+A0A4S4L7A7	DDX55/SPB4	Phellinidium pouzarii	Fungi	Basidiomycota	Agaricomycetes	Hymenochaetales	W	11.0	27.0	38.0	VAGL[W]TSLP		ok
+A0A9Q1CCN9	DDX55/SPB4	Holothuria leucospilota (Black long sea cucumber) (Mertensiothuria leucospilota)	Metazoa	Echinodermata	Holothuroidea	Aspidochirotida	W	5.0	27.0	32.0	MEGK[W]SSLQ		ok
+A0A5N6KXQ8	DDX55/SPB4	Carpinus fangiana	Viridiplantae	Streptophyta	Magnoliopsida	Fagales	W	22.0	27.0	49.0	DSRA[W]EALS		ok
+A0A1X7V302	DDX55/SPB4	Amphimedon queenslandica (Sponge)	Metazoa	Porifera	Demospongiae	Haplosclerida	W	5.0	27.0	32.0	MAST[W]EEIN		ok
+A0A5C3EAT9	DDX55/SPB4	Ustilago trichophora	Fungi	Basidiomycota	Ustilaginomycetes	Ustilaginales	W	31.0	27.0	58.0	YAGR[W]TKLN		ok
+A0A167EIP6	DDX55/SPB4	Sugiyamaella lignohabitans	Fungi	Ascomycota	Dipodascomycetes	Dipodascales	W	12.0	27.0	39.0	SSRK[W]VDLD		ok
+A0A3N4KWE1	DDX55/SPB4	Morchella conica CCBAS932	Fungi	Ascomycota	Pezizomycetes	Pezizales	W	48.0	27.0	75.0	AKQS[W]QSLK		ok
+A0A8H7SVI6	DDX55/SPB4	Thamnidium elegans	Fungi	Mucoromycota	Mucoromycetes	Mucorales	W	11.0	27.0	38.0	PAGS[W]HSLE		ok
+A0A813EGY0	DDX55/SPB4	Polarella glacialis (Dinoflagellate)			Dinophyceae	Suessiales	W	7.0	25.0	32.0	ATRD[W]SNLQ		ok
+A0A9J7M0L5	DDX55/SPB4	Branchiostoma floridae (Florida lancelet) (Amphioxus)	Metazoa	Chordata	Leptocardii	Amphioxiformes	W	5.0	27.0	32.0	MENT[W]SDLK		ok
+A0AAD9P0Y8	DDX55/SPB4	Ridgeia piscesae (Tubeworm)	Metazoa	Annelida	Polychaeta	Sabellida	W	5.0	27.0	32.0	MDQS[W]SSLK		ok
+A0A0R3U6Q6	DDX55/SPB4	Mesocestoides corti (Flatworm)	Metazoa	Platyhelminthes	Cestoda	Cyclophyllidea	W	9.0	25.0	34.0	MAKQ[W]KDLQ		ok
+E9GFC7	DDX55/SPB4	Daphnia pulex (Water flea)	Metazoa	Arthropoda	Branchiopoda	Diplostraca	W	5.0	27.0	32.0	MKTE[W]NELG		ok
+C5FD77	DDX55/SPB4	Arthroderma otae (strain ATCC MYA-4605 / CBS 113480) (Microsporum canis)	Fungi	Ascomycota	Eurotiomycetes	Onygenales	W	14.0	27.0	41.0	NPRA[W]EALT		ok
+A0ACC2TUS2	DDX55/SPB4	Entomophthora muscae	Fungi	Entomophthoromycota	Entomophthoromycetes	Entomophthorales	W	12.0	27.0	39.0	YAGR[W]ENLE		fail:HTTPError
+A0A0L0HQH4	DDX55/SPB4	Spizellomyces punctatus (strain DAOM BR117)	Fungi	Chytridiomycota	Chytridiomycetes	Spizellomycetales	W	10.0	27.0	37.0	NAGR[W]DALN		ok
+Q6BP45	DDX52/ROK1	Debaryomyces hansenii (strain ATCC 36239 / CBS 767 / BCRC 21394 / JCM 1990 / NBRC 0083 / IGC 2968) (Yeast) (Torulaspora hansenii)	Fungi	Ascomycota	Pichiomycetes	Serinales	Y	119.0	22.0	141.0	LIGR[Y]KLDK		ok
+Q99PT0	DDX52/ROK1	Rattus norvegicus (Rat)	Metazoa	Chordata	Mammalia	Rodentia	Y	171.0	22.0	193.0	LDQE[Y]KISP		ok
+Q6CDS6	DDX52/ROK1	Yarrowia lipolytica (strain CLIB 122 / E 150) (Yeast) (Candida lipolytica)	Fungi	Ascomycota	Dipodascomycetes	Dipodascales	F	116.0	22.0	138.0	LITR[F]NLHP		ok
+Q6FN65	DDX52/ROK1	Candida glabrata (strain ATCC 2001 / BCRC 20586 / JCM 3761 / NBRC 0622 / NRRL Y-65 / CBS 138) (Yeast) (Nakaseomyces glabratus)	Fungi	Ascomycota	Saccharomycetes	Saccharomycetales	F	129.0	22.0	151.0	LISR[F]SLDK		ok
+A0A9P6KJ21	DDX52/ROK1	Lunasporangiospora selenospora	Fungi	Mortierellomycota	Mortierellomycetes	Mortierellales	Y	156.0	22.0	178.0	LAKQ[Y]QLEP		ok
+A0AA97M8R9	DDX52/ROK1	Menura novaehollandiae (superb lyrebird)	Metazoa	Chordata	Aves	Passeriformes	Y	63.0	22.0	85.0	LQKE[Y]KVHP		ok
+A0AAV4JX12	DDX52/ROK1	Elysia marginata	Metazoa	Mollusca	Gastropoda		Y	88.0	22.0	110.0	LLAR[Y]KVQP		ok
+A0A6P9E9D1	DDX52/ROK1	Juglans regia (English walnut)	Viridiplantae	Streptophyta	Magnoliopsida	Fagales	Y	142.0	22.0	164.0	LSSR[Y]GCEP		ok
+A0AAJ0BV15	DDX52/ROK1	Phialemonium atrogriseum	Fungi	Ascomycota	Sordariomycetes	Cephalothecales	Y	173.0	22.0	195.0	LQQV[Y]GISP		ok
+A0A4W6D983	DDX52/ROK1	Lates calcarifer (Barramundi) (Holocentrus calcarifer)	Metazoa	Chordata	Actinopteri		Y	126.0	22.0	148.0	LQSE[Y]RLNP		ok
+A0A9Q0MCE7	DDX52/ROK1	Blomia tropicalis (Mite)	Metazoa	Arthropoda	Arachnida	Sarcoptiformes	F	95.0	25.0	120.0	PIEL[F]DDLN		ok
+A0A835CUS8	DDX52/ROK1	Aphidius gifuensis (Parasitoid wasp)	Metazoa	Arthropoda	Insecta	Hymenoptera	Y	150.0	22.0	172.0	LSES[Y]NVSN		ok
+A0ACF7TWC3	DDX52/ROK1	Micractinium tetrahymenae	Viridiplantae	Chlorophyta	Trebouxiophyceae	Chlorellales	F	147.0	29.0	176.0	PLRS[F]AELE		fail:HTTPError
+A0A401S2K6	DDX52/ROK1	Chiloscyllium punctatum (Brownbanded bambooshark) (Hemiscyllium punctatum)	Metazoa	Chordata	Chondrichthyes	Orectolobiformes	Y	213.0	22.0	235.0	LLQE[Y]NVHP		ok
+A0ABP0IBP1	DDX52/ROK1	Durusdinium trenchii			Dinophyceae	Suessiales	F	24.0	28.0	52.0	PVAS[F]DAMP		fail:HTTPError
+A0A7I4XXK3	DDX52/ROK1	Haemonchus contortus (Barber pole worm)	Metazoa	Nematoda	Chromadorea	Rhabditida	F	137.0	25.0	162.0	PFID[F]SDLN		ok
+A0A8J0PXS7	DDX52/ROK1	Xenopus laevis (African clawed frog)	Metazoa	Chordata	Amphibia	Anura	Y	176.0	22.0	198.0	LEQE[Y]KILS		fail:HTTPError
+A0A397TD01	DDX52/ROK1	Glomus cerebriforme	Fungi	Glomeromycota	Glomeromycetes	Glomerales	Y	29.0	22.0	51.0	LESK[Y]DFQP		ok
+A0A8C6Y855	DDX52/ROK1	Naja naja (Indian cobra)	Metazoa	Chordata	Lepidosauria	Squamata	Y	131.0	22.0	153.0	LGRE[Y]KIHS		ok
+A0AAD4HVZ7	DDX52/ROK1	Suillus fuscotomentosus	Fungi	Basidiomycota	Agaricomycetes	Boletales	Y	133.0	22.0	155.0	LRER[Y]NVPP		ok
+A0ABR2WZF7	DDX52/ROK1	Basidiobolus ranarum	Fungi	Basidiobolomycota	Basidiobolomycetes	Basidiobolales	F	118.0	25.0	143.0	FPDL[F]KQHG		fail:HTTPError
+A0AA85JHC2	DDX52/ROK1	Trichobilharzia regenti (Nasal bird schistosome)	Metazoa	Platyhelminthes	Trematoda	Strigeidida	F	58.0	27.0	85.0	PIYS[F]QNKN		ok
+A0A8B6BMW8	DDX52/ROK1	Mytilus galloprovincialis (Mediterranean mussel)	Metazoa	Mollusca	Bivalvia	Mytilida	Y	152.0	22.0	174.0	LVTN[Y]KMSD		ok
+A0AAD9NVH1	DDX52/ROK1	Ridgeia piscesae (Tubeworm)	Metazoa	Annelida	Polychaeta	Sabellida	Y	145.0	22.0	167.0	LQES[Y]SIHP		ok
+U6KRP5	DDX52/ROK1	Eimeria tenella (Coccidian parasite)		Apicomplexa	Conoidasida	Eucoccidiorida	-	129.0	25.0	154.0	NTPP[E]APRK		ok
+A7TK55	eIF4A	Vanderwaltozyma polyspora (strain ATCC 22028 / DSM 70294 / BCRC 21397 / CBS 2163 / NBRC 10782 / NRRL Y-8283 / UCD 57-17) (Kluyveromyces polysporus)	Fungi	Ascomycota	Saccharomycetes	Saccharomycetales	F	25.0	25.0	50.0	VVYK[F]DDMN		ok
+Q4E162	eIF4A	Trypanosoma cruzi (strain CL Brener)		Euglenozoa	Kinetoplastea	Trypanosomatida	F	28.0	25.0	53.0	PIPS[F]DDMP		ok
+Q5U526	eIF4A	Xenopus laevis (African clawed frog)	Metazoa	Chordata	Amphibia	Anura	F	44.0	25.0	69.0	VTPT[F]DTMG		ok
+Q41741	eIF4A	Zea mays (Maize)	Viridiplantae	Streptophyta	Magnoliopsida	Poales	F	39.0	25.0	64.0	VCES[F]DSMG		ok
+Q5RKI1	eIF4A	Rattus norvegicus (Rat)	Metazoa	Chordata	Mammalia	Rodentia	F	35.0	25.0	60.0	IVDN[F]DDMN		ok
+Q7ZVA6	eIF4A	Danio rerio (Zebrafish) (Brachydanio rerio)	Metazoa	Chordata	Actinopteri	Cypriniformes	F	35.0	25.0	60.0	VTPT[F]DTMG		ok
+A6RJ45	eIF4A	Botrytis cinerea (strain B05.10) (Noble rot fungus) (Botryotinia fuckeliana)	Fungi	Ascomycota	Leotiomycetes	Helotiales	F	27.0	25.0	52.0	TVDS[F]DTMN		ok
+Q6BRN4	eIF4A	Debaryomyces hansenii (strain ATCC 36239 / CBS 767 / BCRC 21394 / JCM 1990 / NBRC 0083 / IGC 2968) (Yeast) (Torulaspora hansenii)	Fungi	Ascomycota	Pichiomycetes	Serinales	F	25.0	25.0	50.0	VVYT[F]DDLN		ok
+Q8JFP1	eIF4A	Gallus gallus (Chicken)	Metazoa	Chordata	Aves	Galliformes	F	35.0	25.0	60.0	IVDN[F]DDMN		ok
+Q2HFP1	eIF4A	Chaetomium globosum (strain ATCC 6205 / CBS 148.51 / DSM 1962 / NBRC 6347 / NRRL 1970) (Soil fungus)	Fungi	Ascomycota	Sordariomycetes	Sordariales	F	26.0	25.0	51.0	TVDS[F]DDMN		ok
+Q4P331	eIF4A	Mycosarcoma maydis (Corn smut fungus) (Ustilago maydis)	Fungi	Basidiomycota	Ustilaginomycetes	Ustilaginales	F	40.0	25.0	65.0	VIDN[F]DNME		ok
+Q02748	eIF4A	Drosophila melanogaster (Fruit fly)	Metazoa	Arthropoda	Insecta	Diptera	F	32.0	25.0	57.0	VYDN[F]DDMN		ok
+Q6BU54	DDX3/DED1	Debaryomyces hansenii (strain ATCC 36239 / CBS 767 / BCRC 21394 / JCM 1990 / NBRC 0083 / IGC 2968) (Yeast) (Torulaspora hansenii)	Fungi	Ascomycota	Pichiomycetes	Serinales	F	158.0	25.0	183.0	PITA[F]TAPP		ok
+Q9VHP0	DDX3/DED1	Drosophila melanogaster (Fruit fly)	Metazoa	Arthropoda	Insecta	Diptera	F	297.0	25.0	322.0	NITS[F]DDVQ		ok
+Q6CLR3	DDX3/DED1	Kluyveromyces lactis (strain ATCC 8585 / CBS 2359 / DSM 70799 / NBRC 1267 / NRRL Y-1140 / WM37) (Yeast) (Candida sphaerica)	Fungi	Ascomycota	Saccharomycetes	Saccharomycetales	F	161.0	25.0	186.0	PISE[F]HSPP		ok
+P16381	DDX3/DED1	Mus musculus (Mouse)	Metazoa	Chordata	Mammalia	Rodentia	F	181.0	25.0	206.0	HIES[F]SDVE		ok
+P24346	DDX3/DED1	Xenopus laevis (African clawed frog)	Metazoa	Chordata	Amphibia	Anura	F	223.0	25.0	248.0	HIES[F]HDVT		ok
+Q4P733	DDX3/DED1	Mycosarcoma maydis (Corn smut fungus) (Ustilago maydis)	Fungi	Basidiomycota	Ustilaginomycetes	Ustilaginales	F	191.0	25.0	216.0	PVTT[F]TSPP		ok
+Q2HBE7	DDX3/DED1	Chaetomium globosum (strain ATCC 6205 / CBS 148.51 / DSM 1962 / NBRC 6347 / NRRL 1970) (Soil fungus)	Fungi	Ascomycota	Sordariomycetes	Sordariales	F	200.0	25.0	225.0	PVLT[F]SNPP		ok
+Q6CB69	DDX3/DED1	Yarrowia lipolytica (strain CLIB 122 / E 150) (Yeast) (Candida lipolytica)	Fungi	Ascomycota	Dipodascomycetes	Dipodascales	F	162.0	25.0	187.0	PINA[F]TSPP		ok
+A6SEH9	DDX3/DED1	Botrytis cinerea (strain B05.10) (Noble rot fungus) (Botryotinia fuckeliana)	Fungi	Ascomycota	Leotiomycetes	Helotiales	F	188.0	25.0	213.0	PVLK[F]TNPP		ok
+A0ABU7DR63	DDX3/DED1	Characodon lateralis	Metazoa	Chordata	Actinopteri	Cyprinodontiformes	F	198.0	25.0	223.0	HIES[F]HDVD		fail:HTTPError
+A0A139AKW9	DDX3/DED1	Gonapodya prolifera (strain JEL478) (Monoblepharis prolifera)	Fungi	Monoblepharomycota	Monoblepharidomycetes	Monoblepharidales	F	165.0	25.0	190.0	PIAT[F]DDSG		ok
+A0A7K7C6P0	DDX3/DED1	Aphelocoma coerulescens (Florida scrub-jay) (Corvus coerulescens)	Metazoa	Chordata	Aves	Passeriformes	F	122.0	25.0	147.0	HIES[F]SDVD		ok
+Q2GQ93	DDX6/DHH1	Chaetomium globosum (strain ATCC 6205 / CBS 148.51 / DSM 1962 / NBRC 6347 / NRRL 1970) (Soil fungus)	Fungi	Ascomycota	Sordariomycetes	Sordariales	F	13.0	25.0	38.0	KGLD[F]EDFG		ok
+Q9WTM2	DDX6/DHH1	Cavia porcellus (Guinea pig)	Metazoa	Chordata	Mammalia	Rodentia	F	87.0	25.0	112.0	KGNE[F]EDYC		ok
+A5DIP0	DDX6/DHH1	Meyerozyma guilliermondii (strain ATCC 6260 / CBS 566 / DSM 6381 / JCM 1539 / NBRC 10279 / NRRL Y-324) (Yeast) (Candida guilliermondii)	Fungi	Ascomycota	Pichiomycetes	Serinales	F	31.0	25.0	56.0	QGKS[F]EEFG		ok
+P54824	DDX6/DHH1	Xenopus laevis (African clawed frog)	Metazoa	Chordata	Amphibia	Anura	F	97.0	25.0	122.0	KGNE[F]EDYC		ok
+A7TGU7	DDX6/DHH1	Vanderwaltozyma polyspora (strain ATCC 22028 / DSM 70294 / BCRC 21397 / CBS 2163 / NBRC 10782 / NRRL Y-8283 / UCD 57-17) (Kluyveromyces polysporus)	Fungi	Ascomycota	Saccharomycetes	Saccharomycetales	F	36.0	25.0	61.0	KGNT[F]EDFY		ok
+A6RY31	DDX6/DHH1	Botrytis cinerea (strain B05.10) (Noble rot fungus) (Botryotinia fuckeliana)	Fungi	Ascomycota	Leotiomycetes	Helotiales	F	49.0	25.0	74.0	KGLE[F]EDFS		ok
+Q6C0X2	DDX6/DHH1	Yarrowia lipolytica (strain CLIB 122 / E 150) (Yeast) (Candida lipolytica)	Fungi	Ascomycota	Dipodascomycetes	Dipodascales	F	30.0	25.0	55.0	KGTG[F]EDFF		ok
+Q5ZKB9	DDX6/DHH1	Gallus gallus (Chicken)	Metazoa	Chordata	Aves	Galliformes	F	98.0	25.0	123.0	KGNE[F]EDYC		ok
+P23128	DDX6/DHH1	Drosophila melanogaster (Fruit fly)	Metazoa	Arthropoda	Insecta	Diptera	F	60.0	25.0	85.0	RGNE[F]EEFC		ok
+A0A669F5B7	DDX6/DHH1	Oreochromis niloticus (Nile tilapia) (Tilapia nilotica)	Metazoa	Chordata	Actinopteri	Cichliformes	F	95.0	25.0	120.0	KGNE[F]EDYC		ok
+V5EPR1	DDX6/DHH1	Kalmanozyma brasiliensis (strain GHG001) (Yeast) (Pseudozyma brasiliensis)	Fungi	Basidiomycota	Ustilaginomycetes	Ustilaginales	F	42.0	25.0	67.0	KGNE[F]EDYF		ok
+C5WWE0	DDX6/DHH1	Sorghum bicolor (Sorghum) (Sorghum vulgare)	Viridiplantae	Streptophyta	Magnoliopsida	Poales	F	135.0	25.0	160.0	KGNE[F]EDYF		ok
+Q6FLF3	DDX5/DBP2	Candida glabrata (strain ATCC 2001 / BCRC 20586 / JCM 3761 / NBRC 0622 / NRRL Y-65 / CBS 138) (Yeast) (Nakaseomyces glabratus)	Fungi	Ascomycota	Saccharomycetes	Saccharomycetales	F	112.0	25.0	137.0	PITT[F]DEAG		ok
+P19109	DDX5/DBP2	Drosophila melanogaster (Fruit fly)	Metazoa	Arthropoda	Insecta	Diptera	F	283.0	25.0	308.0	PIQD[F]SEVH		ok
+Q4R6M5	DDX5/DBP2	Macaca fascicularis (Crab-eating macaque) (Cynomolgus monkey)	Metazoa	Chordata	Mammalia	Primates	F	96.0	25.0	121.0	PVLN[F]YEAN		ok
+A6SFW7	DDX5/DBP2	Botrytis cinerea (strain B05.10) (Noble rot fungus) (Botryotinia fuckeliana)	Fungi	Ascomycota	Leotiomycetes	Helotiales	F	153.0	25.0	178.0	PVET[F]DEAG		ok
+Q4PHU9	DDX5/DBP2	Mycosarcoma maydis (Corn smut fungus) (Ustilago maydis)	Fungi	Basidiomycota	Ustilaginomycetes	Ustilaginales	F	132.0	25.0	157.0	PVTS[F]DEAG		ok
+Q2H720	DDX5/DBP2	Chaetomium globosum (strain ATCC 6205 / CBS 148.51 / DSM 1962 / NBRC 6347 / NRRL 1970) (Soil fungus)	Fungi	Ascomycota	Sordariomycetes	Sordariales	F	138.0	25.0	163.0	PVET[F]DEAG		ok
+Q6C4D4	DDX5/DBP2	Yarrowia lipolytica (strain CLIB 122 / E 150) (Yeast) (Candida lipolytica)	Fungi	Ascomycota	Dipodascomycetes	Dipodascales	F	118.0	25.0	143.0	PVTN[F]DEAG		ok
+A5DS77	DDX5/DBP2	Lodderomyces elongisporus (strain ATCC 11503 / CBS 2605 / JCM 1781 / NBRC 1676 / NRRL YB-4239) (Yeast) (Saccharomyces elongisporus)	Fungi	Ascomycota	Pichiomycetes	Serinales	F	118.0	25.0	143.0	PITS[F]DEAG		ok
+V7BPD2	DDX5/DBP2	Phaseolus vulgaris (Kidney bean) (French bean)	Viridiplantae	Streptophyta	Magnoliopsida	Fabales	F	128.0	25.0	153.0	PIES[F]TDMC		ok
+A0A830HL14	DDX5/DBP2	Pycnococcus provasolii	Viridiplantae	Chlorophyta	Pseudoscourfieldiophyceae	Pseudoscourfieldiales	F	307.0	25.0	332.0	PVEG[F]EDMA		ok
+A0A4W5JR18	DDX5/DBP2	Hucho hucho (huchen)	Metazoa	Chordata	Actinopteri	Salmoniformes	F	97.0	25.0	122.0	PVSS[F]SQAH		ok
+A0AAW0G734	DDX5/DBP2	Cerrena zonata	Fungi	Basidiomycota	Agaricomycetes	Polyporales	F	102.0	25.0	127.0	PVSS[F]DEIG		ok
+A6RW56	DDX47/RRP3	Botrytis cinerea (strain B05.10) (Noble rot fungus) (Botryotinia fuckeliana)	Fungi	Ascomycota	Leotiomycetes	Helotiales	F	62.0	25.0	87.0	APKS[F]KDLG		ok
+Q6FNK8	DDX47/RRP3	Candida glabrata (strain ATCC 2001 / BCRC 20586 / JCM 3761 / NBRC 0622 / NRRL Y-65 / CBS 138) (Yeast) (Nakaseomyces glabratus)	Fungi	Ascomycota	Saccharomycetes	Saccharomycetales	F	75.0	25.0	100.0	TFES[F]AQLN		ok
+Q6CH58	DDX47/RRP3	Yarrowia lipolytica (strain CLIB 122 / E 150) (Yeast) (Candida lipolytica)	Fungi	Ascomycota	Dipodascomycetes	Dipodascales	F	66.0	25.0	91.0	QTKT[F]KDLG		ok
+Q29S22	DDX47/RRP3	Bos taurus (Bovine)	Metazoa	Chordata	Mammalia	Artiodactyla	F	28.0	25.0	53.0	ETKT[F]KDLG		ok
+Q6BQ61	DDX47/RRP3	Debaryomyces hansenii (strain ATCC 36239 / CBS 767 / BCRC 21394 / JCM 1990 / NBRC 0083 / IGC 2968) (Yeast) (Torulaspora hansenii)	Fungi	Ascomycota	Pichiomycetes	Serinales	F	67.0	25.0	92.0	KFKS[F]NELK		ok
+Q2H1Q8	DDX47/RRP3	Chaetomium globosum (strain ATCC 6205 / CBS 148.51 / DSM 1962 / NBRC 6347 / NRRL 1970) (Soil fungus)	Fungi	Ascomycota	Sordariomycetes	Sordariales	F	67.0	25.0	92.0	APKT[F]QDLG		ok
+Q4P3U9	DDX47/RRP3	Mycosarcoma maydis (Corn smut fungus) (Ustilago maydis)	Fungi	Basidiomycota	Ustilaginomycetes	Ustilaginales	F	116.0	25.0	141.0	KKVE[F]SDLG		ok
+A0AAR2KFR3	DDX47/RRP3	Pygocentrus nattereri (Red-bellied piranha)	Metazoa	Chordata	Actinopteri	Characiformes	F	34.0	25.0	59.0	GNTS[F]KELG		ok
+A0AAD8ED72	DDX47/RRP3	Diploptera punctata (Pacific beetle cockroach)	Metazoa	Arthropoda	Insecta	Blattodea	F	41.0	25.0	66.0	KELT[F]KELG		ok
+A0AAN9J5H4	DDX47/RRP3	Clitoria ternatea (Butterfly pea)	Viridiplantae	Streptophyta	Magnoliopsida	Fabales	F	206.0	25.0	231.0	EKKT[F]KDLG		ok
+A0A507R4J4	DDX47/RRP3	Monascus purpureus (Red mold) (Monascus anka)	Fungi	Ascomycota	Eurotiomycetes	Eurotiales	F	52.0	25.0	77.0	YPKT[F]KELG		ok
+K5XD07	DDX47/RRP3	Agaricus bisporus var. burnettii (strain JB137-S8 / ATCC MYA-4627 / FGSC 10392) (White button mushroom)	Fungi	Basidiomycota	Agaricomycetes	Agaricales	F	9.0	25.0	34.0	EAKS[F]SDLG		ok
+Q9VIF6	DDX47/RRP3	Drosophila melanogaster (Fruit fly)	Metazoa	Arthropoda	Insecta	Diptera	W	63.0	25.0	88.0	QKLT[W]KDLG		ok
+A0A0L0DL57	DDX47/RRP3	Thecamonas trahens ATCC 50062				Apusomonadida	W	28.0	25.0	53.0	EAAS[W]ASVG		ok
+A0AAD7UKJ7	DDX47/RRP3	Chrysophaeum taylorii			Pelagophyceae	Pelagomonadales	W	8.0	25.0	33.0	DNNT[W]EALG		ok
+A0AAW1QK57	DDX47/RRP3	Apatococcus lobatus	Viridiplantae	Chlorophyta	Trebouxiophyceae	Chlorellales	W	129.0	25.0	154.0	SLAD[W]REYG		ok
+A0A830HUI7	DDX47/RRP3	Pycnococcus provasolii	Viridiplantae	Chlorophyta	Pseudoscourfieldiophyceae	Pseudoscourfieldiales	W	7.0	26.0	33.0	SSSA[W]SELG		ok
+A0ABD3MUP0	DDX47/RRP3	Discostella pseudostelligera		Bacillariophyta	Coscinodiscophyceae	Stephanodiscales	W	202.0	22.0	224.0	SEKH[W]NLPP		ok
+E4X3D3	DDX47/RRP3	Oikopleura dioica (Tunicate)	Metazoa	Chordata	Appendicularia	Copelata	W	26.0	25.0	51.0	GLEA[W]QSLG		ok
+A0ACF8YBF4	DDX47/RRP3	Mnemiopsis leidyi (Sea walnut) (Warty comb jellyfish)	Metazoa	Ctenophora	Tentaculata	Lobata	W	220.0	25.0	245.0	AYHE[W]SQMG		fail:HTTPError
+A5DZT7	DDX54/DBP10	Lodderomyces elongisporus (strain ATCC 11503 / CBS 2605 / JCM 1781 / NBRC 1676 / NRRL YB-4239) (Yeast) (Saccharomyces elongisporus)	Fungi	Ascomycota	Pichiomycetes	Serinales	F	123.0	25.0	148.0	KAGS[F]ASFG		ok
+Q2H0R2	DDX54/DBP10	Chaetomium globosum (strain ATCC 6205 / CBS 148.51 / DSM 1962 / NBRC 6347 / NRRL 1970) (Soil fungus)	Fungi	Ascomycota	Sordariomycetes	Sordariales	F	88.0	25.0	113.0	KSGG[F]QAMG		ok
+A7TGW7	DDX54/DBP10	Vanderwaltozyma polyspora (strain ATCC 22028 / DSM 70294 / BCRC 21397 / CBS 2163 / NBRC 10782 / NRRL Y-8283 / UCD 57-17) (Kluyveromyces polysporus)	Fungi	Ascomycota	Saccharomycetes	Saccharomycetales	F	123.0	25.0	148.0	KKGS[F]PSFG		ok
+Q8TDD1	DDX54/DBP10	Homo sapiens (Human)	Metazoa	Chordata	Mammalia	Primates	F	98.0	25.0	123.0	KSGG[F]QSMG		ok
+Q4P3W3	DDX54/DBP10	Mycosarcoma maydis (Corn smut fungus) (Ustilago maydis)	Fungi	Basidiomycota	Ustilaginomycetes	Ustilaginales	F	146.0	25.0	171.0	GGGS[F]QSMG		ok
+Q6C7X8	DDX54/DBP10	Yarrowia lipolytica (strain CLIB 122 / E 150) (Yeast) (Candida lipolytica)	Fungi	Ascomycota	Dipodascomycetes	Dipodascales	F	104.0	25.0	129.0	SSGS[F]AGLG		ok
+A0A8H5GU38	DDX54/DBP10	Tetrapyrgos nigripes	Fungi	Basidiomycota	Agaricomycetes	Agaricales	F	94.0	25.0	119.0	GGGS[F]QSMG		ok
+A0A5J9T3S5	DDX54/DBP10	Eragrostis curvula (weeping love grass)	Viridiplantae	Streptophyta	Magnoliopsida	Poales	F	115.0	25.0	140.0	KSGG[F]ESMG		ok
+A0A9W8CA74	DDX54/DBP10	Triplophysa rosa (Cave loach)	Metazoa	Chordata	Actinopteri	Cypriniformes	F	75.0	25.0	100.0	KSGG[F]QSMG		ok
+A0A0C9R8M7	DDX54/DBP10	Fopius arisanus	Metazoa	Arthropoda	Insecta	Hymenoptera	F	45.0	25.0	70.0	KSGG[F]QGMG		ok
+A0A1Y2FBM7	DDX54/DBP10	Protomyces lactucae-debilis	Fungi	Ascomycota	Taphrinomycetes	Taphrinales	F	69.0	25.0	94.0	AGSA[F]QTMG		ok
+A0A0L0SNR2	DDX54/DBP10	Allomyces macrogynus (strain ATCC 38327) (Allomyces javanicus var. macrogynus)	Fungi	Blastocladiomycota	Blastocladiomycetes	Blastocladiales	F	25.0	25.0	50.0	KSGG[F]QSMG		ok
+A0A1B9H2W7	DDX54/DBP10	Kwoniella heveanensis BCC8398	Fungi	Basidiomycota	Tremellomycetes	Tremellales	W	31.0	25.0	56.0	AGSQ[W]QALN		ok
+A0A2A2JSB2	DDX54/DBP10	Diploscapter pachys	Metazoa	Nematoda	Chromadorea	Rhabditida	W	26.0	25.0	51.0	KAGG[W]QNMG		ok
+A0A0D2MMB3	DDX54/DBP10	Monoraphidium neglectum	Viridiplantae	Chlorophyta	Chlorophyceae	Sphaeropleales	W	216.0	25.0	241.0	SASS[W]RDLG		ok
+F0YDY9	DDX54/DBP10	Aureococcus anophagefferens (Harmful bloom alga)			Pelagophyceae	Pelagomonadales	W	19.0	26.0	45.0	LQPT[W]QSLN		ok
+A0A9P4R9Y5	DDX54/DBP10	Polyplosphaeria fusca	Fungi	Ascomycota	Dothideomycetes	Pleosporales	W	73.0	25.0	98.0	KGGG[W]QNMG		ok
+A0A8K0JPI7	DDX54/DBP10	Filobasidium floriforme	Fungi	Basidiomycota	Tremellomycetes	Filobasidiales	W	125.0	25.0	150.0	GGGS[W]QSMG		ok
+A0A4Q1BVQ8	DDX54/DBP10	Tremella mesenterica (Jelly fungus)	Fungi	Basidiomycota	Tremellomycetes	Tremellales	W	36.0	25.0	61.0	KDSQ[W]QRLG		ok
+A0A7E4VM66	DDX54/DBP10	Panagrellus redivivus (Microworm)	Metazoa	Nematoda	Chromadorea	Rhabditida	W	32.0	25.0	57.0	RAGG[W]QNLG		ok
+P21372	DDX46/PRP5											yeast Prp5	ok
+Q7L014	DDX46/PRP5											human DDX46	ok
+P23394	DDX23/PRP28											yeast Prp28	ok
+P38112	DDX24/MAK5											yeast Mak5	ok
+Q9GZR7	DDX24/MAK5											human DDX24	ok
+P25808	DDX55/SPB4											yeast Spb4	ok
+Q8NHQ9	DDX55/SPB4											human DDX55	ok
+P45818	DDX52/ROK1											yeast Rok1	ok
+Q9Y2R4	DDX52/ROK1											human DDX52	ok
+P10081	eIF4A											yeast eIF4A	ok
+P60842	eIF4A											human eIF4A1	ok
+O00571	DDX3/DED1											human DDX3X	ok
+P26196	DDX6/DHH1											human DDX6	ok

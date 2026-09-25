@@ -1,0 +1,11 @@
+dataset	site	genes	observed	expected	ratio	p_depleted	p_enriched
+gnomAD v4 missense variants	UA	37	34	41.2	0.82	0.15	0.89
+gnomAD v4 missense variants	UA+1	37	58	41.2	1.41	0.99	0.0079
+gnomAD v4 missense variants	Q-stacker	37	22	41.2	0.53	0.00077	1.0
+gnomAD v4 missense variants	Q-4	37	32	41.2	0.78	0.083	0.94
+gnomAD v4 missense variants	Q	37	42	41.2	1.02	0.59	0.47
+cancer missense patients (tumours)	UA	37	11	17.5	0.63	0.069	0.96
+cancer missense patients (tumours)	UA+1	37	18	17.5	1.03	0.61	0.48
+cancer missense patients (tumours)	Q-stacker	37	16	17.5	0.92	0.42	0.67
+cancer missense patients (tumours)	Q-4	37	16	17.5	0.92	0.42	0.67
+cancer missense patients (tumours)	Q	37	7	17.5	0.4	0.004	1.0

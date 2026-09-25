@@ -1,0 +1,11 @@
+family	n_proteins	with_stacker	with_q	F	W	Y	H	med_stacker_to_q	med_stacker_to_walkerK	min_stacker_to_walkerK	max_stacker_to_walkerK	ua_evaluable	with_ua	ua_W	ua_F	ua_Y	ua_H	med_ua_to_walkerK
+?	1	0	0	0	0	0	0					0	0	0	0	0	0	
+DEAD	32	25	30	16	2	8	0	7.0	30.0	26.0	82.0	32	29	4	25	0	0	48.0
+DEAH	17	0	0	2	0	0	0					12	0	0	0	0	0	39.0
+RLR/Dicer	7	0	6	1	0	0	0	6.0	29.0	29.0	29.0	0	0	0	0	0	0	
+Rad3/XPD	1	0	0	0	0	0	0					1	1	0	0	1	0	45.0
+RecQ	7	4	7	1	0	2	1	7.0	30.5	30.0	32.0	6	0	0	0	0	0	44.0
+SWI2/SNF2	20	1	4	0	0	0	1		30.0	30.0	30.0	17	0	0	0	0	0	45.0
+Ski2-like	11	7	9	6	1	1	0	6.0	29.0	27.0	31.0	11	0	0	0	0	0	46.0
+other	12	5	5	4	0	2	0	6.0	35.0	26.0	35.0	9	0	0	0	0	0	49.0
+viral	1	0	0	0	0	0	0					0	0	0	0	0	0	

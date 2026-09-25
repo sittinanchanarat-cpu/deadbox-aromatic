@@ -1,0 +1,36 @@
+DDX46/PRP5: 6 seqs; monophyletic=True; support=99
+DDX23/PRP28: 6 seqs; monophyletic=True; support=100
+DDX24/MAK5: 6 seqs; monophyletic=True; support=100
+DDX55/SPB4: 6 seqs; monophyletic=False; support=100
+
+Smallest clade with all Trp-subfamily sequences: 133 tips, support=83
+bacterial_unassigned    7
+DDX5_DBP2               6
+DDX46_PRP5              6
+DDX42                   6
+DDX3_DED1               6
+DDX4_VASA               6
+DDX41                   6
+DDX23_PRP28             6
+DDX59                   6
+DDX52_ROK1              6
+DDX1                    6
+DDX56_DBP9              6
+DDX18_HAS1              6
+DDX10_DBP4              6
+DDX55_SPB4              6
+DDX31_DBP7              6
+DDX24_MAK5              6
+DDX47_RRP3              6
+DDX49_DBP8              6
+DDX27_DRS1              6
+DDX54_DBP10             6
+DDX21_DDX50             2
+bacterial_RhlB          1
+bacterial_SrmB          1
+bacterial_RhlE          1
+DDX48_FAL1              1
+sister of DDX46/PRP5: DDX42 (parent support=99)
+sister of DDX23/PRP28: DDX41, DDX4_VASA (parent support=95)
+sister of DDX24/MAK5: DDX10_DBP4, DDX18_HAS1, DDX21_DDX50, DDX31_DBP7, DDX3_DED1, DDX48_FAL1, DDX4_VASA, DDX55_SPB4, DDX56_DBP9 (parent support=64)
+sister of DDX55/SPB4: DDX10_DBP4, DDX18_HAS1, DDX21_DDX50, DDX31_DBP7, DDX3_DED1, DDX48_FAL1, DDX4_VASA, DDX56_DBP9 (parent support=71)

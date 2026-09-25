@@ -1,0 +1,110 @@
+family	key	protein	n_sites	frac_stacked	frac_q	stacker_aa	stacker_to_q	stacker_to_walkerK	q_to_walkerK	ua_informative	ua_inserted	ua_aa	ua_to_walkerK	ua_bfactor_z	loop_missing	ua_evaluable	has_ua
+?			15	0.0	0.0					0	0					False	False
+DEAD	G0RYG4	ATP-dependent RNA helicase	2	1.0	1.0	TYR	7.0	30.0	23.0	2	2	W	50.0	-1.4500000000000002	9.0	True	True
+DEAD	G0SBQ7	RNA helicase	1	1.0	1.0	TYR	7.0			1	1	W	48.0	-0.54	0.0	True	True
+DEAD	O00571	ATP-dependent RNA helicase DDX3X	9	1.0	1.0	TYR	7.0	30.0	23.0	9	9	F	48.0	-0.22	0.0	True	True
+DEAD	O01378	RNA helicase	2	1.0	1.0	TYR	7.0	30.0	23.0	2	2	F	48.0	0.495	0.0	True	True
+DEAD	P09052	ATP-dependent RNA helicase vasa	4	1.0	1.0	TYR	7.0	30.0	23.0	4	4	F	48.0	0.52	0.0	True	True
+DEAD	P0A9P6	ATP-dependent RNA helicase DeaD	1	1.0	1.0	TYR	7.0			1	1	F	48.0	-0.5	10.0	True	True
+DEAD	P10081	ATP-dependent RNA helicase eIF4A	4	0.75	1.0	PHE	7.0			4	4	F	48.0	-0.28500000000000003	0.0	True	True
+DEAD	P15424	ATP-dependent RNA helicase MSS116, mitochondrial	8	1.0	1.0	PHE	7.0	32.0	25.0	8	0		38.0	0.2	0.0	True	False
+DEAD	P17844	Probable ATP-dependent RNA helicase DDX5	2	1.0	1.0	PHE	7.0	30.0	23.0	2	2	F	48.0	-0.034999999999999996	0.0	True	True
+DEAD	P20449	ATP-dependent RNA helicase DBP5	4	1.0	1.0	PHE	7.0	32.0	25.0	3	3	F	48.0	-0.29	9.0	True	True
+DEAD	P21372	Pre-mRNA-processing ATP-dependent RNA helicase PRP5	1	1.0	1.0	PHE	7.0	30.0	23.0	1	1	W	49.0	-0.74	0.0	True	True
+DEAD	P21693	ATP-dependent RNA helicase DbpA	12	0.3333333333333333	1.0	TYR	7.0	30.0	23.0	12	12	F	49.0	-0.545	8.0	True	True
+DEAD	P23394	Pre-mRNA-splicing ATP-dependent RNA helicase PRP28	1	1.0	0.0	PHE	7.0	82.0	75.0	1	1	W	50.0	-0.85	0.0	True	True
+DEAD	P24783	ATP-dependent RNA helicase DBP2	6	0.6666666666666666	0.8333333333333334	PHE	7.0	30.0	23.0	6	6	F	48.0	-0.325	0.0	True	True
+DEAD	P38919	Eukaryotic initiation factor 4A-III	17	1.0	1.0	PHE	7.0	30.0	23.0	17	17	F	48.0	-0.975	0.0	True	True
+DEAD	P60842	Eukaryotic initiation factor 4A-I	6	1.0	1.0	PHE	7.0	30.0	23.0	6	6	F	48.0	-0.22	7.0	True	True
+DEAD	P60843	Eukaryotic initiation factor 4A-I	1	1.0	1.0	PHE	7.0	30.0	23.0	1	1	F	48.0	1.19	7.0	True	True
+DEAD	Q07478	ATP-dependent RNA helicase SUB2	3	1.0	0.6666666666666666	PHE	7.0	30.0	23.0	3	3	F	48.0	0.57	10.0	True	True
+DEAD	Q12389	ATP-dependent RNA helicase DBP10	1	1.0	0.0	PHE		30.0		1	0		48.0	2.32	10.0	True	False
+DEAD	Q13206	Probable ATP-dependent RNA helicase DDX10	1	0.0	1.0				23.0	1	1	F	48.0	-0.83	0.0	True	True
+DEAD	Q13838	Spliceosome RNA helicase DDX39B	8	0.75	0.875	PHE	7.0	30.0	23.0	8	7	F	48.0	-0.885	6.0	True	True
+DEAD	Q4QHU1	DEAD/DEAH box helicase-like protein	1	0.0	1.0				23.0	1	1	F	48.0	0.37	0.0	True	True
+DEAD	Q86TM3	Probable ATP-dependent RNA helicase DDX53	2	0.0	1.0					2	2	F	49.0	0.22	0.0	True	True
+DEAD	Q8TDD1	ATP-dependent RNA helicase DDX54	4	1.0	1.0	TYR	7.0	30.0	23.0	4	4	F	48.0	0.5700000000000001	10.0	True	True
+DEAD	Q92499	ATP-dependent RNA helicase DDX1	1	1.0	1.0	TRP	7.0	30.0	23.0	1	1	F	48.0	-0.41	8.0	True	True
+DEAD	Q92841	Probable ATP-dependent RNA helicase DDX17	5	1.0	1.0	PHE	7.0	30.0	23.0	5	5	F	48.0	-0.53	0.0	True	True
+DEAD	Q9H0S4	Probable ATP-dependent RNA helicase DDX47	1	1.0	1.0	TRP	7.0			1	1	F	48.0	-0.41	0.0	True	True
+DEAD	Q9NR30	Nucleolar RNA helicase 2	9	1.0	0.8888888888888888	PHE	3.0	26.0	23.0	9	0		48.0	0.175	12.0	True	False
+DEAD	Q9NUL7	Probable ATP-dependent RNA helicase DDX28	1	0.0	1.0				23.0	1	1	F	50.0	0.67	8.0	True	True
+DEAD	Q9UHI6	Probable ATP-dependent RNA helicase DDX20	4	0.0	1.0				23.0	4	4	F	48.0	2.1399999999999997	10.0	True	True
+DEAD	Q9UMR2	ATP-dependent RNA helicase DDX19B	14	0.9285714285714286	1.0	PHE	7.0	32.0	25.0	14	14	F	48.0	-0.47	0.0	True	True
+DEAD	Q9Y2R4	Probable ATP-dependent RNA helicase DDX52	1	0.0	1.0				23.0	1	1	F	52.0	0.04	0.0	True	True
+DEAH	A0A8I3RTG4	ATP-dependent RNA helicase A	1	0.0	0.0					1	0		41.0	1.02	0.0	True	False
+DEAH	G0RY84	RNA helicase	6	0.0	0.0					6	0		39.0	-0.845	0.0	True	False
+DEAH	G0S0F9	Pre-mRNA-splicing factor ATP-dependent RNA helicase PRP16	1	0.0	0.0					0	0				23.0	False	False
+DEAH	G0SEG4	RNA helicase	10	0.0	0.0					5	0		57.0	0.19	8.0	True	False
+DEAH	O43143	ATP-dependent RNA helicase DHX15	3	0.0	0.0					3	0		39.0	-0.18	4.0	True	False
+DEAH	P08515	Glutathione S-transferase class-mu 26 kDa isozyme	1	0.0	0.0					0	0				21.0	False	False
+DEAH	P20095	Pre-mRNA-splicing factor ATP-dependent RNA helicase-like protein PRP2	1	0.0	0.0					0	0				18.0	False	False
+DEAH	P24785	Dosage compensation regulator mle	7	0.0	0.0					7	0		39.0	0.08	0.0	True	False
+DEAH	P37024	ATP-dependent RNA helicase HrpB	1	0.0	0.0					0	0				23.0	False	False
+DEAH	P43329	ATP-dependent RNA helicase HrpA	4	0.0	0.0					4	0		59.0	-0.4	0.0	True	False
+DEAH	P53131	Pre-mRNA-splicing factor ATP-dependent RNA helicase PRP43	7	0.0	0.0					7	0		39.0	0.15	0.0	True	False
+DEAH	Q04217	Probable ATP-dependent RNA helicase DHR1	6	0.0	0.0	PHE				3	0		45.0	2.0	13.0	True	False
+DEAH	Q05B79	ATP-dependent DNA/RNA helicase DHX36	2	0.0	0.0					2	0		39.0	-0.27	0.0	True	False
+DEAH	Q08211	ATP-dependent RNA helicase A	10	0.0	0.0					10	0		41.0	0.7749999999999999	0.0	True	False
+DEAH	Q14562	ATP-dependent RNA helicase DHX8	44	0.0	0.0	PHE				0	0				22.0	False	False
+DEAH	Q4E5Z1	ATP-dependent DEAD/H RNA helicase	1	0.0	0.0					1	0		39.0		0.0	True	False
+DEAH	Q8VHK9	ATP-dependent DNA/RNA helicase DHX36	2	0.0	0.0					2	0		39.0	0.42	0.0	True	False
+RLR/Dicer	A1ZAW0	Endoribonuclease Dcr-2	6	0.0	1.0				22.0	0	0				23.0	False	False
+RLR/Dicer	G5EDI8	RNA helicase	2	0.0	1.0				23.0	0	0				23.0	False	False
+RLR/Dicer	O95786	Antiviral innate immune response receptor RIG-I	10	0.4	0.6	PHE	6.0	29.0	23.0	0	0				23.0	False	False
+RLR/Dicer	Q6Q899	Antiviral innate immune response receptor RIG-I	1	0.0	1.0				23.0	0	0				23.0	False	False
+RLR/Dicer	Q8R5F7	Interferon-induced helicase C domain-containing protein 1	13	0.0	0.38461538461538464				23.0	0	0				23.0	False	False
+RLR/Dicer	Q96C10	ATP-dependent RNA helicase DHX58	1	0.0	1.0				23.0	0	0				23.0	False	False
+RLR/Dicer	Q9BYX4	Interferon-induced helicase C domain-containing protein 1	14	0.0	0.8571428571428571				23.0	0	0				23.0	False	False
+Rad3/XPD	P27296	ATP-dependent DNA helicase DinG	2	0.0	0.0				29.0	2	2	Y	45.0	-0.30999999999999994	1.5	True	True
+RecQ	A0AAA9S5G9	ATP-dependent DNA helicase	1	0.0	1.0				23.0	1	0		44.0	0.24	3.0	True	False
+RecQ	O94762	ATP-dependent DNA helicase Q5	12	0.8333333333333334	0.9166666666666666	PHE	8.0	32.0	24.0	0	0				14.0	False	False
+RecQ	P15043	ATP-dependent DNA helicase RecQ	1	1.0	1.0	TYR	7.0	30.0	23.0	1	0				8.0	True	False
+RecQ	P46063	ATP-dependent DNA helicase Q1	6	0.0	1.0				23.0	6	0		44.0	-0.275	3.0	True	False
+RecQ	P54132	RecQ-like DNA helicase BLM	11	0.0	1.0				23.0	11	0		44.0	-0.33	4.0	True	False
+RecQ	Q14191	Bifunctional 3'-5' exonuclease/ATP-dependent helicase WRN	18	0.9444444444444444	0.9444444444444444	HIS	7.0	31.0	24.0	11	0		47.0	0.58	13.0	True	False
+RecQ	Q9RUU2	DNA helicase RecQ	2	1.0	1.0	TYR	7.0	30.0	23.0	2	0		40.5	0.46499999999999997	14.5	True	False
+SWI2/SNF2	O14646	ATP-dependent chromatin remodeler CHD1	1	0.0	0.0				27.0	1	0		40.0	-0.28	0.0	True	False
+SWI2/SNF2	O60264	SWI/SNF-related matrix-associated actin-dependent regulator of chromatin subfamily A member 5	10	0.0	0.0				27.0	6	0		43.0	0.91	15.0	True	False
+SWI2/SNF2	P22082	SWI/SNF chromatin-remodeling complex subunit SNF2	7	0.0	0.14285714285714285				27.0	7	0		49.0	1.14	5.0	True	False
+SWI2/SNF2	P32597	Nuclear protein STH1/NPS1	1	0.0	1.0					1	0		45.0	0.47	9.0	True	False
+SWI2/SNF2	P32657	ATP-dependent chromatin remodeler CHD1	6	0.0	0.0				27.0	6	0		46.0	-0.12	0.0	True	False
+SWI2/SNF2	P38144	ISWI chromatin-remodeling complex ATPase ISW1	16	0.0	0.0				27.0	16	0		42.0	0.69	15.0	True	False
+SWI2/SNF2	P46100	Chromatin remodeler ATRX	1	0.0	0.0				36.0	1	0		47.0	-0.52	0.0	True	False
+SWI2/SNF2	P51531	SWI/SNF-related matrix-associated actin-dependent regulator of chromatin subfamily A member 2	2	0.0	0.0				27.0	2	0		49.0	2.17	11.0	True	False
+SWI2/SNF2	P51532	SWI/SNF-related matrix-associated actin-dependent regulator of chromatin subfamily A member 4	4	0.0	0.25				27.0	4	0		49.0	0.77	7.0	True	False
+SWI2/SNF2	P60240	RNA polymerase-associated protein RapA	3	0.0	1.0				25.0	3	0		41.0	1.46	0.0	True	False
+SWI2/SNF2	Q05471	Chromatin remodeling protein SWR1	7	0.0	0.14285714285714285				27.0	1	0				15.0	True	False
+SWI2/SNF2	Q14839	ATP-dependent chromatin remodeler CHD4	3	0.6666666666666666	0.0	HIS		30.0	27.0	3	0		39.0	-0.05	8.0	True	False
+SWI2/SNF2	Q6ZRS2	Chromatin remodeling protein SRCAP	15	0.0	0.0				27.0	0	0				15.0	False	False
+SWI2/SNF2	Q86WJ1	ATP-dependent chromatin remodeler CHD1L	2	0.0	0.0				27.0	2	0		38.0	-0.27	5.5	True	False
+SWI2/SNF2	Q96L91	E1A-binding protein p400	1	0.0	0.0					1	0		41.0	0.56	0.0	True	False
+SWI2/SNF2	Q9H4L7	SWI/SNF-related matrix-associated actin-dependent regulator of chromatin subfamily A containing DEAD/H box 1	1	0.0	0.0				27.0	1	0		45.0	0.73	0.0	True	False
+SWI2/SNF2	Q9HBD4	SWI/SNF related BAF chromatin remodeling complex subunit ATPase 4	2	0.0	1.0					2	0		49.0	1.3	10.0	True	False
+SWI2/SNF2	Q9NRZ9	Lymphoid-specific helicase	1	0.0	0.0					1	0				6.0	True	False
+SWI2/SNF2	Q9ULG1	Chromatin-remodeling ATPase INO80	4	0.0	0.0				27.0	0	0				23.0	False	False
+SWI2/SNF2	Q9XFH4	Chromatin remodeling protein DDM1	5	0.0	1.0					0	0				23.0	False	False
+Ski2-like	A0QT91	Lhr helicase/ probable uracil glycosylase	1	0.0	1.0				23.0	1	0		42.0	-0.25	12.0	True	False
+Ski2-like	G0S0B9	RNA helicase	4	0.25	1.0	TRP	7.0	31.0	24.0	4	0		47.0	0.265	0.0	True	False
+Ski2-like	O73946	ATP-dependent DNA helicase Hel308	2	1.0	1.0	TYR	3.0	27.0	24.0	2	0				10.0	True	False
+Ski2-like	O75417	DNA polymerase theta	4	0.5	1.0	PHE	3.0	28.0	25.0	4	0		45.0	1.97	8.5	True	False
+Ski2-like	O75643	U5 small nuclear ribonucleoprotein 200 kDa helicase	12	0.5	0.9166666666666666	PHE	7.0	31.0	24.0	12	0		38.5	0.47	0.0	True	False
+Ski2-like	P32639	Pre-mRNA-splicing helicase BRR2	1	1.0	1.0	PHE	7.0	31.0	24.0	1	0		58.0	1.58	0.0	True	False
+Ski2-like	P35207	Antiviral helicase SKI2	2	1.0	1.0	PHE	6.0	29.0	23.0	2	0		44.5	0.7150000000000001	6.0	True	False
+Ski2-like	P42285	Exosome RNA helicase MTR4	8	0.625	0.5	PHE	6.0	29.0	23.0	6	0		55.0	-0.74	0.0	True	False
+Ski2-like	P47047	ATP-dependent RNA helicase DOB1	2	1.0	1.0	PHE	6.0			2	0		60.0	1.095	0.0	True	False
+Ski2-like	Q1K502	Circadian oscillator component FRH	1	0.0	0.0					1	0		59.0	-0.47	0.0	True	False
+Ski2-like	Q8IYB8	ATP-dependent RNA helicase SUPV3L1, mitochondrial	4	0.0	0.0					4	0		43.0	0.38	0.0	True	False
+other	A0R3C5	Transcription-repair-coupling factor	2	1.0	0.0	PHE		35.0		2	0		48.0	1.5	0.0	True	False
+other	A7ZI07	Zorya protein ZorD	1	0.0	1.0					0	0				19.0	False	False
+other	O29238	Reverse gyrase	2	0.0	1.0					2	0		38.0	-0.515	5.5	True	False
+other	O51934	Reverse gyrase	1	0.0	1.0				23.0	1	0		39.0	0.63	13.0	True	False
+other	P19447	General transcription and DNA repair factor IIH helicase/translocase subunit XPB	4	0.0	0.0				26.0	4	0		49.0	0.88	0.0	True	False
+other	P24230	ATP-dependent DNA helicase RecG	5	1.0	0.0	PHE	6.0	35.0	29.0	5	0		50.0	-1.25	0.0	True	False
+other	P30958	Transcription-repair-coupling factor	7	0.42857142857142855	0.0	PHE	6.0	35.0	29.0	7	0		41.0	-0.42	0.0	True	False
+other	P33919	DNA repair protein RadD	6	0.0	0.0				28.0	0	0				23.0	False	False
+other	P37954	UvrABC system protein B	3	1.0	0.3333333333333333	TYR	6.0	34.0	28.0	0	0				23.0	False	False
+other	P50830	Mitomycin repair factor A	2	0.5	0.5	TYR	3.0	26.0	23.0	2	0		59.0	-0.675	0.0	True	False
+other	Q00578	General transcription and DNA repair factor IIH helicase/translocase subunit XPB/SSL2	7	0.0	0.0				26.0	7	0		49.0	0.48	0.0	True	False
+other	Q9WY48	ATP-dependent DNA helicase RecG	1	1.0	1.0	PHE	6.0			1	0		60.0	0.33	0.0	True	False
+viral	Q32ZE1	Genome polyprotein	2	0.0	0.0					0	0				23.0	False	False

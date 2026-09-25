@@ -1,0 +1,15 @@
+# large or re-downloadable data (rebuild with run_all.sh)
+stage0/data/cif/
+stage0/data/partner_cif/
+stage0/data/loop_cif/
+stage1/data/*.tsv.gz
+stage1/work/
+stage2/data/af/
+stage3/work/
+stage4/data/gnomad/
+stage4/data/cbio_mutations.tsv.gz
+__pycache__/
+*.log
+# large regenerable tables (stage1/run.sh)
+stage1/results/census_*.tsv
+figures/out/*.tiff

@@ -1,0 +1,179 @@
+pdb	chain	entity	protein	uniprot	organism	method	resolution	ua_aa	ua_seq	q_seq	loop_modelled	ua_auth	ua_ca_to_q_ca	ua_sidechain	ua_to_qaromatic	ua_state	ua_ring_to_N6	ua_partner	ua_self	loop_partner	loop_self	n_ua_partner_atoms	n_loop_partner_atoms
+2DB3	A	2DB3_2	ATP-dependent RNA helicase vasa	P09052	Drosophila melanogaster	X-RAY DIFFRACTION	2.2	F	58.0	83.0	12.0	PHE247	9.25	True	6.34	inserted	5.0					0.0	0.0
+2DB3	B	2DB3_2	ATP-dependent RNA helicase vasa	P09052	Drosophila melanogaster	X-RAY DIFFRACTION	2.2	F	58.0	83.0	12.0	PHE247	9.28	True	6.39	inserted	4.98					0.0	0.0
+2DB3	C	2DB3_2	ATP-dependent RNA helicase vasa	P09052	Drosophila melanogaster	X-RAY DIFFRACTION	2.2	F	58.0	83.0	12.0	PHE247	9.26	True	6.45	inserted	5.11					0.0	0.0
+2DB3	D	2DB3_2	ATP-dependent RNA helicase vasa	P09052	Drosophila melanogaster	X-RAY DIFFRACTION	2.2	F	58.0	83.0	12.0	PHE247	9.46	True	6.67	inserted	5.53					0.0	0.0
+2HYI	C	2HYI_4	Probable ATP-dependent RNA helicase DDX48	P38919	Homo sapiens	X-RAY DIFFRACTION	2.3	F	40.0	65.0	12.0	PHE40	9.01	True	6.46	inserted	5.1		Protein:Probable ATP-dependent RNA helicase DDX48(4)		Protein:Probable ATP-dependent RNA helicase DDX48(36)	0.0	0.0
+2HYI	I	2HYI_4	Probable ATP-dependent RNA helicase DDX48	P38919	Homo sapiens	X-RAY DIFFRACTION	2.3	F	40.0	65.0	12.0	PHE40	8.87	True	6.28	inserted	5.01		Protein:Probable ATP-dependent RNA helicase DDX48(6)		Protein:Probable ATP-dependent RNA helicase DDX48(38)	0.0	0.0
+2J0Q	A	2J0Q_1	ATP-DEPENDENT RNA HELICASE DDX48	P38919	HOMO SAPIENS	X-RAY DIFFRACTION	3.2	F	39.0	64.0	12.0	PHE40	8.71	True	6.47	inserted	5.07			Protein:RNA-BINDING PROTEIN 8A(38)	Protein:ATP-DEPENDENT RNA HELICASE DDX48(1)	0.0	38.0
+2J0Q	B	2J0Q_1	ATP-DEPENDENT RNA HELICASE DDX48	P38919	HOMO SAPIENS	X-RAY DIFFRACTION	3.2	F	39.0	64.0	12.0	PHE40	8.69	True	6.46	inserted	5.05			Protein:RNA-BINDING PROTEIN 8A(39)	Protein:ATP-DEPENDENT RNA HELICASE DDX48(1)	0.0	39.0
+2J0S	A	2J0S_1	ATP-DEPENDENT RNA HELICASE DDX48	P38919	HOMO SAPIENS	X-RAY DIFFRACTION	2.21	F	39.0	64.0	12.0	PHE40	8.68	True	6.34	inserted	5.05					0.0	0.0
+2J0U	A	2J0U_1	ATP-DEPENDENT RNA HELICASE DDX48	P38919	HOMO SAPIENS	X-RAY DIFFRACTION	3.0	F	3.0	28.0	6.0	PHE40	10.53	True	5.15	inserted						0.0	0.0
+2J0U	B	2J0U_2	ATP-DEPENDENT RNA HELICASE DDX48	P38919	HOMO SAPIENS	X-RAY DIFFRACTION	3.0	F	3.0	28.0	6.0	PHE40	10.54	True	5.13	inserted						0.0	0.0
+2VSO	A	2VSO_1	ATP-DEPENDENT RNA HELICASE EIF4A	P10081	SACCHAROMYCES CEREVISIAE	X-RAY DIFFRACTION	2.6	F	24.0	49.0	12.0	PHE24	9.16	True	6.7	inserted	5.1			Protein:EUKARYOTIC INITIATION FACTOR 4F SUBUNIT P1(14)		0.0	14.0
+2VSO	B	2VSO_1	ATP-DEPENDENT RNA HELICASE EIF4A	P10081	SACCHAROMYCES CEREVISIAE	X-RAY DIFFRACTION	2.6	F	24.0	49.0	12.0	PHE24	9.15	True	6.71	inserted	5.36			Protein:EUKARYOTIC INITIATION FACTOR 4F SUBUNIT P1(16)		0.0	16.0
+2VSX	A	2VSX_1	ATP-DEPENDENT RNA HELICASE EIF4A	P10081	SACCHAROMYCES CEREVISIAE	X-RAY DIFFRACTION	2.8	F	24.0	49.0	12.0	PHE24	8.99	True	7.02	inserted	5.28			Protein:EUKARYOTIC INITIATION FACTOR 4F SUBUNIT P1(18)		0.0	18.0
+2VSX	B	2VSX_1	ATP-DEPENDENT RNA HELICASE EIF4A	P10081	SACCHAROMYCES CEREVISIAE	X-RAY DIFFRACTION	2.8	F	24.0	49.0	12.0	PHE24	8.99	True	7.02	inserted	5.62			Protein:EUKARYOTIC INITIATION FACTOR 4F SUBUNIT P1(18)		0.0	18.0
+2XB2	A	2XB2_1	EUKARYOTIC INITIATION FACTOR 4A-III	P38919	HOMO SAPIENS	X-RAY DIFFRACTION	3.4	F	40.0	65.0	12.0	PHE40	8.83	True	6.26	inserted	4.92			Protein:RNA-BINDING PROTEIN 8A(38)		0.0	38.0
+2XB2	X	2XB2_1	EUKARYOTIC INITIATION FACTOR 4A-III	P38919	HOMO SAPIENS	X-RAY DIFFRACTION	3.4	F	40.0	65.0	12.0	PHE40	8.82	True	6.26	inserted	4.95			Protein:RNA-BINDING PROTEIN 8A(25)		0.0	25.0
+2ZU6	A	2ZU6_1	Eukaryotic initiation factor 4A-I	P60842	Homo sapiens	X-RAY DIFFRACTION	2.8	F	16.0	41.0	4.0					not_modelled							
+2ZU6	C	2ZU6_1	Eukaryotic initiation factor 4A-I	P60842	Homo sapiens	X-RAY DIFFRACTION	2.8	F	16.0	41.0	12.0	PHE34	11.95	True		ambiguous(bb)						0.0	0.0
+2ZU6	D	2ZU6_1	Eukaryotic initiation factor 4A-I	P60842	Homo sapiens	X-RAY DIFFRACTION	2.8	F	16.0	41.0	6.0					not_modelled							
+2ZU6	F	2ZU6_1	Eukaryotic initiation factor 4A-I	P60842	Homo sapiens	X-RAY DIFFRACTION	2.8	F	16.0	41.0	0.0					not_modelled							
+3EIQ	A	3EIQ_1	Eukaryotic initiation factor 4A-I	P60842	Homo sapiens	X-RAY DIFFRACTION	3.5	F	42.0	67.0	12.0	PHE34	8.61	True	6.22	inserted						0.0	0.0
+3EIQ	D	3EIQ_1	Eukaryotic initiation factor 4A-I	P60842	Homo sapiens	X-RAY DIFFRACTION	3.5	F	42.0	67.0	12.0	PHE34	8.75	True	6.16	inserted						0.0	0.0
+3EX7	C	3EX7_3	Eukaryotic initiation factor 4A-III	P38919	Homo sapiens	X-RAY DIFFRACTION	2.301	F	40.0	65.0	12.0	PHE40	8.9	True	6.32	inserted	4.92					0.0	0.0
+3EX7	H	3EX7_3	Eukaryotic initiation factor 4A-III	P38919	Homo sapiens	X-RAY DIFFRACTION	2.301	F	40.0	65.0	12.0	PHE40	8.87	True	6.34	inserted	4.92					0.0	0.0
+3FHC	B	3FHC_2	ATP-dependent RNA helicase DDX19B	Q9UMR2	Homo sapiens	X-RAY DIFFRACTION	2.8	F	27.0	52.0	12.0	PHE94	9.39	True	6.65	inserted						0.0	0.0
+3FHT	A	3FHT_1	ATP-dependent RNA helicase DDX19B	Q9UMR2	Homo sapiens	X-RAY DIFFRACTION	2.2	F	27.0	52.0	12.0	PHE94	9.31	True	6.64	inserted	5.06					0.0	0.0
+3FHT	B	3FHT_1	ATP-dependent RNA helicase DDX19B	Q9UMR2	Homo sapiens	X-RAY DIFFRACTION	2.2	F	27.0	52.0	12.0	PHE94	9.26	True	6.7	inserted	4.9				Protein:ATP-dependent RNA helicase DDX19B(9)	0.0	0.0
+3FMO	B	3FMO_2	ATP-dependent RNA helicase DDX19B	Q9UMR2	Homo sapiens	X-RAY DIFFRACTION	2.51	F	94.0	119.0	12.0	PHE94	9.66	True	6.39	inserted	5.05					0.0	0.0
+3FMP	B	3FMP_2	ATP-dependent RNA helicase DDX19B	Q9UMR2	Homo sapiens	X-RAY DIFFRACTION	3.19	F	94.0	119.0	12.0	PHE94	9.61	True	6.55	inserted	5.02					0.0	0.0
+3FMP	D	3FMP_2	ATP-dependent RNA helicase DDX19B	Q9UMR2	Homo sapiens	X-RAY DIFFRACTION	3.19	F	94.0	119.0	12.0	PHE94	9.62	True	6.54	inserted	5.07					0.0	0.0
+3G0H	A	3G0H_1	ATP-dependent RNA helicase DDX19B	Q9UMR2	Homo sapiens	X-RAY DIFFRACTION	2.7	F	43.0	68.0	12.0	PHE94	9.22	True	6.73	inserted	5.2					0.0	0.0
+3I5X	A	3I5X_1	ATP-dependent RNA helicase MSS116	P15424	Saccharomyces cerevisiae	X-RAY DIFFRACTION	1.9			99.0						no_UA							
+3I5Y	A	3I5Y_1	ATP-dependent RNA helicase MSS116	P15424	Saccharomyces cerevisiae	X-RAY DIFFRACTION	2.49			99.0						no_UA							
+3I61	A	3I61_1	ATP-dependent RNA helicase MSS116	P15424	Saccharomyces cerevisiae	X-RAY DIFFRACTION	2.1			99.0						no_UA							
+3I62	A	3I62_1	ATP-dependent RNA helicase MSS116	P15424	Saccharomyces cerevisiae	X-RAY DIFFRACTION	1.95			99.0						no_UA							
+3JCR	F	3JCR_6	hPrp28	Q9BUQ8	Homo sapiens	ELECTRON MICROSCOPY	7.0	W	393.0	418.0	12.0	TRP393	10.39	False		inserted(bb)						0.0	0.0
+3PEW	A	3PEW_1	ATP-dependent RNA helicase DBP5	P20449	Saccharomyces cerevisiae	X-RAY DIFFRACTION	1.501	F	7.0	32.0	7.0	PHE94	9.27	True	6.8	inserted	4.93					0.0	0.0
+3PEY	A	3PEY_1	ATP-dependent RNA helicase DBP5	P20449	Saccharomyces cerevisiae	X-RAY DIFFRACTION	1.401	F	7.0	32.0	7.0	PHE94	9.16	True	6.71	inserted	4.93					0.0	0.0
+3RRM	A	3RRM_1	ATP-dependent RNA helicase DBP5	P20449	Saccharomyces cerevisiae	X-RAY DIFFRACTION	2.9	F	7.0	32.0	0.0					not_modelled							
+3RRN	A	3RRN_1	ATP-dependent RNA helicase DBP5	P20449	Saccharomyces cerevisiae	X-RAY DIFFRACTION	4.001	F	7.0	32.0	10.0	PHE94	9.49	True	6.74	inserted	5.77			Protein:Nucleoporin GLE1(8)		0.0	8.0
+3SQW	A	3SQW_1	ATP-dependent RNA helicase MSS116, mitochondrial	P15424	Saccharomyces cerevisiae S288c	X-RAY DIFFRACTION	1.909			48.0						no_UA							
+3SQX	A	3SQX_1	ATP-dependent RNA helicase MSS116, mitochondrial	P15424	Saccharomyces cerevisiae S288c	X-RAY DIFFRACTION	2.112			48.0						no_UA							
+4BRU	A	4BRU_1	ATP-DEPENDENT RNA HELICASE DHH1	P39517	SACCHAROMYCES CEREVISIAE	X-RAY DIFFRACTION	3.245	F	3.0	28.0	6.0	PHE48	9.17	True	6.28	inserted						0.0	0.0
+4BRW	A	4BRW_1	ATP-DEPENDENT RNA HELICASE DHH1	P39517	SACCHAROMYCES CEREVISIAE	X-RAY DIFFRACTION	2.795	F	3.0	28.0	6.0	PHE48	9.21	True	6.64	inserted						0.0	0.0
+4C9B	A	4C9B_1	EUKARYOTIC INITIATION FACTOR 4A-III	P38919	HOMO SAPIENS	X-RAY DIFFRACTION	2.0	F	40.0	65.0	12.0	PHE40	8.9	True	5.77	inserted				Protein:PRE-MRNA-SPLICING FACTOR CWC22 HOMOLOG(3)		0.0	3.0
+4CT4	B	4CT4_2	PROBABLE ATP-DEPENDENT RNA HELICASE DDX6	P26196	HOMO SAPIENS	X-RAY DIFFRACTION	2.3	F	7.0	32.0	10.0	PHE98	9.43	True	7.05	inserted				Protein:CCR4-NOT TRANSCRIPTION COMPLEX SUBUNIT 1(9)		0.0	9.0
+4CT4	D	4CT4_2	PROBABLE ATP-DEPENDENT RNA HELICASE DDX6	P26196	HOMO SAPIENS	X-RAY DIFFRACTION	2.3	F	7.0	32.0	7.0	PHE98	9.4	True	6.93	inserted				Protein:CCR4-NOT TRANSCRIPTION COMPLEX SUBUNIT 1(5)		0.0	5.0
+4TYN	A	4TYN_2	ATP-dependent RNA helicase MSS116, mitochondrial	P15424	Saccharomyces cerevisiae	X-RAY DIFFRACTION	2.959			46.0						no_UA							
+4TYW	A	4TYW_1	ATP-dependent RNA helicase MSS116, mitochondrial	P15424	Saccharomyces cerevisiae	X-RAY DIFFRACTION	2.197			47.0						no_UA							
+4TYY	A	4TYY_2	ATP-dependent RNA helicase MSS116, mitochondrial	P15424	Saccharomyces cerevisiae	X-RAY DIFFRACTION	2.74			46.0						no_UA							
+4TZ0	A	4TZ0_1	ATP-dependent RNA helicase MSS116, mitochondrial	P15424	Saccharomyces cerevisiae	X-RAY DIFFRACTION	2.35			46.0						no_UA							
+4TZ6	A	4TZ6_1	ATP-dependent RNA helicase MSS116, mitochondrial	P15424	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	X-RAY DIFFRACTION	3.209			46.0						no_UA							
+5ANR	B	5ANR_2	PROBABLE ATP-DEPENDENT RNA HELICASE DDX6	P26196	HOMO SAPIENS	X-RAY DIFFRACTION	2.102	F	7.0	32.0	7.0	PHE98	9.31	True	6.74	inserted				Protein:CCR4-NOT TRANSCRIPTION COMPLEX SUBUNIT 1(6)		0.0	6.0
+5ELX	A	5ELX_1	ATP-dependent RNA helicase DBP5	P20449	Saccharomyces cerevisiae (strain YJM789)	X-RAY DIFFRACTION	1.81	F	4.0	29.0	7.0	PHE94	9.18	True	6.72	inserted						0.0	0.0
+5MQF	p	5MQF_30	Eukaryotic initiation factor 4A-III	P38919	Homo sapiens	ELECTRON MICROSCOPY	5.9	F	40.0	65.0	12.0	PHE40	8.68	False		inserted(bb)						0.0	0.0
+5XJC	u	5XJC_37	Eukaryotic initiation factor 4A-III	P38919	Homo sapiens	ELECTRON MICROSCOPY	3.6	F	40.0	65.0	12.0	PHE40	9.01	True	6.46	inserted	5.1					0.0	0.0
+5YZG	u	5YZG_29	Eukaryotic initiation factor 4A-III	P38919	Homo sapiens	ELECTRON MICROSCOPY	4.1	F	40.0	65.0	12.0	PHE40	9.01	True	6.46	inserted	5.1					0.0	0.0
+5ZC9	A	5ZC9_1	Eukaryotic initiation factor 4A-I	P60842	Homo sapiens	X-RAY DIFFRACTION	2.0	F	22.0	47.0	9.0	PHE34	9.04	True	6.52	inserted	5.14					0.0	0.0
+5ZWN	y	5ZWN_20	Pre-mRNA-splicing ATP-dependent RNA helicase PRP28	P23394	Saccharomyces cerevisiae S288c	ELECTRON MICROSCOPY	3.4	W	174.0	201.0	5.0	TRP174	9.63	False		inserted(bb)						0.0	0.0
+6AH0	X	6AH0_41	Probable ATP-dependent RNA helicase DDX23	Q9BUQ8	Homo sapiens	ELECTRON MICROSCOPY	5.7	W	393.0	418.0	12.0	TRP393	10.39	False		inserted(bb)						0.0	0.0
+6B4I	E	6B4I_3	ATP-dependent RNA helicase DDX19B	Q9UMR2	Homo sapiens	X-RAY DIFFRACTION	3.619	F	45.0	70.0	12.0	PHE94	9.69	True	6.99	inserted	5.04					0.0	0.0
+6B4I	F	6B4I_3	ATP-dependent RNA helicase DDX19B	Q9UMR2	Homo sapiens	X-RAY DIFFRACTION	3.619	F	45.0	70.0	12.0	PHE94	10.13	True	7.05	inserted	5.89					0.0	0.0
+6B4J	E	6B4J_3	ATP-dependent RNA helicase DDX19B	Q9UMR2	Homo sapiens	X-RAY DIFFRACTION	3.4	F	45.0	70.0	12.0	PHE94	9.69	True	6.93	inserted	5.19					0.0	0.0
+6B4J	F	6B4J_3	ATP-dependent RNA helicase DDX19B	Q9UMR2	Homo sapiens	X-RAY DIFFRACTION	3.4	F	45.0	70.0	12.0	PHE94	10.04	True	6.96	inserted	5.8					0.0	0.0
+6ICZ	u	6ICZ_3	Eukaryotic initiation factor 4A-III	P38919	Homo sapiens	ELECTRON MICROSCOPY	3.0	F	40.0	65.0	12.0	PHE40	9.01	False		inserted(bb)						0.0	0.0
+6L5N	A	6L5N_1	Nucleolar RNA helicase 2	Q9NR30	Homo sapiens	X-RAY DIFFRACTION	2.242	F	2.0	27.0	5.0	PHE188	11.13	True		ambiguous(bb)	7.28					0.0	0.0
+6L5N	B	6L5N_1	Nucleolar RNA helicase 2	Q9NR30	Homo sapiens	X-RAY DIFFRACTION	2.242	F	2.0	27.0	5.0	PHE188	12.04	True		displaced(bb)	16.52					0.0	0.0
+6O5F	A	6O5F_1	ATP-dependent RNA helicase DDX3X	O00571	Homo sapiens	X-RAY DIFFRACTION	2.504	F	51.0	76.0	12.0	PHE182	8.94	True	6.66	inserted				RNA:RNA (5'-R(P*CP*AP*AP*GP*GP*UP*CP*AP*UP*UP*CP*G(21)		0.0	21.0
+6O5F	B	6O5F_1	ATP-dependent RNA helicase DDX3X	O00571	Homo sapiens	X-RAY DIFFRACTION	2.504	F	51.0	76.0	12.0	PHE182	8.89	True	6.59	inserted				RNA:RNA (5'-R(P*CP*AP*AP*GP*GP*UP*CP*AP*UP*UP*CP*G(21)		0.0	21.0
+6QDV	7	6QDV_4	Eukaryotic initiation factor 4A-III, N-terminally processed	P38919	Homo sapiens	ELECTRON MICROSCOPY	3.3	F	19.0	44.0	12.0	PHE40	9.01	True	6.46	inserted	5.1					0.0	0.0
+6QW6	5X	6QW6_21	Probable ATP-dependent RNA helicase DDX23	Q9BUQ8	Homo sapiens	ELECTRON MICROSCOPY	2.92	W	393.0	418.0	12.0	TRP393	10.4	True	7.45	inserted						0.0	0.0
+6QX9	5X	6QX9_24	Probable ATP-dependent RNA helicase DDX23	Q9BUQ8	Homo sapiens	ELECTRON MICROSCOPY	3.28	W	393.0	418.0	12.0	TRP393	10.4	True	7.45	inserted						0.0	0.0
+6UV1	A	6UV1_1	Probable ATP-dependent RNA helicase DDX17	Q92841	Homo sapiens	X-RAY DIFFRACTION	2.307	F	65.0	90.0	12.0	PHE94	9.09	True	7.14	inserted	4.71					0.0	0.0
+6UV1	B	6UV1_1	Probable ATP-dependent RNA helicase DDX17	Q92841	Homo sapiens	X-RAY DIFFRACTION	2.307	F	65.0	90.0	12.0	PHE94	9.07	True	7.09	inserted	4.7					0.0	0.0
+6UV2	A	6UV2_1	Probable ATP-dependent RNA helicase DDX17	Q92841	Homo sapiens	X-RAY DIFFRACTION	1.894	F	65.0	90.0	12.0	PHE94	9.19	True	7.16	inserted	4.84					0.0	0.0
+6UV3	A	6UV3_1	Probable ATP-dependent RNA helicase DDX17	Q92841	Homo sapiens	X-RAY DIFFRACTION	1.597	F	65.0	90.0	12.0	PHE94	9.13	True	6.92	inserted	4.9					0.0	0.0
+6UV4	A	6UV4_1	Probable ATP-dependent RNA helicase DDX17	Q92841	Homo sapiens	X-RAY DIFFRACTION	1.7	F	65.0	90.0	12.0	PHE94	9.01	True	6.47	inserted	4.85					0.0	0.0
+6XKI	A	6XKI_1	Eukaryotic initiation factor 4A-I	P60843	Mus musculus	X-RAY DIFFRACTION	2.87	F	17.0	42.0	9.0	PHE34	9.2	True	6.2	inserted	5.06					0.0	0.0
+6Y50	p	6Y50_9	Probable ATP-dependent RNA helicase DDX46	Q7L014	Homo sapiens	ELECTRON MICROSCOPY	4.1	W	374.0	399.0	0.0					not_modelled							
+6Y53	p	6Y53_4	Probable ATP-dependent RNA helicase DDX46	Q7L014	Homo sapiens	ELECTRON MICROSCOPY	7.1	W	374.0	399.0	12.0	TRP374	9.7	False		inserted(bb)						0.0	0.0
+6Y5Q	p	6Y5Q_6	Probable ATP-dependent RNA helicase DDX46	Q7L014	Homo sapiens	ELECTRON MICROSCOPY	7.1	W	374.0	399.0	12.0	TRP374	9.7	False		inserted(bb)						0.0	0.0
+6ZMW	j	6ZMW_56	Eukaryotic initiation factor 4A-I	P60842	Homo sapiens	ELECTRON MICROSCOPY	3.7	F	34.0	59.0	12.0	PHE34	8.62	True	6.71	inserted				Protein:Eukaryotic translation initiation factor 4(33)		0.0	33.0
+7A5P	y	7A5P_37	Eukaryotic initiation factor 4A-III	P38919	Homo sapiens	ELECTRON MICROSCOPY	5.0	F	40.0	65.0	12.0	PHE40	9.01	False		inserted(bb)						0.0	0.0
+7DDX	B	7DDX_2	Eukaryotic initiation factor 4A-I	P60843	Mus musculus	X-RAY DIFFRACTION	2.5	F	38.0	63.0	12.0	PHE34	9.1	True	6.3	inserted						0.0	0.0
+7EVN	E	7EVN_5	ATP-dependent RNA helicase DDX42	Q86XP3	Homo sapiens	ELECTRON MICROSCOPY	2.6	F	275.0	300.0	12.0	PHE255	9.43	False		inserted(bb)						0.0	0.0
+7EVO	E	7EVO_12	RNA helicase	Q7L014	Homo sapiens	ELECTRON MICROSCOPY	2.5	W	394.0	419.0	12.0	TRP374	9.7	False		inserted(bb)						0.0	0.0
+7LIU	A	7LIU_1	ATP-dependent RNA helicase DDX3X	O00571	Homo sapiens	X-RAY DIFFRACTION	3.001	F	50.0	75.0	12.0	PHE182	9.38	True	7.04	inserted						0.0	0.0
+7LIU	B	7LIU_1	ATP-dependent RNA helicase DDX3X	O00571	Homo sapiens	X-RAY DIFFRACTION	3.001	F	50.0	75.0	12.0	PHE182	9.5	True	7.11	inserted						0.0	0.0
+7NAC	x	7NAC_58	ATP-dependent rRNA helicase SPB4	P25808	Saccharomyces cerevisiae BY4741	ELECTRON MICROSCOPY	3.04	W	7.0	34.0	7.0	TRP7	9.92	True	7.8	inserted				Protein:RRP17 isoform 1(12)		0.0	12.0
+7NAD	x	7NAD_26	SPB4 isoform 1	P25808	Saccharomyces cerevisiae BY4741	ELECTRON MICROSCOPY	3.04	W	7.0	34.0	7.0	TRP7	9.92	True	7.8	inserted				Protein:RRP17 isoform 1(14)		0.0	14.0
+7OI6	x	7OI6_41	Probable ATP-dependent RNA helicase DDX28	Q9NUL7	Homo sapiens	ELECTRON MICROSCOPY	5.7	F	128.0	155.0	5.0	PHE128	9.09	False		inserted(bb)						0.0	0.0
+7OQB	p	7OQB_20	Pre-mRNA-processing ATP-dependent RNA helicase PRP5	P21372	Saccharomyces cerevisiae	ELECTRON MICROSCOPY	9.0	W	257.0	283.0	12.0	TRP257	9.66	False		inserted(bb)				Protein:Pre-mRNA-splicing factor PRP9(2)		0.0	2.0
+7OQE	p	7OQE_31	Pre-mRNA-processing ATP-dependent RNA helicase PRP5	P21372	Saccharomyces cerevisiae	ELECTRON MICROSCOPY	5.9	W	257.0	283.0	12.0	TRP257	9.66	False		inserted(bb)				Protein:Pre-mRNA-splicing factor PRP9(2)		0.0	2.0
+7PLI	A	7PLI_1	ATP-dependent RNA helicase DbpA	P21693	Escherichia coli (strain K12)	X-RAY DIFFRACTION	2.5	F	6.0	32.0	7.0	PHE4	8.91	True	6.58	inserted	5.07					0.0	0.0
+7PLI	B	7PLI_1	ATP-dependent RNA helicase DbpA	P21693	Escherichia coli (strain K12)	X-RAY DIFFRACTION	2.5	F	6.0	32.0	7.0	PHE4	8.99	True	6.75	inserted	5.14					0.0	0.0
+7PLI	E	7PLI_1	ATP-dependent RNA helicase DbpA	P21693	Escherichia coli (strain K12)	X-RAY DIFFRACTION	2.5	F	6.0	32.0	7.0	PHE4	8.86	True	6.93	inserted	5.3					0.0	0.0
+7PLI	F	7PLI_1	ATP-dependent RNA helicase DbpA	P21693	Escherichia coli (strain K12)	X-RAY DIFFRACTION	2.5	F	6.0	32.0	6.0	PHE4	8.92	True	6.53	inserted	5.41					0.0	0.0
+7PLI	I	7PLI_1	ATP-dependent RNA helicase DbpA	P21693	Escherichia coli (strain K12)	X-RAY DIFFRACTION	2.5	F	6.0	32.0	5.0	PHE4	8.97	True	6.72	inserted	5.26					0.0	0.0
+7PLI	J	7PLI_1	ATP-dependent RNA helicase DbpA	P21693	Escherichia coli (strain K12)	X-RAY DIFFRACTION	2.5	F	6.0	32.0	6.0	PHE4	9.0	True	6.86	inserted	5.33					0.0	0.0
+7PMM	A	7PMM_1	ATP-dependent RNA helicase DbpA	P21693	Escherichia coli (strain K12)	X-RAY DIFFRACTION	3.0	F	6.0	32.0	7.0	PHE4	8.98	True	6.79	inserted	5.29					0.0	0.0
+7PMM	B	7PMM_1	ATP-dependent RNA helicase DbpA	P21693	Escherichia coli (strain K12)	X-RAY DIFFRACTION	3.0	F	6.0	32.0	8.0	PHE4	8.75	True	6.76	inserted	5.1					0.0	0.0
+7PMQ	A	7PMQ_1	ATP-dependent RNA helicase DbpA	P21693	Escherichia coli	X-RAY DIFFRACTION	3.22	F	6.0	32.0	8.0	PHE4	8.88	True	6.86	inserted	4.85					0.0	0.0
+7PMQ	B	7PMQ_1	ATP-dependent RNA helicase DbpA	P21693	Escherichia coli	X-RAY DIFFRACTION	3.22	F	6.0	32.0	7.0	PHE4	9.47	True	7.5	inserted	6.16					0.0	0.0
+7PMQ	C	7PMQ_1	ATP-dependent RNA helicase DbpA	P21693	Escherichia coli	X-RAY DIFFRACTION	3.22	F	6.0	32.0	8.0	PHE4	8.87	True	6.81	inserted	5.21					0.0	0.0
+7PMQ	D	7PMQ_1	ATP-dependent RNA helicase DbpA	P21693	Escherichia coli	X-RAY DIFFRACTION	3.22	F	6.0	32.0	5.0	PHE4	9.71	True	7.08	inserted	5.69					0.0	0.0
+7PPZ	B	7PPZ_2	Eukaryotic initiation factor 4A-I	P60842	Homo sapiens	X-RAY DIFFRACTION	2.52	F	22.0	47.0	12.0	PHE34	11.77	True	7.91	inserted						0.0	0.0
+7PQ0	B	7PQ0_2	Eukaryotic initiation factor 4A-I	P60842	Homo sapiens	X-RAY DIFFRACTION	3.0	F	22.0	47.0	12.0	PHE34	9.32	True	6.3	inserted						0.0	0.0
+7Q3L	p	7Q3L_9	Probable ATP-dependent RNA helicase DDX46	Q7L014	Homo sapiens	ELECTRON MICROSCOPY	2.21	W	374.0	399.0	0.0					not_modelled							
+7R72	x	7R72_24	ATP-dependent rRNA helicase SPB4	P25808	Saccharomyces cerevisiae BY4741	ELECTRON MICROSCOPY	3.07	W	7.0	34.0	7.0	TRP7	9.92	True	7.8	inserted						0.0	0.0
+7R7A	x	7R7A_57	ATP-dependent rRNA helicase SPB4	P25808	Saccharomyces cerevisiae BY4741	ELECTRON MICROSCOPY	3.04	W	7.0	34.0	7.0	TRP7	9.92	True	7.8	inserted						0.0	0.0
+7VPX	E	7VPX_12	Probable ATP-dependent RNA helicase DDX46	Q7L014	Homo sapiens	ELECTRON MICROSCOPY	3.0	W	374.0	399.0	12.0	TRP374	9.7	False		inserted(bb)						0.0	0.0
+7W59	u	7W59_34	Eukaryotic initiation factor 4A-III	P38919	Homo sapiens	ELECTRON MICROSCOPY	3.6	F	40.0	65.0	12.0	PHE40	9.01	False		inserted(bb)						0.0	0.0
+7W5A	u	7W5A_39	Eukaryotic initiation factor 4A-III	P38919	Homo sapiens	ELECTRON MICROSCOPY	3.6	F	40.0	65.0	12.0	PHE40	9.01	False		inserted(bb)						0.0	0.0
+7W5B	u	7W5B_43	Eukaryotic initiation factor 4A-III	P38919	Homo sapiens	ELECTRON MICROSCOPY	4.3	F	40.0	65.0	12.0	PHE40	9.01	False		inserted(bb)						0.0	0.0
+7YMF	A	7YMF_1	ATP-dependent RNA helicase DDX3X	O00571	Homo sapiens	X-RAY DIFFRACTION	2.3	F	71.0	96.0	12.0	PHE182	8.89	True	7.14	inserted						0.0	0.0
+7ZNJ	A	7ZNJ_1	Eukaryotic initiation factor 4A-III, N-terminally processed	P38919	Homo sapiens	ELECTRON MICROSCOPY	2.4	F	18.0	43.0	12.0	PHE40	8.91	True	6.64	inserted	5.37			Protein:RNA-binding protein 8A(28)		0.0	28.0
+7ZNJ	F	7ZNJ_1	Eukaryotic initiation factor 4A-III, N-terminally processed	P38919	Homo sapiens	ELECTRON MICROSCOPY	2.4	F	18.0	43.0	12.0	PHE40	8.88	True	6.57	inserted	5.31			Protein:RNA-binding protein 8A(23)		0.0	23.0
+7ZNJ	K	7ZNJ_1	Eukaryotic initiation factor 4A-III, N-terminally processed	P38919	Homo sapiens	ELECTRON MICROSCOPY	2.4	F	18.0	43.0	12.0	PHE40	8.86	True	6.59	inserted	5.32			Protein:RNA-binding protein 8A(22)		0.0	22.0
+7ZNJ	a	7ZNJ_1	Eukaryotic initiation factor 4A-III, N-terminally processed	P38919	Homo sapiens	ELECTRON MICROSCOPY	2.4	F	18.0	43.0	12.0	PHE40	8.83	True	6.53	inserted	5.34			Protein:RNA-binding protein 8A(22)		0.0	22.0
+7ZNJ	f	7ZNJ_1	Eukaryotic initiation factor 4A-III, N-terminally processed	P38919	Homo sapiens	ELECTRON MICROSCOPY	2.4	F	18.0	43.0	12.0	PHE40	8.87	True	6.65	inserted	5.31			Protein:RNA-binding protein 8A(24)		0.0	24.0
+7ZNJ	k	7ZNJ_1	Eukaryotic initiation factor 4A-III, N-terminally processed	P38919	Homo sapiens	ELECTRON MICROSCOPY	2.4	F	18.0	43.0	12.0	PHE40	8.85	True	6.59	inserted	5.31			Protein:RNA-binding protein 8A(24)		0.0	24.0
+8C6J	7	8C6J_5	Eukaryotic initiation factor 4A-III	P38919	Homo sapiens	ELECTRON MICROSCOPY	2.8	F	40.0	65.0	12.0	PHE40	8.9	True	6.18	inserted	6.17					0.0	0.0
+8C6J	CD	8C6J_12	Probable ATP-dependent RNA helicase DDX41	Q9UJV9	Homo sapiens	ELECTRON MICROSCOPY	2.8	F	183.0	208.0	12.0	PHE183	9.16	False		inserted(bb)						0.0	0.0
+8FKT	NI	8FKT_27	ATP-dependent RNA helicase DDX54	Q8TDD1	Homo sapiens	ELECTRON MICROSCOPY	2.81	F	98.0	123.0	6.0	PHE98	9.66	False		inserted(bb)						0.0	0.0
+8FKU	NI	8FKU_28	ATP-dependent RNA helicase DDX54	Q8TDD1	Homo sapiens	ELECTRON MICROSCOPY	2.82	F	98.0	123.0	6.0	PHE98	9.69	False		inserted(bb)						0.0	0.0
+8FKV	NI	8FKV_29	ATP-dependent RNA helicase DDX54	Q8TDD1	Homo sapiens	ELECTRON MICROSCOPY	2.47	F	98.0	123.0	6.0	PHE98	9.42	True	6.89	inserted	5.16			Protein:Nucleolar complex protein 3 homolog(4)		0.0	4.0
+8FKW	NI	8FKW_30	ATP-dependent RNA helicase DDX54	Q8TDD1	Homo sapiens	ELECTRON MICROSCOPY	2.5	F	98.0	123.0	6.0	PHE98	9.58	True	6.98	inserted	5.03			Protein:Nucleolar complex protein 3 homolog(1)		0.0	1.0
+8FKX	NI	8FKX_30	ATP-dependent RNA helicase DDX54	Q8TDD1	Homo sapiens	ELECTRON MICROSCOPY	2.59	F	98.0	123.0	6.0	PHE98	9.57	True	7.16	inserted	5.04					0.0	0.0
+8FKY	NI	8FKY_35	ATP-dependent RNA helicase DDX54	Q8TDD1	Homo sapiens	ELECTRON MICROSCOPY	2.67	F	98.0	123.0	6.0	PHE98	9.53	True	7.13	inserted	5.05					0.0	0.0
+8H6E	4U	8H6E_32	Probable ATP-dependent RNA helicase DDX23	Q9BUQ8	Homo sapiens	ELECTRON MICROSCOPY	3.2	W	393.0	418.0	0.0					not_modelled							
+8H6J	4U	8H6J_32	Probable ATP-dependent RNA helicase DDX23	Q9BUQ8	Homo sapiens	ELECTRON MICROSCOPY	3.25	W	393.0	418.0	12.0	TRP393	10.39	False		inserted(bb)						0.0	0.0
+8HK1	E	8HK1_12	ATP-dependent RNA helicase DDX42	Q86XP3	Homo sapiens	ELECTRON MICROSCOPY	2.7	F	255.0	280.0	0.0					not_modelled							
+8HUJ	A	8HUJ_1	Eukaryotic initiation factor 4A-I	P60842	Homo sapiens	ELECTRON MICROSCOPY	3.76	F	56.0	81.0	12.0	PHE34	8.72	True	6.06	inserted				Protein:Eukaryotic translation initiation factor 4(3)		0.0	3.0
+8I0W	u	8I0W_29	Eukaryotic initiation factor 4A-III	P38919	Homo sapiens	ELECTRON MICROSCOPY	3.4	F	40.0	65.0	12.0	PHE40	8.97	True	6.26	inserted				Protein:Pre-mRNA-splicing factor CWC22 homolog(2)		0.0	2.0
+8I9T	Cb	8I9T_25	ATP-dependent RNA helicase DBP10	G0S5S8	Chaetomium thermophilum	ELECTRON MICROSCOPY	3.6	F	92.0	117.0	6.0	PHE92	10.23	True	7.17	inserted						0.0	0.0
+8I9V	Cb	8I9V_27	ATP-dependent RNA helicase DBP10	G0S5S8	Chaetomium thermophilum	ELECTRON MICROSCOPY	3.1	F	92.0	117.0	12.0	PHE92	9.72	True	7.25	inserted						0.0	0.0
+8I9W	Cb	8I9W_26	ATP-dependent RNA helicase DBP10	G0S5S8	Chaetomium thermophilum	ELECTRON MICROSCOPY	3.1	F	92.0	117.0	5.0	PHE92	9.91	True	7.22	inserted						0.0	0.0
+8I9X	Cb	8I9X_27	ATP-dependent RNA helicase DBP10	G0S5S8	Chaetomium thermophilum	ELECTRON MICROSCOPY	2.8	F	92.0	117.0	12.0	PHE92	9.52	True	8.22	displaced						0.0	0.0
+8I9Z	CW	8I9Z_25	ATP-dependent RNA helicase	G0RYG4	Chaetomium thermophilum	ELECTRON MICROSCOPY	2.7	F	18.0	42.0	8.0	PHE18	11.43	True	14.91	displaced	10.75					0.0	0.0
+8IA0	CW	8IA0_25	ATP-dependent RNA helicase	G0RYG4	Chaetomium thermophilum	ELECTRON MICROSCOPY	2.7	F	18.0	42.0	8.0	PHE18	11.8	True	14.15	displaced	11.03					0.0	0.0
+8OZ0	1	8OZ0_55	Eukaryotic initiation factor 4A-I	P60842	Homo sapiens	ELECTRON MICROSCOPY	3.5	F	34.0	59.0	9.0	PHE34	7.52	False		inserted(bb)						0.0	0.0
+8OZ0	3	8OZ0_55	Eukaryotic initiation factor 4A-I	P60842	Homo sapiens	ELECTRON MICROSCOPY	3.5	F	34.0	59.0	9.0	PHE34	10.0	False		inserted(bb)						0.0	0.0
+8Q7W	E	8Q7W_6	Probable ATP-dependent RNA helicase DDX23	Q9BUQ8	Homo sapiens	ELECTRON MICROSCOPY	3.9	W	393.0	418.0	12.0	TRP393	11.64	False		ambiguous(bb)						0.0	0.0
+8Q7X	E	8Q7X_6	Probable ATP-dependent RNA helicase DDX23	Q9BUQ8	Homo sapiens	ELECTRON MICROSCOPY	4.6	W	393.0	418.0	12.0	TRP393	11.64	False		ambiguous(bb)						0.0	0.0
+8Q91	D	8Q91_5	Probable ATP-dependent RNA helicase DDX23	Q9BUQ8	Homo sapiens	ELECTRON MICROSCOPY	3.1	W	393.0	418.0	0.0					not_modelled							
+8QOZ	G	8QOZ_2	Probable ATP-dependent RNA helicase DDX23	Q9BUQ8	Homo sapiens	ELECTRON MICROSCOPY	3.1	W	393.0	418.0	0.0					not_modelled							
+8QP8	G	8QP8_2	Probable ATP-dependent RNA helicase DDX23	Q9BUQ8	Homo sapiens	ELECTRON MICROSCOPY	3.5	W	393.0	418.0	0.0					not_modelled							
+8QP9	G	8QP9_11	Probable ATP-dependent RNA helicase DDX23	Q9BUQ8	Homo sapiens	ELECTRON MICROSCOPY	4.1	W	393.0	418.0	0.0					not_modelled							
+8QPA	G	8QPA_2	Probable ATP-dependent RNA helicase DDX23	Q9BUQ8	Homo sapiens	ELECTRON MICROSCOPY	3.7	W	393.0	418.0	0.0					not_modelled							
+8QPB	G	8QPB_2	Probable ATP-dependent RNA helicase DDX23	Q9BUQ8	Homo sapiens	ELECTRON MICROSCOPY	3.7	W	393.0	418.0	0.0					not_modelled							
+8QPK	G	8QPK_1	Probable ATP-dependent RNA helicase DDX23	Q9BUQ8	Homo sapiens	ELECTRON MICROSCOPY	4.2	W	393.0	418.0	0.0					not_modelled							
+8QXD	G	8QXD_22	Probable ATP-dependent RNA helicase DDX23	Q9BUQ8	Homo sapiens	ELECTRON MICROSCOPY	9.6	W	393.0	418.0	12.0	TRP393	10.68	False		ambiguous(bb)						0.0	0.0
+8R08	G	8R08_33	Probable ATP-dependent RNA helicase DDX23	Q9BUQ8	Homo sapiens	ELECTRON MICROSCOPY	6.1	W	393.0	418.0	12.0	TRP393	10.63	False		ambiguous(bb)						0.0	0.0
+8R09	G	8R09_31	Probable ATP-dependent RNA helicase DDX23	Q9BUQ8	Homo sapiens	ELECTRON MICROSCOPY	4.3	W	393.0	418.0	12.0	TRP393	10.22	False		inserted(bb)						0.0	0.0
+8R0A	G	8R0A_45	Probable ATP-dependent RNA helicase DDX23	Q9BUQ8	Homo sapiens	ELECTRON MICROSCOPY	5.8	W	393.0	418.0	12.0	TRP393	10.33	False		inserted(bb)						0.0	0.0
+8R0B	G	8R0B_12	Probable ATP-dependent RNA helicase DDX23	Q9BUQ8	Homo sapiens	ELECTRON MICROSCOPY	4.4	W	393.0	418.0	0.0					not_modelled							
+8RC0	D	8RC0_5	Probable ATP-dependent RNA helicase DDX23	Q9BUQ8	Homo sapiens	ELECTRON MICROSCOPY	3.2	W	393.0	418.0	12.0	TRP393	10.65	False		ambiguous(bb)						0.0	0.0
+8RM5	G	8RM5_33	Probable ATP-dependent RNA helicase DDX23	Q9BUQ8	Homo sapiens	ELECTRON MICROSCOPY	6.9	W	393.0	418.0	12.0	TRP393	10.51	False		inserted(bb)						0.0	0.0
+8SSW	A	8SSW_1	ATP-dependent RNA helicase DDX3X	O00571	Homo sapiens	X-RAY DIFFRACTION	2.4	F	51.0	76.0	12.0	PHE182	9.42	True	7.27	inserted	5.07			RNA:RNA (28-MER)(18)	Protein:ATP-dependent RNA helicase DDX3X(6)	0.0	18.0
+8SSW	B	8SSW_1	ATP-dependent RNA helicase DDX3X	O00571	Homo sapiens	X-RAY DIFFRACTION	2.4	F	51.0	76.0	12.0	PHE182	9.4	True	7.43	inserted	4.96			RNA:RNA (28-MER)(15)	Protein:ATP-dependent RNA helicase DDX3X(7)	0.0	15.0
+8V84	3	8V84_3	ATP-dependent RNA helicase DBP10	Q12389	Saccharomyces cerevisiae BY4741	ELECTRON MICROSCOPY	2.7	F	139.0	164.0	0.0					not_modelled							
+8V87	3	8V87_3	ATP-dependent RNA helicase DBP10	Q12389	Saccharomyces cerevisiae BY4741	ELECTRON MICROSCOPY	2.66	F	139.0	164.0	6.0	PHE139	9.52	True	9.8	displaced	9.64					0.0	0.0
+8XXN	4A	8XXN_37	Eukaryotic initiation factor 4A-I	P60842	Homo sapiens	ELECTRON MICROSCOPY	3.6	F	34.0	59.0	4.0					not_modelled							
+8Y6O	I	8Y6O_9	Probable ATP-dependent RNA helicase DDX23	Q9BUQ8	Homo sapiens	ELECTRON MICROSCOPY	3.38	W	393.0	418.0	12.0	TRP393	11.08	True	9.63	displaced						0.0	0.0
+9A76	B	9A76_2	CSHA_BACSU	P96614				F	5.0	30.0	8.0	PHE5	9.19	True	5.94	inserted						0.0	0.0
+9AVR	A	9AVR_1	Eukaryotic initiation factor 4A-I	P60842	Homo sapiens	X-RAY DIFFRACTION	1.91	F	34.0	59.0	8.0	PHE34	9.04	True	6.68	inserted	5.26					0.0	0.0
+9BLN	l	9BLN_42	Eukaryotic initiation factor 4A-I	P60842	Homo sapiens	ELECTRON MICROSCOPY	3.9	F	16.0	41.0	6.0					not_modelled							
+9DTS	A	9DTS_1	Eukaryotic initiation factor 4A-I	P60842	Homo sapiens	X-RAY DIFFRACTION	1.69	F	16.0	41.0	9.0	PHE34	8.98	True	6.38	inserted	5.21					0.0	0.0
+9DTS	B	9DTS_1	Eukaryotic initiation factor 4A-I	P60842	Homo sapiens	X-RAY DIFFRACTION	1.69	F	16.0	41.0	12.0	PHE34	9.19	True	6.64	inserted	5.34				Protein:Eukaryotic initiation factor 4A-I(7)	0.0	0.0
+9DTS	C	9DTS_1	Eukaryotic initiation factor 4A-I	P60842	Homo sapiens	X-RAY DIFFRACTION	1.69	F	16.0	41.0	9.0	PHE34	9.12	True	6.64	inserted	5.4					0.0	0.0
+9DTS	D	9DTS_1	Eukaryotic initiation factor 4A-I	P60842	Homo sapiens	X-RAY DIFFRACTION	1.69	F	16.0	41.0	12.0	PHE34	9.18	True	6.52	inserted	5.3				Protein:Eukaryotic initiation factor 4A-I(5)	0.0	0.0
+9FMD	7	9FMD_9	Eukaryotic initiation factor 4A-III	P38919	Homo sapiens	ELECTRON MICROSCOPY	3.3	F	40.0	65.0	12.0	PHE40	8.81	False		inserted(bb)						0.0	0.0
+9HCC	z	9HCC_50	Probable ATP-dependent RNA helicase DDX28	Q9CWT6	Mus musculus	ELECTRON MICROSCOPY	5.67	F	128.0	155.0	12.0	PHE128	8.97	True		inserted(bb)						0.0	0.0
+9HCD	z	9HCD_51	Probable ATP-dependent RNA helicase DDX28	Q9CWT6	Mus musculus	ELECTRON MICROSCOPY	4.63	F	128.0	155.0	12.0	PHE128	8.9	True		inserted(bb)						0.0	0.0
+9IF7	L7	9IF7_1	Probable eukaryotic initiation factor 4A	A0A640KRB9	Leishmania tarentolae	ELECTRON MICROSCOPY	2.7	F	19.0	44.0	12.0	PHE19	9.16	True	6.72	inserted	5.47			Protein:RRM domain-containing protein(8); Protein:Mago nashi-like protein,putative(4)		0.0	12.0
+9XTT	v	9XTT_44	Eukaryotic initiation factor 4A-III	P38919	Homo sapiens	ELECTRON MICROSCOPY	2.92	F	40.0	65.0	12.0	PHE40	9.35	True	6.45	inserted	5.27					0.0	0.0
+9XU3	v	9XU3_50	Eukaryotic initiation factor 4A-III	P38919	Homo sapiens	ELECTRON MICROSCOPY	3.0	F	40.0	65.0	12.0	PHE40	9.22	True	6.47	inserted	5.17					0.0	0.0

@@ -1,0 +1,122 @@
+key	uniprot_name	description	organism	n_entries	example_pdbs	family_auto	family_curated	note
+A0AAA9S5G9	ATP-dependent DNA helicase	ATP-dependent DNA helicase	Bos taurus	1	9I16	?	RecQ	
+P46063	ATP-dependent DNA helicase Q1	ATP-DEPENDENT DNA HELICASE Q1	HOMO SAPIENS	3	2V1X,9I22,9I23	?	RecQ	
+O94762	ATP-dependent DNA helicase Q5	ATP-dependent DNA helicase Q5	Homo sapiens	5	5LB3,5LB5,5LBA,9EI3,9EI4	?	RecQ	
+P46100	Chromatin remodeler ATRX	Transcriptional regulator ATRX	Homo sapiens	1	9L06	?	SWI2/SNF2	
+Q9XFH4	Chromatin remodeling protein DDM1	ATP-dependent DNA helicase DDM1	Arabidopsis thaliana	5	8KCB,8KCC,8WH8,8WH9,8WHA	?	SWI2/SNF2	
+Q6ZRS2	Chromatin remodeling protein SRCAP	Helicase SRCAP	Homo sapiens	20	8X15,8X19,8X1C,9CA7,9CA8	?	SWI2/SNF2	
+O75417	DNA polymerase theta	DNA POLYMERASE THETA	HOMO SAPIENS	3	5A9F,5AGA,9ASJ	?	Ski2-like	POLQ helicase domain (Hel308-like)
+P33919	DNA repair protein RadD	Putative DNA repair helicase RadD	Escherichia coli (strain K12)	3	7R7J,8H5Y,8H5Z	?	other	
+I3LGP4	DNA-directed RNA polymerase subunit beta	DNA-directed RNA polymerase subunit beta	Sus scrofa domesticus	3	7OOB,8B3D,9ER2	?	exclude	
+P60842	Eukaryotic initiation factor 4A-I	Eukaryotic initiation factor 4A-I	Homo sapiens	3	5ZC9,9AVR,9DTS	?	DEAD	
+P60843	Eukaryotic initiation factor 4A-I	Eukaryotic initiation factor 4A-I	Mus musculus	1	6XKI	?	DEAD	
+P38919	Eukaryotic initiation factor 4A-III	Eukaryotic initiation factor 4A-III	Homo sapiens	9	2HYI,2J0Q,2J0S,2XB2,3EX7	?	DEAD	
+P19447	General transcription and DNA repair factor IIH helicase/translocase subunit XPB	General transcription and DNA repair factor IIH helicase subunit XPB	Homo sapiens	4	29WD,7NVV,7NVX,7NW0	?	other	
+Q00578	General transcription and DNA repair factor IIH helicase/translocase subunit XPB/SSL2	General transcription and DNA repair factor IIH helicase subunit XPB	Saccharomyces cerevisiae S288C	7	7O4I,7O4J,7O4K,7O4L,7O72	?	other	
+Q8R5F7	Interferon-induced helicase C domain-containing protein 1	Interferon-induced helicase C domain-containing protein 1	Mus musculus	13	6G19,6GJZ,6GKH,6GKM,7BKP	?	RLR/Dicer	
+Q9BYX4	Interferon-induced helicase C domain-containing protein 1	Interferon-induced helicase C domain-containing protein 1	Homo sapiens	8	4GL2,7JL0,7JL2,9LOV,9Q5W	?	RLR/Dicer	
+A0QT91	Lhr helicase/ probable uracil glycosylase	ATP-dependent DNA helicase	Mycobacterium smegmatis	1	5V9X	?	Ski2-like	Lhr: own family, Ski2-like-related
+Q9NRZ9	Lymphoid-specific helicase	ATP-dependent DNA helicase DDM1,Lymphoid-specific helicase chimera	Arabidopsis thaliana	1	8SKZ	?	SWI2/SNF2	
+P50830	Mitomycin repair factor A	Uncharacterized ATP-dependent helicase YprA	Bacillus subtilis (strain 168)	1	6ZNQ	?	other	
+P32597	Nuclear protein STH1/NPS1	Nuclear protein STH1/NPS1	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	1	6VZ4	?	SWI2/SNF2	
+Q9HCG8	Pre-mRNA-splicing factor CWC22 homolog	Pre-mRNA-splicing factor CWC22 homolog	Homo sapiens	2	9XTT,9XU3	?	exclude	
+P60240	RNA polymerase-associated protein RapA	RNA polymerase-associated protein RapA	Escherichia coli	3	8SP4,8SPG,8T0L	?	SWI2/SNF2	
+P51532	SWI/SNF-related matrix-associated actin-dependent regulator of chromatin subfamily A member 4	Transcription activator BRG1	Homo sapiens	4	7VDT,7VDV,7Y8R,9UX9	?	SWI2/SNF2	
+O60264	SWI/SNF-related matrix-associated actin-dependent regulator of chromatin subfamily A member 5	SWI/SNF-related matrix-associated actin-dependent regulator of chromatin subfamily A member 5	Homo sapiens	15	6NE3,8V4Y,8V6V,8V7L,9E1L	?	SWI2/SNF2	
+Q9UQ35	Serine/arginine repetitive matrix protein 2	Serine/arginine repetitive matrix protein 2	Homo sapiens	6	5XJC,5YZG,6ICZ,7W59,7W5A	?	exclude	
+P30958	Transcription-repair-coupling factor	Transcription-repair-coupling factor	Escherichia coli	7	6X2F,6X2N,6X43,6X4W,6X4Y	?	other	
+O75643	U5 small nuclear ribonucleoprotein 200 kDa helicase	U5 small nuclear ribonucleoprotein 200 kDa helicase	Homo sapiens	13	4F93,4KIT,5XJC,5YZG,6ICZ	?	Ski2-like	human BRR2 (SNRNP200)
+A3DC68	UvrABC system protein B	UvrABC system protein B	Acetivibrio thermocellus	1	9GY7	?	other	
+P37954	UvrABC system protein B	UvrABC system protein B	Bacillus subtilis	3	2D7D,2NMV,3V4R	?	other	
+P9WFC7	UvrABC system protein B	UvrABC system protein B	Mycobacterium tuberculosis	1	9GA3	?	other	
+G0SHD8	WD40 repeat-containing protein	WD40 repeat-containing protein	Thermochaetoides thermophila DSM 1495	2	23FU,23IL	?	exclude	
+Q4E5Z1	ATP-dependent DEAD/H RNA helicase	kDDX60	Trypanosoma cruzi	1	7ASK	DEAD	DEAH	kDDX60 (T. cruzi): DDX60 is DExD/H; check
+G0RYG4	ATP-dependent RNA helicase	ATP-dependent RNA helicase	Chaetomium thermophilum	2	8I9Z,8IA0	DEAD	DEAD	
+G0RYU9	ATP-dependent RNA helicase	RNA helicase	Chaetomium thermophilum	2	8I9Z,8IA0	DEAD		
+A0A8I3RTG4	ATP-dependent RNA helicase A	RNA helicase	Canis lupus familiaris	1	8SZR	DEAD	DEAH	
+Q08211	ATP-dependent RNA helicase A	ATP-dependent RNA helicase A	Homo sapiens	5	28ZT,3LLM,8SZP,9MFO,9MFT	DEAD	DEAH	RNA helicase A = DHX9
+Q12389	ATP-dependent RNA helicase DBP10	ATP-dependent RNA helicase DBP10	Saccharomyces cerevisiae BY4741	1	8V87	DEAD		
+P24783	ATP-dependent RNA helicase DBP2	ATP-dependent RNA helicase DBP2	Saccharomyces cerevisiae	1	8ARP	DEAD		
+P20449	ATP-dependent RNA helicase DBP5	ATP-dependent RNA helicase DBP5	Saccharomyces cerevisiae	4	3PEW,3PEY,3RRM,3RRN	DEAD		
+Q92499	ATP-dependent RNA helicase DDX1	ATP-dependent RNA helicase DDX1	Homo sapiens	1	8TBX	DEAD		
+Q9NVP1	ATP-dependent RNA helicase DDX18	ATP-dependent RNA helicase DDX18	Homo sapiens	6	8FKT,8FKU,8FKV,8FKW,8FKX	DEAD		
+Q9UMR2	ATP-dependent RNA helicase DDX19B	ATP-dependent RNA helicase DDX19B	Homo sapiens	8	3EWS,3FHT,3FMO,3FMP,3G0H	DEAD		
+O00571	ATP-dependent RNA helicase DDX3X	ATP-dependent RNA helicase DDX3X	Homo sapiens	6	2I4I,4PX9,4PXA,5E7J,5E7M	DEAD		
+Q8TDD1	ATP-dependent RNA helicase DDX54	ATP-dependent RNA helicase DDX54	Homo sapiens	6	8FKT,8FKU,8FKV,8FKW,8FKX	DEAD		
+P47047	ATP-dependent RNA helicase DOB1	ATP-DEPENDENT RNA HELICASE DOB1	SACCHAROMYCES CEREVISIAE	2	2XGJ,7D4I	DEAD	Ski2-like	DOB1 = yeast Mtr4
+P21693	ATP-dependent RNA helicase DbpA	ATP-dependent RNA helicase DbpA	Escherichia coli	3	7PLI,7PMM,7PMQ	DEAD		
+P0A9P6	ATP-dependent RNA helicase DeaD	ATP-dependent RNA helicase DeaD	Escherichia coli (strain K12)	1	5GJU	DEAD		
+Q03532	ATP-dependent RNA helicase HAS1	ATP-dependent RNA helicase HAS1	Saccharomyces cerevisiae BY4741	1	8V87	DEAD		
+P43329	ATP-dependent RNA helicase HrpA	ATP-dependent RNA helicase HrpA	Escherichia coli K-12	2	8PO7,8PO8	DEAD	DEAH	
+P37024	ATP-dependent RNA helicase HrpB	ATP-dependent RNA helicase HrpB	Escherichia coli (strain K12)	1	6HEG	DEAD	DEAH	
+P15424	ATP-dependent RNA helicase MSS116, mitochondrial	ATP-dependent RNA helicase MSS116	Saccharomyces cerevisiae	8	3I5X,3I5Y,3I61,3I62,3SQW	DEAD		
+Q07478	ATP-dependent RNA helicase SUB2	ATP-dependent RNA helicase SUB2	Saccharomyces cerevisiae	1	5SUP	DEAD		
+P10081	ATP-dependent RNA helicase eIF4A	ATP-DEPENDENT RNA HELICASE EIF4A	SACCHAROMYCES CEREVISIAE	2	2VSO,2VSX	DEAD		
+P09052	ATP-dependent RNA helicase vasa	ATP-dependent RNA helicase vasa	Drosophila melanogaster	1	2DB3	DEAD		
+Q1K502	Circadian oscillator component FRH	FRQ-interacting RNA helicase	Neurospora crassa	1	5E02	DEAD	Ski2-like	FRH = Neurospora Mtr4 homolog
+Q9NR30	Nucleolar RNA helicase 2	Nucleolar RNA helicase 2	Homo sapiens	3	6L5M,6L5N,6L5O	DEAD		
+P21372	Pre-mRNA-processing ATP-dependent RNA helicase PRP5	Pre-mRNA-processing ATP-dependent RNA helicase PRP5	Saccharomyces cerevisiae	1	4LJY	DEAD		
+P23394	Pre-mRNA-splicing ATP-dependent RNA helicase PRP28	Pre-mRNA-splicing ATP-dependent RNA helicase PRP28	Saccharomyces cerevisiae	1	4W7S	DEAD		
+Q13206	Probable ATP-dependent RNA helicase DDX10	Probable ATP-dependent RNA helicase DDX10	Homo sapiens	1	2PL3	DEAD		
+Q92841	Probable ATP-dependent RNA helicase DDX17	Probable ATP-dependent RNA helicase DDX17	Homo sapiens	4	6UV1,6UV2,6UV3,6UV4	DEAD		
+Q9UHI6	Probable ATP-dependent RNA helicase DDX20	Probable ATP-dependent RNA helicase DDX20	Homo sapiens	2	2OXC,3B7G	DEAD		
+Q9NUL7	Probable ATP-dependent RNA helicase DDX28	Probable ATP-dependent RNA helicase DDX28	Homo sapiens	1	9UU7	DEAD		
+Q9UJV9	Probable ATP-dependent RNA helicase DDX41	Probable ATP-dependent RNA helicase DDX41	Homo sapiens	1	8C6J	DEAD		
+Q9H0S4	Probable ATP-dependent RNA helicase DDX47	Probable ATP-dependent RNA helicase DDX47	Homo sapiens	1	3BER	DEAD		
+P17844	Probable ATP-dependent RNA helicase DDX5	Probable ATP-dependent RNA helicase DDX5	Homo sapiens	1	3FE2	DEAD		
+Q9Y2R4	Probable ATP-dependent RNA helicase DDX52	Probable ATP-dependent RNA helicase DDX52	Homo sapiens	1	3DKP	DEAD		
+Q86TM3	Probable ATP-dependent RNA helicase DDX53	Probable ATP-dependent RNA helicase DDX53	Homo sapiens	1	3IUY	DEAD		
+Q04217	Probable ATP-dependent RNA helicase DHR1	Probable ATP-dependent RNA helicase DHR1	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	8	7D4I,7D5T,7D63,7MQJ,9N74	DEAD	DEAH	DHR1/Ecm16
+G0S0B9	RNA helicase	Pre-mRNA splicing helicase-like protein	Chaetomium thermophilum	2	6QV3,6QV4	DEAD	Ski2-like	
+G0SBQ7	RNA helicase	Prp28	Chaetomium thermophilum (strain DSM 1495 / CBS 144.50 / IMI 039719)	1	5DTU	DEAD	DEAD	
+G0SEG4	RNA helicase	Putative mRNA splicing factor	Chaetomium thermophilum (strain DSM 1495 / CBS 144.50 / IMI 039719)	9	6FA5,6FAA,6FAC,6RM8,6RM9	DEAD	DEAH	
+O01378	RNA helicase	BMVLG PROTEIN	BOMBYX MORI	2	4D25,4D26	DEAD		
+Q9H4L7	SWI/SNF-related matrix-associated actin-dependent regulator of chromatin subfamily A containing DEAD/H box 1	SWI/SNF-related matrix-associated actin-dependent regulator of chromatin subfamily A containing DEAD/H box 1	Homo sapiens	1	9JAO	DEAD	SWI2/SNF2	SMARCAD1
+Q13838	Spliceosome RNA helicase DDX39B	Probable ATP-dependent RNA helicase p47	Homo sapiens	7	1XTJ,8ENK,8R7K,9DLP,9RV1	DEAD		
+Q05B79	ATP-dependent DNA/RNA helicase DHX36	DEAH (Asp-Glu-Ala-His) box polypeptide 36	Bos taurus	2	5VHC,5VHD	DEAH		
+Q8VHK9	ATP-dependent DNA/RNA helicase DHX36	Dhx36 protein	Mus musculus	2	6UP3,6UP4	DEAH		
+O43143	ATP-dependent RNA helicase DHX15	Pre-mRNA-splicing factor ATP-dependent RNA helicase DHX15	Homo sapiens	3	5XDR,6SH6,8EJM	DEAH		
+Q14562	ATP-dependent RNA helicase DHX8	ATP-dependent RNA helicase DHX8	Homo sapiens	20	28ZI,28ZJ,28ZK,28ZL,28ZM	DEAH		
+Q4QHU1	DEAD/DEAH box helicase-like protein	DEAD/DEAH box helicase-like protein	Leishmania tarentolae	1	7AM2	DEAH	DEAD	Leishmania mitoribosome helicase; Q at WK-23 + UA -> DEAD-like; check
+P24785	Dosage compensation regulator mle	DOSAGE COMPENSATION REGULATOR	DROSOPHILA MELANOGASTER	7	5AOR,8B9G,8B9I,8B9J,8B9K	DEAH		
+P08515	Glutathione S-transferase class-mu 26 kDa isozyme	Glutathione S-transferase class-mu 26 kDa isozyme,ATP-dependent RNA helicase DHX8	Homo sapiens	1	28ZS	DEAH	DEAH	
+G0S0F9	Pre-mRNA-splicing factor ATP-dependent RNA helicase PRP16	Pre-mRNA splicing factor ATP-dependent RNA helicase prp16-like protein	Thermochaetoides thermophila DSM 1495	1	8CNT	DEAH		
+Q92620	Pre-mRNA-splicing factor ATP-dependent RNA helicase PRP16	Pre-mRNA-splicing factor ATP-dependent RNA helicase PRP16	Homo sapiens	2	5YZG,9XTT	DEAH		
+P53131	Pre-mRNA-splicing factor ATP-dependent RNA helicase PRP43	PRE-MRNA-SPLICING FACTOR ATP-DEPENDENT RNA HELICASE PRP43	SACCHAROMYCES CEREVISIAE	4	2XAU,3KX2,5I8Q,8RDY	DEAH		
+P20095	Pre-mRNA-splicing factor ATP-dependent RNA helicase-like protein PRP2	Pre-mRNA-splicing factor ATP-dependent RNA helicase-like protein PRP2	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	1	5GM6	DEAH		
+Q8IY37	Probable ATP-dependent RNA helicase DHX37	Probable ATP-dependent RNA helicase DHX37	Homo sapiens	1	7MQA	DEAH		
+G0RY84	RNA helicase	Pre-mRNA-splicing factor ATP-dependent RNA helicase PRP43	Chaetomium thermophilum var. thermophilum DSM 1495	6	5D0U,5LTA,5LTJ,5LTK,6QID	DEAH		
+A7ZI07	Zorya protein ZorD	DEAD/DEAH box helicase	Escherichia coli	1	8QYC	DEAH	other	
+Q96C10	ATP-dependent RNA helicase DHX58	ATP-dependent RNA helicase DHX58	Homo sapiens	2	9LOU,9LOV	RLR/Dicer		
+O95786	Antiviral innate immune response receptor RIG-I	Probable ATP-dependent RNA helicase DDX58	Homo sapiens	8	3ZD7,4AY2,5E3H,7JL1,7JL3	RLR/Dicer		
+Q6Q899	Antiviral innate immune response receptor RIG-I	RIG-I Helicase Domain	Mus musculus	1	3TBK	RLR/Dicer		
+A1ZAW0	Endoribonuclease Dcr-2	Dicer-2, isoform A	Drosophila melanogaster	5	7W0C,7W0D,7W0E,8YIH,8YII	RLR/Dicer		
+G5EDI8	RNA helicase	Dicer-related helicase	Caenorhabditis elegans	2	8T5S,9T99	RLR/Dicer		
+P27296	ATP-dependent DNA helicase DinG	ATP-dependent DNA helicase DinG	Escherichia coli	1	6FWS	Rad3/XPD		
+O14646	ATP-dependent chromatin remodeler CHD1	Chromodomain-helicase-DNA-binding protein 1	Homo sapiens	1	9EAR	Rad3/XPD	SWI2/SNF2	
+Q86WJ1	ATP-dependent chromatin remodeler CHD1L	Chromodomain-helicase-DNA-binding protein 1-like	Homo sapiens	2	7ENN,7EPU	Rad3/XPD	SWI2/SNF2	
+Q14839	ATP-dependent chromatin remodeler CHD4	Chromodomain-helicase-DNA-binding protein 4,Chromodomain-helicase-DNA-binding protein 4,Chromodomain-helicase-DNA-binding protein 4	Homo sapiens	2	6RYR,6RYU	Rad3/XPD	SWI2/SNF2	
+Q96L91	E1A-binding protein p400	E1A-binding protein p400,E1A-binding protein p400/Haloalkane dehalogenase chimera	Homo sapiens	6	8XVG,8XVT,9C57,9C62,9CAC	Rad3/XPD	SWI2/SNF2	
+P15043	ATP-dependent DNA helicase RecQ	ATP-dependent DNA helicase	Escherichia coli	1	1OYY	RecQ		
+Q14191	Bifunctional 3'-5' exonuclease/ATP-dependent helicase WRN	Bifunctional 3'-5' exonuclease/ATP-dependent helicase WRN	Homo sapiens	12	10AP,6YHR,7GQS,7GQT,7GQU	RecQ		
+Q9RUU2	DNA helicase RecQ	DNA helicase RecQ	Deinococcus radiodurans	1	4Q47	RecQ		
+P54132	RecQ-like DNA helicase BLM	Bloom syndrome protein	Homo sapiens	5	4CDG,4CGZ,4O3M,7AUC,7AUD	RecQ		
+P32657	ATP-dependent chromatin remodeler CHD1	Chromo domain-containing protein 1	Saccharomyces cerevisiae	7	3MWY,5O9G,6G0L,7NKX,9GD1	SWI2/SNF2		
+Q05471	Chromatin remodeling protein SWR1	Helicase SWR1	Saccharomyces cerevisiae S288C	7	8QKU,8QKV,8QYV,8QZ0,9B1D	SWI2/SNF2		
+P53115	Chromatin-remodeling ATPase INO80	Chromatin-remodeling ATPase INO80	Saccharomyces cerevisiae S288C	12	8ETS,8ETU,8ETW,8EU9,8EUF	SWI2/SNF2		
+Q9ULG1	Chromatin-remodeling ATPase INO80	Chromatin-remodeling ATPase INO80	Homo sapiens	6	6HTS,7ZI4,9GCG,9GE5,9GEV	SWI2/SNF2		
+P38144	ISWI chromatin-remodeling complex ATPase ISW1	ISWI chromatin-remodeling complex ATPase ISW1	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	14	6IRO,6JYL,6K1P,7X3T,7X3W	SWI2/SNF2		
+P22082	SWI/SNF chromatin-remodeling complex subunit SNF2	Transcription regulatory protein SNF2	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	7	5Z3O,5Z3U,5Z3V,6IY2,6IY3	SWI2/SNF2		
+Q9HBD4	SWI/SNF related BAF chromatin remodeling complex subunit ATPase 4	SMARCA4 isoform 2	Homo sapiens	3	21VV,21WA,21WC	SWI2/SNF2		
+P51531	SWI/SNF-related matrix-associated actin-dependent regulator of chromatin subfamily A member 2	Probable global transcription activator SNF2L2	Homo sapiens	1	9AYQ	SWI2/SNF2		
+O73946	ATP-dependent DNA helicase Hel308	Putative ski2-type helicase	Pyrococcus furiosus	2	2ZJ5,2ZJA	Ski2-like		
+Q8IYB8	ATP-dependent RNA helicase SUPV3L1, mitochondrial	ATP-dependent RNA helicase SUPV3L1, mitochondrial	Homo sapiens	5	3RC3,9VCT,9VCU,9VD0,9VD1	Ski2-like		
+P35207	Antiviral helicase SKI2	ANTIVIRAL HELICASE SKI2	SACCHAROMYCES CEREVISIAE	2	4A4Z,8QCF	Ski2-like		
+P42285	Exosome RNA helicase MTR4	Exosome RNA helicase MTR4,Exosome RNA helicase MTR4	Homo sapiens	7	6C90,6D6Q,6D6R,6IEG,6IEH	Ski2-like		
+P32639	Pre-mRNA-splicing helicase BRR2	Pre-mRNA-splicing helicase BRR2	Saccharomyces cerevisiae	2	4BGD,5GM6	Ski2-like		
+P24230	ATP-dependent DNA helicase RecG	ATP-dependent DNA helicase RecG	Escherichia coli K-12	2	9WM1,9WM2	other		
+Q9WY48	ATP-dependent DNA helicase RecG	RECG	THERMOTOGA MARITIMA	1	1GM5	other		
+O29238	Reverse gyrase	REVERSE GYRASE	ARCHAEOGLOBUS FULGIDUS	1	1GL9	other		
+O51934	Reverse gyrase	reverse gyrase helicase-like domain	thermotoga maritima	1	3P4X	other		
+A0R3C5	Transcription-repair-coupling factor	Mycobacterium smegmatis Mfd	Mycolicibacterium smegmatis MC2 155	1	6ACX	other		
+Q32ZE1	Genome polyprotein	NS3 helicase	Zika virus (strain Mr 766)	2	5Y4Z,6ADX	viral		

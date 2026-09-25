@@ -1,0 +1,284 @@
+acc	subfamily	label	organism	class	census_anchor	census_pos	status	motif_rmsd	qarom	qarom_to_adenine	struct_anchor	struct_aa	struct_offset	matches_census	n6_centroid	n6_closest_atom	n6_closest	approach_angle	to_qarom	rsasa	plddt
+A0AAD3H728	DDX46/PRP5		Chaetoceros tenuissimus	Coscinodiscophyceae	F	402.0	ok	0.54			F402	F	25.0	True	4.83	CZ	3.54	84.6		0.04	93.4
+A0A2P6N4T0	DDX46/PRP5		Planoprotostelium fungivorum	Variosea	F	1324.0	no_model														
+A0A9P8Q4K4	DDX46/PRP5		Wickerhamomyces pijperi (Yeast) (Pichia pijperi)	Saccharomycetes	Y	254.0	ok	4.91	TYR272	5.9	none	-		False							
+A0A8H4IXG8	DDX46/PRP5		Botryosphaeria dothidea	Dothideomycetes	F	528.0	ok	0.45	TYR546	3.97	F528	F	25.0	True	4.87	CZ	3.52	80.7	7.16	0.059	94.2
+A0ABQ6MEG6	DDX46/PRP5		Tetraparma gracilis	Bolidophyceae	F	65.0	no_model														
+A0A2I0AJE8	DDX46/PRP5		Apostasia shenzhenica	Magnoliopsida	F	436.0	motif_not_found														
+A0A2R6NSJ6	DDX46/PRP5		Hermanssonia centrifuga	Agaricomycetes	F	43.0	motif_not_found														
+A0A448YV18	DDX46/PRP5		Pseudo-nitzschia multistriata	Bacillariophyceae	F	471.0	ok	0.49			F471	F	25.0	True	5.01	CZ	3.7	87.1		0.029	91.9
+A0ABQ8X695	DDX46/PRP5		Anaeramoeba flamelloides		F	457.0	no_model														
+L1LBU7	DDX46/PRP5		Theileria equi (strain WA) (Babesia equi)	Aconoidasida	F	348.0	ok	0.64	TYR366	4.67	F348	F	25.0	True	4.88	CZ	3.59	82.4	6.98	0.045	92.7
+Q2HAD8	DDX46/PRP5		Chaetomium globosum (strain ATCC 6205 / CBS 148.51 / DSM 1962 / NBRC 6347 / NRRL 1970) (Soil fungus)	Sordariomycetes	W	431.0	ok	0.56	TYR449	4.15	W431	W	25.0	True	4.98	CZ2	3.4	77.0	6.82	0.087	94.4
+Q6BML1	DDX46/PRP5		Debaryomyces hansenii (strain ATCC 36239 / CBS 767 / BCRC 21394 / JCM 1990 / NBRC 0083 / IGC 2968) (Yeast) (Torulaspora hansenii)	Pichiomycetes	W	318.0	ok	0.51	TYR337	3.31	W318	W	26.0	True	4.99	CZ2	3.37	79.1	7.14	0.025	94.1
+Q4TVV3	DDX46/PRP5		Danio rerio (Zebrafish) (Brachydanio rerio)	Actinopteri	W	342.0	ok	0.48	TYR360	4.35	W342	W	25.0	True	4.91	CZ2	3.27	81.5	6.63	0.037	93.9
+Q6CKI1	DDX46/PRP5		Kluyveromyces lactis (strain ATCC 8585 / CBS 2359 / DSM 70799 / NBRC 1267 / NRRL Y-1140 / WM37) (Yeast) (Candida sphaerica)	Saccharomycetes	W	247.0	ok	0.57	PHE266	3.66	W247	W	26.0	True	5.26	CZ2	3.67	78.9	6.81	0.058	88.4
+Q62780	DDX46/PRP5		Rattus norvegicus (Rat)	Mammalia	W	374.0	ok	0.5	TYR392	4.62	W374	W	25.0	True	5.09	CZ2	3.42	84.1	6.83	0.055	93.8
+Q4PFD9	DDX46/PRP5		Mycosarcoma maydis (Corn smut fungus) (Ustilago maydis)	Ustilaginomycetes	W	478.0	ok	0.51	TYR496	4.13	W478	W	25.0	True	4.98	CZ2	3.37	77.7	6.7	0.075	92.4
+A6RW79	DDX46/PRP5		Botrytis cinerea (strain B05.10) (Noble rot fungus) (Botryotinia fuckeliana)	Leotiomycetes	W	556.0	ok	0.52	TYR574	4.1	W556	W	25.0	True	5.05	CZ2	3.45	77.1	6.84	0.075	93.5
+Q6CCZ1	DDX46/PRP5		Yarrowia lipolytica (strain CLIB 122 / E 150) (Yeast) (Candida lipolytica)	Dipodascomycetes	W	380.0	ok	0.46	TYR398	3.86	W380	W	25.0	True	5.09	CZ2	3.47	81.3	7.24	0.041	93.8
+A0A8E0RJX8	DDX46/PRP5		Fasciolopsis buskii	Trematoda	W	355.0	ok	0.48	PHE373	4.36	W355	W	25.0	True	5.15	CZ2	3.6	77.4	7.34	0.037	92.9
+A0ABQ7TJI2	DDX46/PRP5		Phrynosoma platyrhinos (Desert horned lizard)	Lepidosauria	W	379.0	no_model														
+A0AAD8AMG3	DDX46/PRP5		Diploptera punctata (Pacific beetle cockroach)	Insecta	W	201.0	ok	0.49	TYR219	4.38	W201	W	25.0	True	4.97	CZ2	3.34	81.5	7.03	0.059	94.4
+A0A397JMH7	DDX46/PRP5		Diversispora epigaea	Glomeromycetes	W	408.0	ok	0.54	PHE426	4.07	W408	W	25.0	True	5.08	CZ2	3.45	79.8	6.82	0.07	95.2
+A0A507QNH6	DDX46/PRP5		Monascus purpureus (Red mold) (Monascus anka)	Eurotiomycetes	W	568.0	ok	0.47	TYR586	4.1	W568	W	25.0	True	5.17	CZ2	3.6	81.1	6.74	0.075	92.0
+A0A852HXH7	DDX46/PRP5		Nicator chloris	Aves	W	378.0	ok	0.47	TYR396	4.45	W378	W	25.0	True	5.07	CZ2	3.44	80.9	6.85	0.059	92.4
+A0A5N5GF68	DDX46/PRP5		Pyrus ussuriensis x Pyrus communis	Magnoliopsida	W	431.0	ok	0.58	TYR449	4.29	W431	W	25.0	True	4.99	CZ2	3.39	81.5	7.09	0.063	93.2
+A0A8J4CGR1	DDX46/PRP5		Volvox reticuliferus	Chlorophyceae	W	77.0	ok	0.54	PHE95	4.02	W77	W	25.0	True	5.08	CZ2	3.47	77.6	6.97	0.08	94.4
+A0A074SZZ0	DDX46/PRP5		Rhizoctonia solani 123E	Agaricomycetes	W	469.0	ok	0.55	TYR487	4.08	W469	W	25.0	True	5.07	CZ2	3.45	78.6	6.57	0.092	92.8
+A0A9P6NAV9	DDX46/PRP5		Cronartium quercuum f. sp. fusiforme G11	Pucciniomycetes	W	264.0	ok	0.53	TYR282	4.06	W264	W	25.0	True	4.9	CZ2	3.24	79.1	6.82	0.084	95.3
+T0RTC8	DDX46/PRP5		Saprolegnia diclina (strain VS20)	Saprolegniomycetes	W	452.0	ok	0.48	TYR470	4.71	W452	W	25.0	True	4.95	CZ2	3.36	80.1	7.12	0.08	93.2
+A0A7I4E2Q9	DDX46/PRP5		Physcomitrium patens (Spreading-leaved earth moss) (Physcomitrella patens)	Bryopsida	W	517.0	ok	0.58	PHE535	3.85	W517	W	25.0	True	5.07	CZ2	3.53	79.5	6.99	0.063	90.9
+A0A6A6BR42	DDX46/PRP5		Aplosporella prunicola CBS 121167	Dothideomycetes	W	368.0	ok	0.53	PHE386	4.0	W368	W	25.0	True	5.06	CZ2	3.5	79.3	7.11	0.067	94.8
+A0AAV6TY08	DDX46/PRP5		Oedothorax gibbosus	Arachnida	W	355.0	ok	0.45	TYR373	4.17	W355	W	25.0	True	5.02	CZ2	3.45	80.0	6.85	0.075	92.1
+I4YAL6	DDX46/PRP5		Wallemia mellicola (strain ATCC MYA-4683 / CBS 633.66) (Wallemia sebi (CBS 633.66))	Wallemiomycetes	W	343.0	ok	0.5	TYR361	4.05	W343	W	25.0	True	5.1	CZ2	3.46	82.0	6.86	0.07	94.2
+A0A1Y1V0L0	DDX46/PRP5		Piromyces finnis	Neocallimastigomycetes	W	138.0	ok	0.56	TYR157	3.11	W138	W	26.0	True	5.04	CZ2	3.39	82.5	6.82	0.087	93.6
+A0A8T2J740	DDX46/PRP5		Hymenochirus boettgeri (Congo dwarf clawed frog)	Amphibia	W	370.0	ok	0.45	TYR388	4.22	W370	W	25.0	True	5.05	CZ2	3.41	80.8	6.93	0.055	92.2
+A0A1R2B2Z6	DDX46/PRP5		Stentor coeruleus	Heterotrichea	W	257.0	ok	0.52	PHE275	4.19	W257	W	25.0	True	4.98	CZ2	3.39	80.9	7.27	0.054	93.7
+A0AAW1PMA9	DDX46/PRP5		Symbiochloris irregularis	Trebouxiophyceae	W	589.0	ok	0.52	PHE607	4.08	W589	W	25.0	True	5.02	CZ2	3.42	79.2	6.79	0.047	92.8
+A0AAV4E3K7	DDX46/PRP5		Plakobranchus ocellatus	Gastropoda	W	340.0	ok	0.49	TYR358	4.11	W340	W	25.0	True	4.98	CZ2	3.41	77.8	7.0	0.046	94.2
+A0A7M4FXN1	DDX46/PRP5		Crocodylus porosus (Saltwater crocodile) (Estuarine crocodile)		W	342.0	ok	0.46	TYR360	4.28	W342	W	25.0	True	5.11	CZ2	3.47	84.2	6.74	0.042	91.7
+F0ZSP5	DDX46/PRP5		Dictyostelium purpureum (Slime mold)	Eumycetozoa	W	29.0	ok	0.55	TYR47	4.41	W29	W	25.0	True	5.17	CZ2	3.56	80.7	7.36	0.075	95.2
+A0A1E4TR64	DDX23/PRP28		Pachysolen tannophilus NRRL Y-2460	Pichiomycetes	F	96.0	ok	0.63	PHE114	4.37	F96	F	25.0	True	5.2	CZ	3.98	85.7	7.49	0.015	92.1
+A0A1E7FI79	DDX23/PRP28		Fragilariopsis cylindrus CCMP1102	Bacillariophyceae	F	44.0	ok	0.54	TYR64	2.13	F44	F	27.0	True	5.25	CZ	4.03	88.3	5.86	0.055	93.0
+A0A8J4XZZ5	DDX23/PRP28		Chionoecetes opilio (Atlantic snow crab) (Cancer opilio)	Malacostraca	F	135.0	ok	0.56			F135	F	25.0	True	4.88	CZ	3.52	83.0		0.0	93.2
+A0ACB7EHL8	DDX23/PRP28		Nibea albiflora (Yellow drum) (Corvina albiflora)	Actinopteri	F	151.0	no_model														
+A0AA39MCZ3	DDX23/PRP28		Steinernema hermaphroditum	Chromadorea	F	149.0	ok	0.74			F149	F	25.0	True	5.65	CZ	4.3	84.9		0.024	88.0
+A0A2J7PS80	DDX23/PRP28		Cryptotermes secundus	Insecta	F	122.0	ok	0.59			F122	F	25.0	True	4.94	CZ	3.63	82.8		0.015	90.6
+A0A0M9FWT3	DDX23/PRP28		Leptomonas pyrrhocoris (Firebug parasite)	Kinetoplastea	F	108.0	ok	0.59			F108	F	25.0	True	5.66	CZ	4.36	83.9		0.049	90.2
+A0AAN9WYF3	DDX23/PRP28		Psophocarpus tetragonolobus (Winged bean) (Dolichos tetragonolobus)	Magnoliopsida	-	40.0	motif_not_found														
+A0A0L0MXQ9	DDX23/PRP28		Tolypocladium ophioglossoides (strain CBS 100239) (Snaketongue truffleclub) (Elaphocordyceps ophioglossoides)	Sordariomycetes	Y	62.0	motif_not_found														
+A0A6A6JDC7	DDX23/PRP28		Westerdykella ornata	Dothideomycetes	F	190.0	ok	0.69	PHE208	3.91	F190	F	25.0	True	4.57	CZ	3.34	75.5	7.2	0.02	88.0
+A5DF03	DDX23/PRP28		Meyerozyma guilliermondii (strain ATCC 6260 / CBS 566 / DSM 6381 / JCM 1539 / NBRC 10279 / NRRL Y-324) (Yeast) (Candida guilliermondii)	Pichiomycetes	W	152.0	ok	0.62	TYR170	4.66	W152	W	25.0	True	5.31	CZ2	3.79	82.8	7.38	0.055	95.4
+Q9BUQ8	DDX23/PRP28	human DDX23	Homo sapiens (Human)	Mammalia	W	393.0	ok	0.69	TYR411	3.63	W393	W	25.0	True	5.69	CZ2	4.28	82.0	7.53	0.067	95.6
+A6RJA2	DDX23/PRP28		Botrytis cinerea (strain B05.10) (Noble rot fungus) (Botryotinia fuckeliana)	Leotiomycetes	W	382.0	ok	0.62	TYR400	3.3	W382	W	25.0	True	5.56	CZ2	4.03	81.2	7.04	0.037	93.3
+Q2HEB0	DDX23/PRP28		Chaetomium globosum (strain ATCC 6205 / CBS 148.51 / DSM 1962 / NBRC 6347 / NRRL 1970) (Soil fungus)	Sordariomycetes	W	271.0	ok	0.64	TYR289	3.59	W271	W	25.0	True	5.44	CZ2	3.92	84.6	6.97	0.101	92.2
+A0A4V0KB21	DDX23/PRP28		Plasmodium chabaudi chabaudi	Aconoidasida	W	517.0	ok	0.64	TYR535	3.52	W517	W	25.0	True	5.38	CZ2	3.83	84.2	6.95	0.054	90.9
+A0A7L1XHL4	DDX23/PRP28		Thinocorus orbignyianus	Aves	W	173.0	ok	0.64	TYR191	3.55	W173	W	25.0	True	5.71	CZ2	4.31	83.9	7.45	0.084	96.9
+A0ABR2X1S8	DDX23/PRP28		Basidiobolus ranarum	Basidiobolomycetes	W	284.0	no_model														
+A0ACB9TD37	DDX23/PRP28		Holotrichia oblita (Chafer beetle)	Insecta	W	349.0	no_model														
+A0A665T888	DDX23/PRP28		Echeneis naucrates (Live sharksucker)	Actinopteri	W	316.0	ok	0.67	TYR334	3.58	W316	W	25.0	True	5.82	CZ2	4.42	83.5	7.57	0.059	94.8
+M2MYS1	DDX23/PRP28		Baudoinia panamericana (strain UAMH 10762) (Angels' share fungus) (Baudoinia compniacensis (strain UAMH 10762))	Dothideomycetes	W	343.0	ok	0.62	TYR361	3.15	W343	W	25.0	True	5.48	CZ2	3.94	81.5	6.98	0.088	93.3
+A0A7J7JSD7	DDX23/PRP28		Bugula neritina (Brown bryozoan) (Sertularia neritina)	Gymnolaemata	W	386.0	ok	0.65	TYR404	3.21	W386	W	25.0	True	5.7	CZ2	4.24	81.5	7.17	0.046	93.1
+A0AAD8JQ90	DDX23/PRP28		Tagetes erecta (African marigold)	Magnoliopsida	W	286.0	ok	0.66	TYR304	3.31	W286	W	25.0	True	5.4	CZ2	3.88	85.2	6.79	0.084	93.8
+A0A8X6PKR4	DDX23/PRP28		Nephila pilipes (Giant wood spider) (Nephila maculata)	Arachnida	W	417.0	ok	0.7	TYR435	4.47	W417	W	25.0	True	5.58	CZ2	4.22	82.2	7.68	0.067	93.4
+A0ABD0L455	DDX23/PRP28		Batillaria attramentaria	Gastropoda	W	343.0	ok	0.66	TYR361	3.41	W343	W	25.0	True	5.63	CZ2	4.16	83.3	7.28	0.071	92.8
+A0AA35VZK4	DDX23/PRP28		Geodia barretti (Barrett's horny sponge)	Demospongiae	W	358.0	motif_not_found														
+A0A1E3PQ74	DDX23/PRP28		Nadsonia fulvescens var. elongata DSM 6958	Dipodascomycetes	W	143.0	ok	0.56	TYR161	3.77	W143	W	25.0	True	5.58	CZ2	4.09	83.6	7.09	0.084	95.2
+A0A087SAU3	DDX23/PRP28		Auxenochlorella protothecoides (Green microalga) (Chlorella protothecoides)	Trebouxiophyceae	W	275.0	ok	0.65	TYR293	3.7	W275	W	25.0	True	5.4	CZ2	3.86	82.8	6.69	0.148	92.4
+A0A165H4G0	DDX23/PRP28		Laetiporus sulphureus 93-53	Agaricomycetes	W	329.0	ok	0.63	TYR347	3.57	W329	W	25.0	True	5.48	CZ2	3.96	84.3	7.1	0.088	92.8
+A0A4V1IWZ5	DDX23/PRP28		Thamnocephalis sphaerospora	Zoopagomycetes	W	162.0	ok	0.63	TYR180	3.82	W162	W	25.0	True	5.49	CZ2	4.03	85.7	6.96	0.058	94.2
+A0A0W4ZGH6	DDX23/PRP28		Pneumocystis jirovecii (strain RU7) (Human pneumocystis pneumonia agent)	Pneumocystomycetes	W	410.0	ok	0.61	TYR428	3.3	W410	W	25.0	True	5.47	CZ2	3.98	81.4	6.91	0.067	94.9
+D8T5B6	DDX23/PRP28		Selaginella moellendorffii (Gemmiferous spikemoss) (Kungiselaginella moellendorffii)	Lycopodiopsida	W	187.0	ok	0.62	TYR205	3.79	W187	W	25.0	True	5.35	CZ2	3.78	82.0	6.67	0.033	93.9
+A0AAE9IMN0	DDX23/PRP28		Caenorhabditis briggsae	Chromadorea	W	305.0	ok	0.64	TYR323	3.57	W305	W	25.0	True	5.49	CZ2	4.01	84.5	6.9	0.054	93.3
+V5EX56	DDX23/PRP28		Kalmanozyma brasiliensis (strain GHG001) (Yeast) (Pseudozyma brasiliensis)	Ustilaginomycetes	W	262.0	ok	0.65	TYR280	3.76	W262	W	25.0	True	5.42	CZ2	3.89	86.3	7.01	0.072	92.2
+A0A8J4XV95	DDX23/PRP28		Chionoecetes opilio (Atlantic snow crab) (Cancer opilio)	Malacostraca	W	431.0	ok	0.7	TYR449	3.63	W431	W	25.0	True	5.61	CZ2	4.22	81.5	7.79	0.079	92.4
+A0A4S2N709	DDX23/PRP28		Ascodesmis nigricans	Pezizomycetes	W	344.0	ok	0.64	TYR362	3.42	W344	W	25.0	True	5.38	CZ2	3.84	84.5	6.82	0.075	93.8
+A0A813QNS3	DDX23/PRP28		Brachionus calyciflorus	Eurotatoria	W	299.0	ok	0.63	TYR317	3.2	W299	W	25.0	True	5.56	CZ2	4.02	84.6	7.24	0.05	92.0
+A0A250XKS0	DDX23/PRP28		Chlamydomonas eustigma	Chlorophyceae	W	532.0	ok	0.63	TYR550	4.44	W532	W	25.0	True	5.41	CZ2	3.74	82.9	7.16	0.101	91.7
+A0ACF7XE80	DDX23/PRP28		Tetrahymena utriculariae	Oligohymenophorea	W	324.0	no_model														
+A9V7D0	DDX23/PRP28		Monosiga brevicollis (Choanoflagellate)	Choanoflagellata	W	275.0	ok	0.71	PHE293	4.06	W275	W	25.0	True	5.29	CZ2	3.74	81.5	7.25	0.05	94.1
+A0AAD6J549	DDX23/PRP28		Drechslerella dactyloides (Nematode-trapping fungus) (Arthrobotrys dactyloides)	Orbiliomycetes	W	387.0	ok	0.6	TYR405	3.47	W387	W	25.0	True	5.45	CZ2	3.93	83.8	7.14	0.059	91.8
+F0VJC3	DDX24/MAK5		Neospora caninum (strain Liverpool)	Conoidasida	-	228.0	motif_not_found														
+A0A0G4EMC1	DDX24/MAK5		Vitrella brassicaformis		Y	162.0	ok	0.56	PHE181	4.06	none	-		False							
+A0A0C2YDM5	DDX24/MAK5		Hebeloma cylindrosporum	Agaricomycetes	F	29.0	motif_not_found														
+A0ACC3MRE7	DDX24/MAK5		Vermiconidia calcicola	Dothideomycetes	-	184.0	no_model														
+A0A8J5QSR7	DDX24/MAK5		[Candida] subhashii	Pichiomycetes	F	209.0	ok	0.59	PHE224	3.01	W202	W	29.0	False	5.39	CZ2	3.8	76.0	7.83	0.012	74.3
+A0A9Q1I8Q6	DDX24/MAK5		Conger conger (Conger eel) (Muraena conger)	Actinopteri	-	65.0	motif_not_found														
+A0A2C6KLY9	DDX24/MAK5		Cystoisospora suis	Conoidasida	-	259.0	motif_not_found														
+Q5RDL2	DDX24/MAK5		Pongo abelii (Sumatran orangutan) (Pongo pygmaeus abelii)	Mammalia	W	194.0	motif_not_found														
+Q6BV58	DDX24/MAK5		Debaryomyces hansenii (strain ATCC 36239 / CBS 767 / BCRC 21394 / JCM 1990 / NBRC 0083 / IGC 2968) (Yeast) (Torulaspora hansenii)	Pichiomycetes	W	201.0	ok	0.52	TYR219	3.51	W201	W	25.0	True	5.48	CZ2	3.84	78.9	7.83	0.024	85.6
+Q6CTN7	DDX24/MAK5		Kluyveromyces lactis (strain ATCC 8585 / CBS 2359 / DSM 70799 / NBRC 1267 / NRRL Y-1140 / WM37) (Yeast) (Candida sphaerica)	Saccharomycetes	W	220.0	ok	0.47	PHE239	3.67	W220	W	26.0	True	5.33	CZ2	3.75	76.0	7.86	0.004	91.3
+A0A835NZH5	DDX24/MAK5		Lamprotornis superbus	Aves	W	196.0	ok	0.58	PHE214	3.61	W196	W	25.0	True	5.1	CZ2	3.47	74.9	7.34	0.008	90.8
+A0ABR2P6T2	DDX24/MAK5		Hibiscus sabdariffa (roselle)	Magnoliopsida	W	184.0	no_model														
+A0AAD7TH54	DDX24/MAK5		Trametes cubensis	Agaricomycetes	W	132.0	ok	0.69	PHE150	3.55	W132	W	25.0	True	5.52	CZ2	3.87	82.9	7.78	0.045	80.6
+S2JU68	DDX24/MAK5		Mucor circinelloides f. circinelloides (strain 1006PhL) (Mucormycosis agent) (Calyptromyces circinelloides)	Mucoromycetes	W	273.0	ok	0.61	PHE291	3.89	W273	W	25.0	True	5.5	CZ2	3.83	81.6	7.6	0.049	85.3
+A0A3Q2ZA12	DDX24/MAK5		Hippocampus comes (Tiger tail seahorse)	Actinopteri	W	222.0	ok	0.62	PHE240	3.51	W222	W	25.0	True	5.52	CZ2	3.92	72.7	7.63	0.019	85.9
+A0ABD1F8E6	DDX24/MAK5		Hypothenemus hampei (Coffee berry borer)	Insecta	W	100.0	ok	0.57	PHE118	3.65	W100	W	25.0	True	5.57	CZ2	3.89	82.2	7.72	0.008	82.2
+A0A433D0K2	DDX24/MAK5		Jimgerdemannia flammicorona	Endogonomycetes	W	308.0	ok	0.63	PHE326	3.66	W308	W	25.0	True	5.37	CZ2	3.74	77.4	7.31	0.02	85.7
+R4XP02	DDX24/MAK5		Taphrina deformans (strain PYCC 5710 / ATCC 11124 / CBS 356.35 / IMI 108563 / JCM 9778 / NBRC 8474) (Peach leaf curl fungus) (Lalaria deformans)	Taphrinomycetes	W	166.0	ok	0.7	PHE184	4.0	W166	W	25.0	True	5.2	CZ2	3.52	81.3	7.31	0.0	82.1
+A0AAV5GG77	DDX24/MAK5		Rhodotorula paludigena	Microbotryomycetes	W	219.0	ok	0.68	PHE237	3.89	W219	W	25.0	True	5.25	CZ2	3.65	75.5	7.1	0.0	80.5
+A0A9W9CYH9	DDX24/MAK5		Gnomoniopsis smithogilvyi	Sordariomycetes	W	184.0	ok	0.57	PHE202	3.58	W184	W	25.0	True	5.51	CZ2	3.89	75.7	7.8	0.016	88.2
+A0AAD9UXU5	DDX24/MAK5		Acropora cervicornis (Staghorn coral)	Anthozoa	W	177.0	ok	0.94	PHE195	3.51	W177	W	25.0	True	5.4	CZ2	3.72	79.6	7.23	0.013	83.1
+A0A152AA77	DDX24/MAK5		Tieghemostelium lacteum (Slime mold) (Dictyostelium lacteum)	Eumycetozoa	W	259.0	ok	0.51	PHE277	3.56	W259	W	25.0	True	5.76	CZ2	4.11	79.3	7.85	0.008	87.3
+A0A8C3SF55	DDX24/MAK5		Chelydra serpentina (Snapping turtle) (Testudo serpentina)		W	195.0	ok	0.53	PHE213	3.44	W195	W	25.0	True	5.19	CZ2	3.56	75.7	7.3	0.004	85.4
+A0A139A9F3	DDX24/MAK5		Gonapodya prolifera (strain JEL478) (Monoblepharis prolifera)	Monoblepharidomycetes	W	193.0	ok	0.48	PHE211	3.62	W193	W	25.0	True	5.66	CZ2	4.04	76.8	8.24	0.004	93.4
+A0A5B0M2U1	DDX24/MAK5		Puccinia graminis f. sp. tritici	Pucciniomycetes	W	236.0	ok	0.74	PHE254	3.74	W236	W	25.0	True	5.75	CZ2	4.08	81.9	7.61	0.008	81.9
+A0A8C6VC11	DDX24/MAK5		Naja naja (Indian cobra)	Lepidosauria	W	189.0	ok	0.56	PHE207	3.46	W189	W	25.0	True	5.08	CZ2	3.44	76.2	7.12	0.0	88.2
+M2SQB5	DDX24/MAK5		Cochliobolus sativus (strain ND90Pr / ATCC 201652) (Common root rot and spot blotch fungus) (Bipolaris sorokiniana)	Dothideomycetes	W	254.0	ok	0.67	PHE272	3.72	W254	W	25.0	True	5.21	CZ2	3.57	76.6	7.33	0.004	87.6
+A0A317XWY0	DDX24/MAK5		Testicularia cyperi	Ustilaginomycetes	W	260.0	ok	0.61	PHE278	3.81	W260	W	25.0	True	5.54	CZ2	3.96	77.8	7.62	0.013	83.3
+A0A9P6M9K3	DDX24/MAK5		Modicella reniformis	Mortierellomycetes	W	277.0	ok	0.65	PHE295	3.63	W277	W	25.0	True	5.33	CZ2	3.71	75.3	7.22	0.028	86.4
+A0A427YUN0	DDX24/MAK5		Saitozyma podzolica	Tremellomycetes	W	240.0	ok	0.61	PHE258	3.66	W240	W	25.0	True	5.69	CZ2	4.1	76.1	7.86	0.0	86.4
+A0A3S3PGC6	DDX24/MAK5		Dinothrombium tinctorium	Arachnida	W	79.0	ok	0.62	PHE97	3.83	W79	W	25.0	True	5.39	CZ2	3.75	81.5	7.72	0.004	85.3
+A0A8C5R2F8	DDX24/MAK5		Leptobrachium leishanense (Leishan spiny toad)	Amphibia	W	193.0	ok	17.94	PHE211	3.41	none	-		False							
+V9EBC1	DDX24/MAK5		Phytophthora nicotianae P1569	Peronosporomycetes	W	171.0	ok	0.6	PHE189	3.66	W171	W	25.0	True	5.62	CZ2	3.97	79.6	7.45	0.0	85.2
+A0A0K0EJ76	DDX24/MAK5		Strongyloides stercoralis (Threadworm)	Chromadorea	W	13.0	ok	0.6	PHE31	4.18	W13	W	25.0	True	5.26	CZ2	3.62	79.2	7.18	0.025	87.8
+A0ABP0FD79	DDX24/MAK5		Clavelina lepadiformis (Light-bulb sea squirt) (Ascidia lepadiformis)	Ascidiacea	W	151.0	no_model														
+A0A0D1Z8F9	DDX24/MAK5		Exophiala mesophila (Black yeast-like fungus)	Eurotiomycetes	W	176.0	ok	0.67	PHE194	3.37	W176	W	25.0	True	5.25	CZ2	3.63	76.0	7.44	0.0	86.9
+A0ACF8YP33	DDX24/MAK5		Mnemiopsis leidyi (Sea walnut) (Warty comb jellyfish)	Tentaculata	W	297.0	no_model														
+A0ABM0TAW9	DDX55/SPB4		Camelina sativa (False flax) (Myagrum sativum)	Magnoliopsida	F	16.0	no_model														
+A0A087UXC2	DDX55/SPB4		Stegodyphus mimosarum (African social velvet spider)	Arachnida	F	6.0	ok	0.58	PHE24	2.89	F6	F	25.0	True	4.78	CZ	3.54	81.6	6.9	0.03	83.4
+A0A1Z5KBD8	DDX55/SPB4		Fistulifera solaris (Oleaginous diatom)	Bacillariophyceae	F	23.0	ok	0.52	PHE41	3.44	F23	F	25.0	True	5.19	CZ	3.96	84.5	7.23	0.04	86.8
+A0A1Y1II54	DDX55/SPB4		Klebsormidium nitens (Green alga) (Ulothrix nitens)	Klebsormidiophyceae	F	14.0	ok	0.63	PHE34	3.79	F14	F	27.0	True	4.51	CE2	3.35	81.4	7.0	0.015	93.1
+A0A8S1J4W7	DDX55/SPB4		Ostreobium quekettii	Ulvophyceae	F	114.0	ok	0.66	TYR133	2.87	F114	F	26.0	True	4.31	CE2	3.11	81.1	6.95	0.0	92.6
+A0A075AYG9	DDX55/SPB4		Rozella allomycis (strain CSF55)		F	9.0	ok	0.61	PHE27	3.71	F9	F	25.0	True	5.05	CE2	3.88	78.8	7.31	0.045	86.6
+A0A137P9W5	DDX55/SPB4		Conidiobolus coronatus (strain ATCC 28846 / CBS 209.66 / NRRL 28638) (Delacroixia coronata)	Entomophthoromycetes	F	28.0	ok	0.78			F28	F	26.0	True	4.7	CE2	3.59	77.0		0.015	69.8
+A0A9P4HPM4	DDX55/SPB4		Setomelanomma holmii	Dothideomycetes	F	11.0	ok	0.54	PHE31	3.13	F11	F	27.0	True	5.19	CZ	3.99	83.7	7.16	0.058	85.4
+G0RYG4	DDX55/SPB4		Thermochaetoides thermophila (strain DSM 1495 / CBS 144.50 / DAOM 24625 / IMI 039719) (Chaetomium thermophilum)	Sordariomycetes	F	18.0	ok	0.56	TYR35	3.4	W15	W	27.0	False	5.12	CZ2	3.64	78.6	7.2	0.05	84.1
+A0AAV0AQY8	DDX55/SPB4		Phakopsora pachyrhizi (Asian soybean rust disease fungus)	Pucciniomycetes	F	10.0	ok	1.57	PHE30	3.87	F10	F	27.0	True	5.25	CZ	4.04	78.1	7.24	0.052	83.4
+Q6ZPL9	DDX55/SPB4		Mus musculus (Mouse)	Mammalia	W	9.0	ok	0.57	PHE29	3.34	W9	W	27.0	True	5.11	CZ2	3.67	70.9	7.98	0.033	89.9
+Q9VHU1	DDX55/SPB4		Drosophila melanogaster (Fruit fly)	Insecta	W	6.0	ok	0.5	PHE27	2.99	W6	W	28.0	True	4.95	CZ2	3.71	76.2	7.35	0.041	87.9
+Q6FKS8	DDX55/SPB4		Candida glabrata (strain ATCC 2001 / BCRC 20586 / JCM 3761 / NBRC 0622 / NRRL Y-65 / CBS 138) (Yeast) (Nakaseomyces glabratus)	Saccharomycetes	W	7.0	ok	0.49	PHE27	3.83	W7	W	27.0	True	5.56	CZ2	4.28	70.2	7.4	0.13	88.1
+A5E2I8	DDX55/SPB4		Lodderomyces elongisporus (strain ATCC 11503 / CBS 2605 / JCM 1781 / NBRC 1676 / NRRL YB-4239) (Yeast) (Saccharomyces elongisporus)	Pichiomycetes	W	10.0	ok	0.64	TYR30	3.49	W10	W	27.0	True	5.38	CZ2	4.01	67.0	7.3	0.176	83.8
+Q8JHJ2	DDX55/SPB4		Danio rerio (Zebrafish) (Brachydanio rerio)	Actinopteri	W	9.0	ok	0.55	PHE29	3.82	W9	W	27.0	True	5.22	CZ2	3.77	69.2	7.71	0.061	89.8
+Q5ZLN8	DDX55/SPB4		Gallus gallus (Chicken)	Aves	W	9.0	ok	0.61	PHE29	3.5	W9	W	27.0	True	5.26	CZ2	3.73	69.6	7.96	0.065	90.1
+Q2GV49	DDX55/SPB4		Chaetomium globosum (strain ATCC 6205 / CBS 148.51 / DSM 1962 / NBRC 6347 / NRRL 1970) (Soil fungus)	Sordariomycetes	W	15.0	ok	0.62	PHE35	3.35	W15	W	27.0	True	4.98	CZ2	3.7	79.0	7.48	0.029	77.9
+A6RMZ2	DDX55/SPB4		Botrytis cinerea (strain B05.10) (Noble rot fungus) (Botryotinia fuckeliana)	Leotiomycetes	W	14.0	ok	0.62	PHE34	3.35	W14	W	27.0	True	5.06	CZ2	3.61	74.9	7.19	0.054	86.8
+A0A9P6M018	DDX55/SPB4		Modicella reniformis	Mortierellomycetes	W	490.0	ok	0.48	PHE510	3.55	W490	W	27.0	True	5.14	CZ2	3.58	77.9	7.14	0.038	86.8
+A0A674JZ70	DDX55/SPB4		Terrapene triunguis (Three-toed box turtle)		W	9.0	ok	0.6	PHE29	3.53	W9	W	27.0	True	5.19	CZ2	3.67	70.7	7.91	0.045	91.9
+A0AAD6NHR8	DDX55/SPB4		Drechslerella dactyloides (Nematode-trapping fungus) (Arthrobotrys dactyloides)	Orbiliomycetes	W	24.0	ok	0.49	PHE43	3.64	W24	W	26.0	True	5.27	CZ2	3.82	77.1	7.34	0.08	80.0
+A0ACM8DNZ7	DDX55/SPB4		Ixodes scapularis (Black-legged tick) (Deer tick)	Arachnida	W	9.0	no_model														
+A0A6A6B6X2	DDX55/SPB4		Aplosporella prunicola CBS 121167	Dothideomycetes	W	11.0	ok	0.57	PHE31	2.84	W11	W	27.0	True	5.46	CZ2	3.98	73.4	7.16	0.033	86.4
+A0ACE1TJ50	DDX55/SPB4		Xanthoria parietina	Lecanoromycetes	W	11.0	no_model														
+A0A4S4L7A7	DDX55/SPB4		Phellinidium pouzarii	Agaricomycetes	W	11.0	ok	0.58	TYR31	3.39	W11	W	27.0	True	5.29	CZ2	3.85	70.5	7.78	0.036	88.4
+A0A9Q1CCN9	DDX55/SPB4		Holothuria leucospilota (Black long sea cucumber) (Mertensiothuria leucospilota)	Holothuroidea	W	5.0	ok	0.55	PHE25	3.4	W5	W	27.0	True	5.45	CZ2	3.95	69.1	7.84	0.082	88.4
+A0A5N6KXQ8	DDX55/SPB4		Carpinus fangiana	Magnoliopsida	W	22.0	ok	0.59	PHE42	2.96	W22	W	27.0	True	5.36	CZ2	3.9	70.4	7.25	0.03	85.5
+A0A1X7V302	DDX55/SPB4		Amphimedon queenslandica (Sponge)	Demospongiae	W	5.0	ok	0.63	PHE25	4.59	W5	W	27.0	True	5.16	CZ2	3.62	74.0	7.47	0.021	93.1
+A0A5C3EAT9	DDX55/SPB4		Ustilago trichophora	Ustilaginomycetes	W	31.0	ok	0.59	PHE51	3.71	W31	W	27.0	True	5.09	CZ2	3.68	72.6	7.34	0.054	85.4
+A0A167EIP6	DDX55/SPB4		Sugiyamaella lignohabitans	Dipodascomycetes	W	12.0	ok	0.54	PHE32	3.88	W12	W	27.0	True	5.47	CZ2	3.98	75.1	7.36	0.023	86.4
+A0A3N4KWE1	DDX55/SPB4		Morchella conica CCBAS932	Pezizomycetes	W	48.0	ok	0.53	PHE68	2.96	W48	W	27.0	True	5.37	CZ2	3.85	76.6	7.48	0.058	83.2
+A0A8H7SVI6	DDX55/SPB4		Thamnidium elegans	Mucoromycetes	W	11.0	ok	0.51	PHE31	3.29	W11	W	27.0	True	5.29	CZ2	3.86	72.1	7.52	0.017	86.8
+A0A813EGY0	DDX55/SPB4		Polarella glacialis (Dinoflagellate)	Dinophyceae	W	7.0	ok	0.67	PHE25	2.82	W7	W	25.0	True	5.1	CZ2	3.59	76.1	7.21	0.08	81.8
+A0A9J7M0L5	DDX55/SPB4		Branchiostoma floridae (Florida lancelet) (Amphioxus)	Leptocardii	W	5.0	ok	0.54	PHE25	3.71	W5	W	27.0	True	5.5	CZ2	4.05	68.8	7.59	0.059	84.3
+A0AAD9P0Y8	DDX55/SPB4		Ridgeia piscesae (Tubeworm)	Polychaeta	W	5.0	ok	0.56	PHE25	3.83	W5	W	27.0	True	5.45	CZ2	4.03	69.6	7.43	0.12	84.9
+A0A0R3U6Q6	DDX55/SPB4		Mesocestoides corti (Flatworm)	Cestoda	W	9.0	ok	0.5	PHE27	2.39	W9	W	25.0	True	4.98	CZ2	3.45	77.4	7.33	0.067	88.9
+E9GFC7	DDX55/SPB4		Daphnia pulex (Water flea)	Branchiopoda	W	5.0	ok	0.53	PHE25	3.92	W5	W	27.0	True	5.31	CZ2	3.85	68.3	7.68	0.099	83.1
+C5FD77	DDX55/SPB4		Arthroderma otae (strain ATCC MYA-4605 / CBS 113480) (Microsporum canis)	Eurotiomycetes	W	14.0	ok	0.59	PHE34	3.43	W14	W	27.0	True	5.32	CZ2	3.86	72.3	7.02	0.037	86.0
+A0ACC2TUS2	DDX55/SPB4		Entomophthora muscae	Entomophthoromycetes	W	12.0	no_model														
+A0A0L0HQH4	DDX55/SPB4		Spizellomyces punctatus (strain DAOM BR117)	Chytridiomycetes	W	10.0	ok	0.65	PHE30	4.25	W10	W	27.0	True	5.05	CZ2	3.81	78.1	7.33	0.029	90.2
+Q6BP45	DDX52/ROK1		Debaryomyces hansenii (strain ATCC 36239 / CBS 767 / BCRC 21394 / JCM 1990 / NBRC 0083 / IGC 2968) (Yeast) (Torulaspora hansenii)	Pichiomycetes	Y	119.0	ok	0.51	PHE134	4.06	F112	F	29.0	False	5.15	CZ	3.93	81.5	7.6	0.01	87.1
+Q99PT0	DDX52/ROK1		Rattus norvegicus (Rat)	Mammalia	Y	171.0	ok	0.48	PHE186	3.71	F164	F	29.0	False	5.11	CZ	3.86	85.5	7.29	0.015	93.2
+Q6CDS6	DDX52/ROK1		Yarrowia lipolytica (strain CLIB 122 / E 150) (Yeast) (Candida lipolytica)	Dipodascomycetes	F	116.0	ok	0.49	TYR131	4.4	F109	F	29.0	False	4.99	CZ	3.76	82.9	6.99	0.02	87.9
+Q6FN65	DDX52/ROK1		Candida glabrata (strain ATCC 2001 / BCRC 20586 / JCM 3761 / NBRC 0622 / NRRL Y-65 / CBS 138) (Yeast) (Nakaseomyces glabratus)	Saccharomycetes	F	129.0	ok	0.43	PHE144	4.32	F122	F	29.0	False	5.05	CZ	3.79	83.8	7.44	0.005	89.7
+A0A9P6KJ21	DDX52/ROK1		Lunasporangiospora selenospora	Mortierellomycetes	Y	156.0	ok	0.44	PHE171	4.07	F149	F	29.0	False	5.26	CZ	3.96	89.2	6.9	0.088	94.4
+A0AA97M8R9	DDX52/ROK1		Menura novaehollandiae (superb lyrebird)	Aves	Y	63.0	motif_not_found														
+A0AAV4JX12	DDX52/ROK1		Elysia marginata	Gastropoda	Y	88.0	ok	0.52	TYR103	4.02	F81	F	29.0	False	5.05	CZ	3.83	87.0	6.66	0.054	95.9
+A0A6P9E9D1	DDX52/ROK1		Juglans regia (English walnut)	Magnoliopsida	Y	142.0	ok	0.5	PHE157	3.46	F135	F	29.0	False	5.12	CZ	3.8	88.6	6.7	0.055	95.6
+A0AAJ0BV15	DDX52/ROK1		Phialemonium atrogriseum	Sordariomycetes	Y	173.0	ok	16.89	PHE188	4.85	none	-		False							
+A0A4W6D983	DDX52/ROK1		Lates calcarifer (Barramundi) (Holocentrus calcarifer)	Actinopteri	Y	126.0	ok	0.5			F119	F	29.0	False	5.04	CZ	3.71	83.7		0.02	92.2
+A0A9Q0MCE7	DDX52/ROK1		Blomia tropicalis (Mite)	Arachnida	F	95.0	ok	0.46	TYR113	3.92	F95	F	25.0	True	4.99	CZ	3.82	88.7	6.6	0.054	85.0
+A0A835CUS8	DDX52/ROK1		Aphidius gifuensis (Parasitoid wasp)	Insecta	Y	150.0	ok	0.61	TYR165	3.65	F143	F	29.0	False	5.21	CZ	3.96	89.9	6.5	0.015	94.0
+A0ACF7TWC3	DDX52/ROK1		Micractinium tetrahymenae	Trebouxiophyceae	F	147.0	no_model														
+A0A401S2K6	DDX52/ROK1		Chiloscyllium punctatum (Brownbanded bambooshark) (Hemiscyllium punctatum)	Chondrichthyes	Y	213.0	ok	0.49	PHE228	3.47	F206	F	29.0	False	5.15	CZ	3.82	82.9	7.28	0.03	93.2
+A0ABP0IBP1	DDX52/ROK1		Durusdinium trenchii	Dinophyceae	F	24.0	no_model														
+A0A7I4XXK3	DDX52/ROK1		Haemonchus contortus (Barber pole worm)	Chromadorea	F	137.0	ok	0.69			F137	F	25.0	True	5.55	CZ	4.31	88.3		0.02	91.9
+A0A8J0PXS7	DDX52/ROK1		Xenopus laevis (African clawed frog)	Amphibia	Y	176.0	no_model														
+A0A397TD01	DDX52/ROK1		Glomus cerebriforme	Glomeromycetes	Y	29.0	ok	0.47	TYR44	4.11	F22	F	29.0	False	4.86	CZ	3.62	83.1	7.06	0.055	94.6
+A0A8C6Y855	DDX52/ROK1		Naja naja (Indian cobra)	Lepidosauria	Y	131.0	ok	0.51	PHE146	3.64	F124	F	29.0	False	4.97	CZ	3.71	84.3	6.92	0.05	94.6
+A0AAD4HVZ7	DDX52/ROK1		Suillus fuscotomentosus	Agaricomycetes	Y	133.0	ok	0.45	TYR148	4.36	F126	F	29.0	False	5.21	CZ	3.95	82.4	7.5	0.05	93.9
+A0ABR2WZF7	DDX52/ROK1		Basidiobolus ranarum	Basidiobolomycetes	F	118.0	no_model														
+A0AA85JHC2	DDX52/ROK1		Trichobilharzia regenti (Nasal bird schistosome)	Trematoda	F	58.0	ok	0.45	TYR78	3.79	F58	F	27.0	True	5.34	CZ	4.05	88.5	6.8	0.039	90.3
+A0A8B6BMW8	DDX52/ROK1		Mytilus galloprovincialis (Mediterranean mussel)	Bivalvia	Y	152.0	ok	0.59	TYR167	3.39	F145	F	29.0	False	5.2	CZ	3.93	83.9	6.69	0.075	95.3
+A0AAD9NVH1	DDX52/ROK1		Ridgeia piscesae (Tubeworm)	Polychaeta	Y	145.0	ok	0.54	PHE160	3.8	F138	F	29.0	False	5.2	CZ	3.92	84.0	6.92	0.075	93.2
+U6KRP5	DDX52/ROK1		Eimeria tenella (Coccidian parasite)	Conoidasida	-	129.0	motif_not_found														
+A7TK55	eIF4A		Vanderwaltozyma polyspora (strain ATCC 22028 / DSM 70294 / BCRC 21397 / CBS 2163 / NBRC 10782 / NRRL Y-8283 / UCD 57-17) (Kluyveromyces polysporus)	Saccharomycetes	F	25.0	ok	0.6	PHE43	3.31	F25	F	25.0	True	5.19	CZ	3.89	89.0	6.29	0.005	96.6
+Q4E162	eIF4A		Trypanosoma cruzi (strain CL Brener)	Kinetoplastea	F	28.0	ok	0.59	PHE46	3.24	F28	F	25.0	True	5.21	CZ	3.92	85.9	6.36	0.0	97.2
+Q5U526	eIF4A		Xenopus laevis (African clawed frog)	Amphibia	F	44.0	ok	0.5	PHE62	3.29	F44	F	25.0	True	5.14	CZ	3.84	85.8	6.46	0.005	96.2
+Q41741	eIF4A		Zea mays (Maize)	Magnoliopsida	F	39.0	ok	0.55	PHE57	2.9	F39	F	25.0	True	5.04	CZ	3.7	87.4	6.53	0.019	95.6
+Q5RKI1	eIF4A		Rattus norvegicus (Rat)	Mammalia	F	35.0	ok	0.57	PHE53	3.03	F35	F	25.0	True	5.19	CZ	3.9	87.6	6.46	0.0	96.6
+Q7ZVA6	eIF4A		Danio rerio (Zebrafish) (Brachydanio rerio)	Actinopteri	F	35.0	ok	0.49	PHE53	3.28	F35	F	25.0	True	5.13	CZ	3.83	85.8	6.48	0.004	96.4
+A6RJ45	eIF4A		Botrytis cinerea (strain B05.10) (Noble rot fungus) (Botryotinia fuckeliana)	Leotiomycetes	F	27.0	ok	0.54	PHE45	2.95	F27	F	25.0	True	5.21	CZ	3.91	88.7	6.31	0.0	96.6
+Q6BRN4	eIF4A		Debaryomyces hansenii (strain ATCC 36239 / CBS 767 / BCRC 21394 / JCM 1990 / NBRC 0083 / IGC 2968) (Yeast) (Torulaspora hansenii)	Pichiomycetes	F	25.0	ok	0.59	TYR43	2.9	F25	F	25.0	True	5.22	CZ	3.91	87.8	6.42	0.009	93.6
+Q8JFP1	eIF4A		Gallus gallus (Chicken)	Aves	F	35.0	ok	0.55	PHE53	3.12	F35	F	25.0	True	5.17	CZ	3.88	87.2	6.54	0.0	96.5
+Q2HFP1	eIF4A		Chaetomium globosum (strain ATCC 6205 / CBS 148.51 / DSM 1962 / NBRC 6347 / NRRL 1970) (Soil fungus)	Sordariomycetes	F	26.0	ok	0.56	PHE44	2.88	F26	F	25.0	True	5.21	CZ	3.93	87.4	6.43	0.004	96.4
+Q4P331	eIF4A		Mycosarcoma maydis (Corn smut fungus) (Ustilago maydis)	Ustilaginomycetes	F	40.0	ok	0.54	PHE58	3.0	F40	F	25.0	True	5.14	CZ	3.84	88.3	6.41	0.0	96.6
+Q02748	eIF4A		Drosophila melanogaster (Fruit fly)	Insecta	F	32.0	ok	0.58	PHE50	3.06	F32	F	25.0	True	5.18	CZ	3.87	87.1	6.5	0.0	96.7
+Q6BU54	DDX3/DED1		Debaryomyces hansenii (strain ATCC 36239 / CBS 767 / BCRC 21394 / JCM 1990 / NBRC 0083 / IGC 2968) (Yeast) (Torulaspora hansenii)	Pichiomycetes	F	158.0	ok	0.48	PHE176	3.56	F158	F	25.0	True	4.96	CZ	3.68	87.4	7.0	0.103	93.4
+Q9VHP0	DDX3/DED1		Drosophila melanogaster (Fruit fly)	Insecta	F	297.0	ok	0.51	TYR315	3.8	F297	F	25.0	True	5.24	CZ	3.96	84.8	6.87	0.074	89.9
+Q6CLR3	DDX3/DED1		Kluyveromyces lactis (strain ATCC 8585 / CBS 2359 / DSM 70799 / NBRC 1267 / NRRL Y-1140 / WM37) (Yeast) (Candida sphaerica)	Saccharomycetes	F	161.0	ok	0.5	PHE179	3.6	F161	F	25.0	True	4.95	CZ	3.7	84.8	7.04	0.148	94.2
+P16381	DDX3/DED1		Mus musculus (Mouse)	Mammalia	F	181.0	ok	0.55	TYR199	3.65	F181	F	25.0	True	5.04	CZ	3.69	84.9	6.94	0.025	92.0
+P24346	DDX3/DED1		Xenopus laevis (African clawed frog)	Amphibia	F	223.0	ok	0.54	TYR241	3.6	F223	F	25.0	True	5.1	CZ	3.76	84.6	6.9	0.01	92.4
+Q4P733	DDX3/DED1		Mycosarcoma maydis (Corn smut fungus) (Ustilago maydis)	Ustilaginomycetes	F	191.0	ok	0.54	TYR209	3.74	F191	F	25.0	True	4.93	CZ	3.53	86.0	7.01	0.049	86.7
+Q2HBE7	DDX3/DED1		Chaetomium globosum (strain ATCC 6205 / CBS 148.51 / DSM 1962 / NBRC 6347 / NRRL 1970) (Soil fungus)	Sordariomycetes	F	200.0	ok	0.67	TYR218	4.34	F200	F	25.0	True	4.92	CZ	3.58	90.0	7.25	0.05	88.7
+Q6CB69	DDX3/DED1		Yarrowia lipolytica (strain CLIB 122 / E 150) (Yeast) (Candida lipolytica)	Dipodascomycetes	F	162.0	ok	0.53	TYR180	3.63	F162	F	25.0	True	5.03	CZ	3.75	85.7	7.17	0.134	94.2
+A6SEH9	DDX3/DED1		Botrytis cinerea (strain B05.10) (Noble rot fungus) (Botryotinia fuckeliana)	Leotiomycetes	F	188.0	ok	0.52	TYR206	3.51	F188	F	25.0	True	4.84	CZ	3.52	86.8	7.04	0.086	87.7
+A0ABU7DR63	DDX3/DED1		Characodon lateralis	Actinopteri	F	198.0	no_model														
+A0A139AKW9	DDX3/DED1		Gonapodya prolifera (strain JEL478) (Monoblepharis prolifera)	Monoblepharidomycetes	F	165.0	ok	0.47	TYR183	3.76	F165	F	25.0	True	4.94	CZ	3.65	85.0	6.6	0.05	89.8
+A0A7K7C6P0	DDX3/DED1		Aphelocoma coerulescens (Florida scrub-jay) (Corvus coerulescens)	Aves	F	122.0	ok	0.55	TYR140	3.46	F122	F	25.0	True	5.06	CZ	3.72	84.2	6.9	0.04	93.1
+Q2GQ93	DDX6/DHH1		Chaetomium globosum (strain ATCC 6205 / CBS 148.51 / DSM 1962 / NBRC 6347 / NRRL 1970) (Soil fungus)	Sordariomycetes	F	13.0	ok	0.42	PHE31	3.72	F13	F	25.0	True	5.1	CZ	3.76	85.0	6.6	0.0	95.7
+Q9WTM2	DDX6/DHH1		Cavia porcellus (Guinea pig)	Mammalia	F	87.0	motif_not_found														
+A5DIP0	DDX6/DHH1		Meyerozyma guilliermondii (strain ATCC 6260 / CBS 566 / DSM 6381 / JCM 1539 / NBRC 10279 / NRRL Y-324) (Yeast) (Candida guilliermondii)	Pichiomycetes	F	31.0	ok	0.47	PHE49	3.74	F31	F	25.0	True	5.18	CZ	3.84	85.9	6.65	0.0	96.1
+P54824	DDX6/DHH1		Xenopus laevis (African clawed frog)	Amphibia	F	97.0	motif_not_found														
+A7TGU7	DDX6/DHH1		Vanderwaltozyma polyspora (strain ATCC 22028 / DSM 70294 / BCRC 21397 / CBS 2163 / NBRC 10782 / NRRL Y-8283 / UCD 57-17) (Kluyveromyces polysporus)	Saccharomycetes	F	36.0	ok	0.4	PHE54	3.71	F36	F	25.0	True	5.08	CZ	3.73	86.6	6.57	0.005	94.8
+A6RY31	DDX6/DHH1		Botrytis cinerea (strain B05.10) (Noble rot fungus) (Botryotinia fuckeliana)	Leotiomycetes	F	49.0	ok	0.5	TYR67	3.64	F49	F	25.0	True	5.17	CZ	3.84	84.3	6.78	0.0	96.2
+Q6C0X2	DDX6/DHH1		Yarrowia lipolytica (strain CLIB 122 / E 150) (Yeast) (Candida lipolytica)	Dipodascomycetes	F	30.0	ok	0.46	PHE48	3.88	F30	F	25.0	True	5.13	CZ	3.81	84.7	6.63	0.014	96.6
+Q5ZKB9	DDX6/DHH1		Gallus gallus (Chicken)	Aves	F	98.0	motif_not_found														
+P23128	DDX6/DHH1		Drosophila melanogaster (Fruit fly)	Insecta	F	60.0	ok	0.54	TRP78	4.07	F60	F	25.0	True	5.14	CZ	3.84	82.2	6.89	0.005	96.5
+A0A669F5B7	DDX6/DHH1		Oreochromis niloticus (Nile tilapia) (Tilapia nilotica)	Actinopteri	F	95.0	motif_not_found														
+V5EPR1	DDX6/DHH1		Kalmanozyma brasiliensis (strain GHG001) (Yeast) (Pseudozyma brasiliensis)	Ustilaginomycetes	F	42.0	ok	0.46	PHE60	3.36	F42	F	25.0	True	5.15	CZ	3.83	86.4	6.49	0.005	92.9
+C5WWE0	DDX6/DHH1		Sorghum bicolor (Sorghum) (Sorghum vulgare)	Magnoliopsida	F	135.0	ok	0.5	PHE153	3.36	F135	F	25.0	True	5.16	CZ	3.82	86.7	6.68	0.0	93.5
+Q6FLF3	DDX5/DBP2		Candida glabrata (strain ATCC 2001 / BCRC 20586 / JCM 3761 / NBRC 0622 / NRRL Y-65 / CBS 138) (Yeast) (Nakaseomyces glabratus)	Saccharomycetes	F	112.0	ok	0.85	PHE130	3.45	F112	F	25.0	True	5.64	CZ	4.41	84.2	6.85	0.059	92.6
+P19109	DDX5/DBP2		Drosophila melanogaster (Fruit fly)	Insecta	F	283.0	ok	0.7	TYR301	3.78	F283	F	25.0	True	5.45	CZ	4.08	83.0	6.99	0.06	88.5
+Q4R6M5	DDX5/DBP2		Macaca fascicularis (Crab-eating macaque) (Cynomolgus monkey)	Mammalia	F	96.0	ok	0.6	PHE114	3.74	F96	F	25.0	True	5.21	CZ	3.87	75.6	6.89	0.069	91.3
+A6SFW7	DDX5/DBP2		Botrytis cinerea (strain B05.10) (Noble rot fungus) (Botryotinia fuckeliana)	Leotiomycetes	F	153.0	ok	0.93	PHE171	3.38	F153	F	25.0	True	5.44	CZ	4.22	82.2	6.91	0.095	93.8
+Q4PHU9	DDX5/DBP2		Mycosarcoma maydis (Corn smut fungus) (Ustilago maydis)	Ustilaginomycetes	F	132.0	ok	0.9	PHE150	2.72	F132	F	25.0	True	5.42	CZ	4.13	84.1	7.36	0.109	93.0
+Q2H720	DDX5/DBP2		Chaetomium globosum (strain ATCC 6205 / CBS 148.51 / DSM 1962 / NBRC 6347 / NRRL 1970) (Soil fungus)	Sordariomycetes	F	138.0	ok	0.98	PHE156	2.93	F138	F	25.0	True	5.53	CZ	4.29	81.1	7.43	0.109	92.1
+Q6C4D4	DDX5/DBP2		Yarrowia lipolytica (strain CLIB 122 / E 150) (Yeast) (Candida lipolytica)	Dipodascomycetes	F	118.0	ok	0.84	PHE136	3.8	F118	F	25.0	True	5.55	CZ	4.31	81.1	6.55	0.095	93.3
+A5DS77	DDX5/DBP2		Lodderomyces elongisporus (strain ATCC 11503 / CBS 2605 / JCM 1781 / NBRC 1676 / NRRL YB-4239) (Yeast) (Saccharomyces elongisporus)	Pichiomycetes	F	118.0	ok	0.85	PHE136	3.28	F118	F	25.0	True	5.65	CZ	4.4	84.0	7.13	0.069	91.9
+V7BPD2	DDX5/DBP2		Phaseolus vulgaris (Kidney bean) (French bean)	Magnoliopsida	F	128.0	ok	0.56	TYR146	3.26	F128	F	25.0	True	5.22	CZ	3.88	86.1	6.41	0.025	95.8
+A0A830HL14	DDX5/DBP2		Pycnococcus provasolii	Pseudoscourfieldiophyceae	F	307.0	ok	0.6	TYR325	3.46	F307	F	25.0	True	5.34	CZ	4.0	87.3	6.54	0.03	93.4
+A0A4W5JR18	DDX5/DBP2		Hucho hucho (huchen)	Actinopteri	F	97.0	ok	0.58	PHE115	3.88	F97	F	25.0	True	4.99	CZ	3.6	81.9	6.72	0.06	90.6
+A0AAW0G734	DDX5/DBP2		Cerrena zonata	Agaricomycetes	F	102.0	ok	0.61	PHE120	3.69	F102	F	25.0	True	5.67	CZ	4.34	75.9	6.74	0.104	91.1
+A6RW56	DDX47/RRP3		Botrytis cinerea (strain B05.10) (Noble rot fungus) (Botryotinia fuckeliana)	Leotiomycetes	F	62.0	ok	0.58	TYR80	4.07	F62	F	25.0	True	5.22	CZ	3.89	81.8	6.25	0.044	93.1
+Q6FNK8	DDX47/RRP3		Candida glabrata (strain ATCC 2001 / BCRC 20586 / JCM 3761 / NBRC 0622 / NRRL Y-65 / CBS 138) (Yeast) (Nakaseomyces glabratus)	Saccharomycetes	F	75.0	ok	0.48	PHE93	3.84	F75	F	25.0	True	4.96	CZ	3.75	88.2	6.48	0.02	92.3
+Q6CH58	DDX47/RRP3		Yarrowia lipolytica (strain CLIB 122 / E 150) (Yeast) (Candida lipolytica)	Dipodascomycetes	F	66.0	ok	0.53	PHE84	4.1	F66	F	25.0	True	5.16	CZ	3.86	80.6	6.97	0.039	94.1
+Q29S22	DDX47/RRP3		Bos taurus (Bovine)	Mammalia	F	28.0	ok	0.6	TRP46	4.17	F28	F	25.0	True	5.03	CZ	3.7	81.1	6.56	0.044	95.5
+Q6BQ61	DDX47/RRP3		Debaryomyces hansenii (strain ATCC 36239 / CBS 767 / BCRC 21394 / JCM 1990 / NBRC 0083 / IGC 2968) (Yeast) (Torulaspora hansenii)	Pichiomycetes	F	67.0	ok	0.51	PHE85	3.65	F67	F	25.0	True	5.01	CZ	3.78	87.2	6.7	0.03	91.9
+Q2H1Q8	DDX47/RRP3		Chaetomium globosum (strain ATCC 6205 / CBS 148.51 / DSM 1962 / NBRC 6347 / NRRL 1970) (Soil fungus)	Sordariomycetes	F	67.0	ok	0.58	TRP85	4.31	F67	F	25.0	True	5.1	CZ	3.76	79.5	6.4	0.043	93.6
+Q4P3U9	DDX47/RRP3		Mycosarcoma maydis (Corn smut fungus) (Ustilago maydis)	Ustilaginomycetes	F	116.0	ok	0.57	PHE134	3.81	F116	F	25.0	True	4.97	CZ	3.63	81.3	6.59	0.034	93.4
+A0AAR2KFR3	DDX47/RRP3		Pygocentrus nattereri (Red-bellied piranha)	Actinopteri	F	34.0	ok	0.56	TRP52	4.13	F34	F	25.0	True	5.09	CZ	3.73	81.1	6.6	0.059	94.4
+A0AAD8ED72	DDX47/RRP3		Diploptera punctata (Pacific beetle cockroach)	Insecta	F	41.0	ok	0.6	TRP59	3.99	F41	F	25.0	True	5.01	CZ	3.66	81.9	6.55	0.04	93.4
+A0AAN9J5H4	DDX47/RRP3		Clitoria ternatea (Butterfly pea)	Magnoliopsida	F	206.0	ok	0.54	TRP224	4.11	F206	F	25.0	True	4.83	CZ	3.47	83.1	6.36	0.024	91.1
+A0A507R4J4	DDX47/RRP3		Monascus purpureus (Red mold) (Monascus anka)	Eurotiomycetes	F	52.0	ok	0.59	TYR70	3.97	F52	F	25.0	True	5.03	CZ	3.67	82.4	6.47	0.049	91.9
+K5XD07	DDX47/RRP3		Agaricus bisporus var. burnettii (strain JB137-S8 / ATCC MYA-4627 / FGSC 10392) (White button mushroom)	Agaricomycetes	F	9.0	ok	1.65	TYR27	4.09	F9	F	25.0	True	4.89	CZ	3.56	83.3	6.85	0.059	91.1
+Q9VIF6	DDX47/RRP3		Drosophila melanogaster (Fruit fly)	Insecta	W	63.0	ok	0.59	TRP81	4.24	W63	W	25.0	True	5.17	CZ2	3.5	78.9	6.36	0.042	94.3
+A0A0L0DL57	DDX47/RRP3		Thecamonas trahens ATCC 50062		W	28.0	ok	0.61	TRP46	4.1	W28	W	25.0	True	5.29	CZ2	3.76	71.9	6.76	0.041	86.1
+A0AAD7UKJ7	DDX47/RRP3		Chrysophaeum taylorii	Pelagophyceae	W	8.0	ok	0.61	TRP26	4.44	W8	W	25.0	True	5.45	CZ2	3.81	75.7	6.62	0.013	94.3
+A0AAW1QK57	DDX47/RRP3		Apatococcus lobatus	Trebouxiophyceae	W	129.0	ok	1.0	PHE147	4.55	W129	W	25.0	True	5.36	CZ2	4.14	68.9	8.14	0.004	85.1
+A0A830HUI7	DDX47/RRP3		Pycnococcus provasolii	Pseudoscourfieldiophyceae	W	7.0	ok	0.54	PHE26	3.52	W7	W	26.0	True	5.18	CZ2	3.5	81.4	7.26	0.004	91.2
+A0ABD3MUP0	DDX47/RRP3		Discostella pseudostelligera	Coscinodiscophyceae	W	202.0	ok	0.81	TYR217	2.67	none	-		False							
+E4X3D3	DDX47/RRP3		Oikopleura dioica (Tunicate)	Appendicularia	W	26.0	ok	0.57	TRP44	4.27	W26	W	25.0	True	5.43	CZ2	3.79	76.9	6.85	0.0	95.3
+A0ACF8YBF4	DDX47/RRP3		Mnemiopsis leidyi (Sea walnut) (Warty comb jellyfish)	Tentaculata	W	220.0	no_model														
+A5DZT7	DDX54/DBP10		Lodderomyces elongisporus (strain ATCC 11503 / CBS 2605 / JCM 1781 / NBRC 1676 / NRRL YB-4239) (Yeast) (Saccharomyces elongisporus)	Pichiomycetes	F	123.0	ok	0.49	TYR141	3.32	F123	F	25.0	True	4.92	CZ	3.62	84.2	6.34	0.035	84.2
+Q2H0R2	DDX54/DBP10		Chaetomium globosum (strain ATCC 6205 / CBS 148.51 / DSM 1962 / NBRC 6347 / NRRL 1970) (Soil fungus)	Sordariomycetes	F	88.0	ok	0.5	PHE106	3.62	F88	F	25.0	True	5.16	CZ	3.91	86.3	6.73	0.015	87.4
+A7TGW7	DDX54/DBP10		Vanderwaltozyma polyspora (strain ATCC 22028 / DSM 70294 / BCRC 21397 / CBS 2163 / NBRC 10782 / NRRL Y-8283 / UCD 57-17) (Kluyveromyces polysporus)	Saccharomycetes	F	123.0	ok	0.6	PHE141	3.11	F123	F	25.0	True	4.87	CZ	3.58	83.9	6.41	0.04	83.9
+Q8TDD1	DDX54/DBP10		Homo sapiens (Human)	Mammalia	F	98.0	ok	0.48	TYR116	3.29	F98	F	25.0	True	4.85	CZ	3.62	87.4	6.54	0.01	85.1
+Q4P3W3	DDX54/DBP10		Mycosarcoma maydis (Corn smut fungus) (Ustilago maydis)	Ustilaginomycetes	F	146.0	ok	0.54	PHE164	4.23	F146	F	25.0	True	4.96	CZ	3.73	81.3	7.32	0.02	86.2
+Q6C7X8	DDX54/DBP10		Yarrowia lipolytica (strain CLIB 122 / E 150) (Yeast) (Candida lipolytica)	Dipodascomycetes	F	104.0	ok	0.52	PHE122	3.27	F104	F	25.0	True	4.82	CZ	3.51	83.2	6.52	0.059	89.4
+A0A8H5GU38	DDX54/DBP10		Tetrapyrgos nigripes	Agaricomycetes	F	94.0	motif_not_found														
+A0A5J9T3S5	DDX54/DBP10		Eragrostis curvula (weeping love grass)	Magnoliopsida	F	115.0	ok	0.51	TYR133	2.75	F115	F	25.0	True	4.93	CZ	3.68	89.4	6.28	0.014	83.9
+A0A9W8CA74	DDX54/DBP10		Triplophysa rosa (Cave loach)	Actinopteri	F	75.0	ok	0.51	TYR93	2.83	F75	F	25.0	True	4.99	CZ	3.76	89.2	6.47	0.015	82.1
+A0A0C9R8M7	DDX54/DBP10		Fopius arisanus	Insecta	F	45.0	ok	0.57	TYR63	3.1	F45	F	25.0	True	4.93	CZ	3.67	88.0	6.88	0.035	85.1
+A0A1Y2FBM7	DDX54/DBP10		Protomyces lactucae-debilis	Taphrinomycetes	F	69.0	ok	0.52	PHE87	3.39	F69	F	25.0	True	5.42	CZ	4.1	89.1	6.78	0.01	81.2
+A0A0L0SNR2	DDX54/DBP10		Allomyces macrogynus (strain ATCC 38327) (Allomyces javanicus var. macrogynus)	Blastocladiomycetes	F	25.0	ok	0.52	TYR43	3.3	F25	F	25.0	True	4.92	CZ	3.7	86.0	7.05	0.025	84.0
+A0A1B9H2W7	DDX54/DBP10		Kwoniella heveanensis BCC8398	Tremellomycetes	W	31.0	ok	0.64	PHE49	4.05	W31	W	25.0	True	5.26	CZ2	3.6	77.7	7.54	0.004	88.8
+A0A2A2JSB2	DDX54/DBP10		Diploscapter pachys	Chromadorea	W	26.0	ok	0.53	TYR44	3.71	W26	W	25.0	True	4.99	CZ2	3.49	82.3	6.47	0.012	80.7
+A0A0D2MMB3	DDX54/DBP10		Monoraphidium neglectum	Chlorophyceae	W	216.0	ok	0.52			W216	W	25.0	True	5.29	CZ2	3.75	78.9		0.037	92.4
+F0YDY9	DDX54/DBP10		Aureococcus anophagefferens (Harmful bloom alga)	Pelagophyceae	W	19.0	ok	1.02	TYR38	4.75	W19	W	26.0	True	5.63	CZ2	4.09	74.1	7.47	0.008	91.6
+A0A9P4R9Y5	DDX54/DBP10		Polyplosphaeria fusca	Dothideomycetes	W	73.0	ok	0.53	PHE91	3.25	W73	W	25.0	True	5.21	CZ2	3.59	81.0	6.78	0.034	83.6
+A0A8K0JPI7	DDX54/DBP10		Filobasidium floriforme	Tremellomycetes	W	125.0	ok	0.65	TYR143	4.24	W125	W	25.0	True	5.08	CZ2	3.56	74.1	7.2	0.016	84.1
+A0A4Q1BVQ8	DDX54/DBP10		Tremella mesenterica (Jelly fungus)	Tremellomycetes	W	36.0	ok	0.64	PHE54	3.81	W36	W	25.0	True	5.36	CZ2	3.69	79.9	7.61	0.0	89.8
+A0A7E4VM66	DDX54/DBP10		Panagrellus redivivus (Microworm)	Chromadorea	W	32.0	ok	0.55	TYR50	3.74	W32	W	25.0	True	4.99	CZ2	3.58	79.5	6.63	0.029	83.6
+P21372	DDX46/PRP5	yeast Prp5					ok	0.63	PHE276	3.53	W257	W	26.0	False	5.12	CZ2	3.5	81.9	6.99	0.042	95.4
+Q7L014	DDX46/PRP5	human DDX46					ok	0.46	TYR392	4.55	W374	W	25.0	False	4.92	CZ2	3.28	81.9	6.65	0.05	93.0
+P23394	DDX23/PRP28	yeast Prp28					ok	0.64	PHE194	3.26	W174	W	27.0	False	5.54	CZ2	4.0	78.7	8.15	0.027	93.9
+P38112	DDX24/MAK5	yeast Mak5					ok	0.57	PHE191	3.83	W172	W	26.0	False	5.29	CZ2	3.67	79.2	7.7	0.008	90.4
+Q9GZR7	DDX24/MAK5	human DDX24					motif_not_found														
+P25808	DDX55/SPB4	yeast Spb4					ok	0.51	PHE27	3.49	W7	W	27.0	False	5.47	CZ2	4.07	72.0	7.29	0.038	86.3
+Q8NHQ9	DDX55/SPB4	human DDX55					ok	0.57	PHE29	3.36	W9	W	27.0	False	5.14	CZ2	3.68	71.1	7.95	0.025	90.9
+P45818	DDX52/ROK1	yeast Rok1					ok	0.51	PHE142	4.22	F120	F	29.0	False	5.24	CZ	4.01	82.0	7.71	0.015	91.8
+Q9Y2R4	DDX52/ROK1	human DDX52					ok	0.47	PHE185	3.66	F163	F	29.0	False	5.11	CZ	3.86	84.8	7.24	0.02	93.0
+P10081	eIF4A	yeast eIF4A					ok	0.58	PHE42	3.35	F24	F	25.0	False	5.11	CZ	3.85	88.2	6.32	0.018	96.2
+P60842	eIF4A	human eIF4A1					ok	0.55	PHE52	3.05	F34	F	25.0	False	5.15	CZ	3.87	87.2	6.5	0.0	96.8
+O00571	DDX3/DED1	human DDX3X					ok	0.54	TYR200	3.66	F182	F	25.0	False	4.99	CZ	3.64	84.2	6.98	0.04	92.4
+P26196	DDX6/DHH1	human DDX6					motif_not_found														
