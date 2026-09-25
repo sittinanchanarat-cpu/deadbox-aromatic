@@ -5,7 +5,7 @@ set -euo pipefail
 cd "$(dirname "$0")"
 export MAMBA_ROOT_PREFIX=~/micromamba
 PY="$HOME/.local/bin/micromamba run -n helicase python"
-for f in fig1_definition fig2_contact_pivot fig3_trp_census fig4_evolution fig5_variants; do
+for f in fig1_definition fig2_contact_pivot fig3_aromatic_anchor fig4_evolution fig5_variants; do
   $PY "$f.py"
 done
 $PY structures.py

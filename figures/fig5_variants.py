@@ -6,10 +6,15 @@ A  ClinVar missense and in-frame variants at the anchor (UA), the residue after 
    DEAD-box genes with at least one such variant; the most severe class per cell is
    shown, with the change named for pathogenic/likely pathogenic calls
    (stage4/results/variants_positions.tsv; UniProt-matched positions only)
-B  observed/expected missense counts per site class, summed over 37 genes: gnomAD v4
-   variants and tumour patients (cBioPortal, cell lines excluded); bars are exact
-   Poisson 95% CIs of the observed count divided by the expectation
-   (stage4/results/constraint.tsv)
+B  AlphaMissense: mean predicted pathogenicity over the 19 substitutions at each site,
+   one dot per gene; grey = the gene's median buried aromatic (F/W/Y, relative SASA < 0.1
+   in the AlphaFold model, anchor excluded) (stage4/results/alphamissense_sites.tsv)
+C  AlphaMissense at the anchor by substitution: aromatic swaps vs aliphatic/Ala, for Phe
+   anchors (31 genes) and Trp anchors (4 genes); dashed lines = AlphaMissense class
+   thresholds (0.34 benign, 0.564 pathogenic) (stage4/results/alphamissense_swaps.tsv)
+Supplementary Figure S1 (figS1_constraint): observed/expected missense counts per site
+class, summed over 37 genes: gnomAD v4 variants and tumour patients (cBioPortal, cell
+lines excluded); exact Poisson 95% CIs (stage4/results/constraint.tsv)
 """
 import pandas as pd
 from scipy.stats import chi2
@@ -78,6 +83,45 @@ def poisson_ci(k, alpha=0.05):
 
 
 def panel_b(ax):
+    s = pd.read_csv(S4 / "alphamissense_sites.tsv", sep="\t")
+    ref = s.drop_duplicates("gene").buried_aromatics_median.dropna()
+    ax.axhspan(ref.quantile(0.25), ref.quantile(0.75), color=SC_GRID, lw=0, zorder=0)
+    ax.axhline(ref.median(), color=SC_ANNOT, lw=0.8, ls="--", zorder=1)
+    ax.text(len(SITES) - 0.45, ref.median(), "buried\naromatics", fontsize=5.5, color=SC_ANNOT, va="center")
+    for i, site in enumerate(SITES):
+        y = s[s.site == site].am_mean
+        col = FOREST if site == "UA" else SAGE if site == "UA+1" else MOSS
+        ax.scatter(i + np.random.default_rng(i).uniform(-0.15, 0.15, len(y)), y, s=7, color=col, lw=0, alpha=ALPHA, zorder=3)
+        ax.plot([i - 0.25, i + 0.25], [y.median()] * 2, color=SC_AXIS, lw=1.2, zorder=4)
+    ax.set_xticks(range(len(SITES)), [SITE_LABEL[x] for x in SITES], fontsize=6)
+    ax.set_xlim(-0.5, len(SITES) - 0.1)
+    ax.set_ylim(0, 1.05)
+    ax.set_ylabel("AlphaMissense (mean of 19 substitutions)")
+
+
+def panel_c(ax):
+    w = pd.read_csv(S4 / "alphamissense_swaps.tsv", sep="\t")
+    cols = [("F", "F->W", "F\u2192W", CRIMSON), ("F", "F->Y", "F\u2192Y", SAND), ("F", "F->L", "F\u2192L", SC_ANNOT),
+            ("F", "F->A", "F\u2192A", SC_ANNOT), ("W", "W->F", "W\u2192F", FOREST), ("W", "W->Y", "W\u2192Y", SAND),
+            ("W", "W->L", "W\u2192L", SC_ANNOT), ("W", "W->A", "W\u2192A", SC_ANNOT)]
+    xs = [0, 1, 2, 3, 4.8, 5.8, 6.8, 7.8]
+    for x, (aa, key, lab, col) in zip(xs, cols):
+        y = w[w.anchor.str[0] == aa][key].dropna()
+        ax.scatter(x + np.random.default_rng(int(x * 10)).uniform(-0.15, 0.15, len(y)), y, s=7, color=col,
+                   lw=0, alpha=ALPHA, zorder=3)
+        ax.plot([x - 0.28, x + 0.28], [y.median()] * 2, color=SC_AXIS, lw=1.2, zorder=4)
+    for t in (0.34, 0.564):
+        ax.axhline(t, color=SC_ANNOT, lw=0.5, ls="--", zorder=1)
+    ax.set_xticks(xs, [c[2] for c in cols], fontsize=6)
+    ax.text(1.5, -0.2, f"Phe anchors (n = {(w.anchor.str[0] == 'F').sum()})", ha="center", fontsize=6,
+            transform=ax.get_xaxis_transform())
+    ax.text(6.3, -0.2, f"Trp anchors (n = {(w.anchor.str[0] == 'W').sum()})", ha="center", fontsize=6,
+            transform=ax.get_xaxis_transform())
+    ax.set_ylim(0, 1.05)
+    ax.set_ylabel("AlphaMissense pathogenicity")
+
+
+def constraint_panel(ax):
     c = pd.read_csv(S4 / "constraint.tsv", sep="\t")
     for k, (ds, col, dy, lab) in enumerate((("gnomAD", FOREST, -0.14, "gnomAD v4 variants"),
                                             ("cancer", TERRACOTTA, 0.14, "Tumour patients"))):
@@ -99,14 +143,20 @@ def panel_b(ax):
 
 
 def main():
-    fig, (a, b) = plt.subplots(1, 2, figsize=(JOURNAL_2COL, 4.0), gridspec_kw={"width_ratios": [1.35, 1]},
-                               constrained_layout=True)
+    fig = plt.figure(figsize=(JOURNAL_2COL, 6.4), constrained_layout=True)
+    gs = fig.add_gridspec(2, 2, width_ratios=[1.3, 1], height_ratios=[1.15, 1])
+    a, b, c = fig.add_subplot(gs[:, 0]), fig.add_subplot(gs[0, 1]), fig.add_subplot(gs[1, 1])
     panel_a(a)
     panel_b(b)
+    panel_c(c)
     add_panel_label(a, "A", x=-0.3)
-    add_panel_label(b, "B", x=-0.22)
+    add_panel_label(b, "B", x=-0.25)
+    add_panel_label(c, "C", x=-0.25)
     save_figure(fig, "fig5_variants")
-    print("Fig 5 written")
+    fig, ax = plt.subplots(figsize=(JOURNAL_1COL, 2.8), constrained_layout=True)
+    constraint_panel(ax)
+    save_figure(fig, "figS1_constraint")
+    print("Fig 5 and Fig S1 written")
 
 
 if __name__ == "__main__":

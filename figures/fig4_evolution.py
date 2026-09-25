@@ -1,12 +1,13 @@
 #!/usr/bin/env python
-"""Figure 4: Trp arose independently several times before LECA, then was kept.
+"""Figure 4: the aromatic ring is kept while its identity switches; Trp arose several times.
 
-A  % Trp anchor per subfamily across eukaryotic supergroups (one sequence per genus;
-   cells with < 3 genera left blank) (stage3/results/supergroups.tsv)
-B  anchor switches reconstructed on per-subfamily gene trees (IQ-TREE marginal ASR):
-   Trp losses (W->F) and gains (F->W). Switches on the edges next to the outgroup
-   root (clades holding > 50% of the ingroup) are rooting artefacts and are left out
+A  anchor changes reconstructed on per-subfamily gene trees (IQ-TREE marginal ASR),
+   by type: Phe->Trp, Trp->Phe, other aromatic swaps (with Tyr), and loss of the ring.
+   Changes on the edges next to the outgroup root (clades holding > 50% of the
+   ingroup) are rooting artefacts and are left out
    (stage3/results/asr_switches.tsv, asr_summary.tsv)
+B  % Trp anchor per subfamily across eukaryotic supergroups (one sequence per genus;
+   cells with < 3 genera left blank) (stage3/results/supergroups.tsv)
 C  family-level tree (LG+G4, 1000 ultrafast bootstraps) reduced to one sequence per
    subfamily, midpoint-rooted for display (bacterial sequences fall among eukaryotic
    subfamilies, so they are not a clean outgroup and are not shown); tips coloured by
@@ -52,26 +53,38 @@ def panel_a(ax):
 
 
 def panel_b(ax):
+    """Anchor changes by type (becomes panel A)."""
     sw = pd.read_csv(S3 / "results" / "asr_switches.tsv", sep="\t")
     sm = pd.read_csv(S3 / "results" / "asr_summary.tsv", sep="\t").set_index("subfamily")
-    sw = sw[sw["from"].isin(["W", "F"]) & sw["to"].isin(["W", "F"])]
     sw = sw[sw.n_tips <= 0.5 * sw.subfamily.map(sm.n_in)]
+    arom = set("FWY")
+
+    def kind(a, b):
+        if a in arom and b in arom:
+            return "F>W" if (a, b) == ("F", "W") else "W>F" if (a, b) == ("W", "F") else "aro"
+        return "loss" if a in arom else "other"
+
+    sw["kind"] = [kind(a, b) for a, b in zip(sw["from"], sw["to"])]
+    kinds = [("F>W", CRIMSON, "Phe \u2192 Trp"), ("W>F", FOREST, "Trp \u2192 Phe"),
+             ("aro", SAND, "other aromatic swap"), ("loss", SC_ANNOT, "ring lost")]
     y = np.arange(len(SHOW))
-    loss = [((sw.subfamily == s) & (sw["from"] == "W")).sum() for s in SHOW]
-    gain = [((sw.subfamily == s) & (sw["to"] == "W")).sum() for s in SHOW]
-    ax.barh(y, [-v for v in loss], 0.7, color=FOREST, alpha=ALPHA, lw=0, label="Trp → Phe (loss)")
-    ax.barh(y, gain, 0.7, color=CRIMSON, alpha=ALPHA, lw=0, label="Phe → Trp (gain)")
+    left = np.zeros(len(SHOW))
+    for k, col, lab in kinds:
+        v = np.array([((sw.subfamily == s) & (sw.kind == k)).sum() for s in SHOW])
+        ax.barh(y, v, 0.7, left=left, color=col, alpha=ALPHA, lw=0, label=lab)
+        left += v
     for i, s in enumerate(SHOW):
-        ax.text(21, i, f"{int(sm.loc[s, 'n_in'])}", va="center", fontsize=5.5, color=SC_ANNOT)
-    ax.text(21, -1.1, "seqs", fontsize=5.5, color=SC_ANNOT, va="center")
-    ax.axvline(0, color=SC_AXIS, lw=0.6)
-    ax.set_yticks(y, [x.split("/")[-1] for x in SHOW], fontsize=5.5)
+        ax.text(left[i] + 0.4, i, f"{int(sm.loc[s, 'n_in'])}", va="center", fontsize=5, color=SC_ANNOT)
+    ax.set_yticks(y, [x.replace("/", " / ") for x in SHOW], fontsize=6)
     ax.tick_params(axis="y", length=0)
-    ax.set_ylim(len(SHOW) - 0.5, -1.5)
-    ax.set_xlim(-22, 20)
-    ax.set_xticks([-20, -10, 0, 10, 20], ["20", "10", "0", "10", "20"])
-    ax.set_xlabel("Anchor switches on the gene tree")
-    ax.legend(loc="lower right", fontsize=6, bbox_to_anchor=(1.0, 1.0), ncol=1)
+    ax.set_ylim(len(SHOW) - 0.5, -0.5)
+    ax.set_xlabel("Anchor changes on the gene tree")
+    n_swap = (sw.kind.isin(["F>W", "W>F", "aro"])).sum()
+    n_loss = (sw.kind == "loss").sum()
+    ax.text(0.98, 0.36, f"{n_swap} aromatic swaps\n{n_loss} ring losses (all single genera)",
+            transform=ax.transAxes, ha="right", va="center", fontsize=6, color=SC_ANNOT)
+    ax.legend(loc="lower center", bbox_to_anchor=(0.45, 1.0), ncol=2, fontsize=6)
+    return n_swap, n_loss
 
 
 def panel_c(ax):
@@ -118,17 +131,17 @@ def panel_c(ax):
 
 
 def main():
-    fig = plt.figure(figsize=(JOURNAL_2COL, 5.6), constrained_layout=True)
-    gs = fig.add_gridspec(2, 2, width_ratios=[1.35, 0.8], height_ratios=[1, 1.25])
+    fig = plt.figure(figsize=(JOURNAL_2COL, 5.8), constrained_layout=True)
+    gs = fig.add_gridspec(2, 2, width_ratios=[0.9, 1.25], height_ratios=[1, 1.2])
     a, b, c = fig.add_subplot(gs[0, 0]), fig.add_subplot(gs[0, 1]), fig.add_subplot(gs[1, :])
-    panel_a(a)
-    panel_b(b)
+    n_swap, n_loss = panel_b(a)
+    panel_a(b)
     panel_c(c)
-    add_panel_label(a, "A", x=-0.3)
-    add_panel_label(b, "B", x=-0.08)
+    add_panel_label(a, "A", x=-0.42)
+    add_panel_label(b, "B", x=-0.3)
     add_panel_label(c, "C", x=-0.02, y=1.02)
     save_figure(fig, "fig4_evolution")
-    print("Fig 4 written")
+    print(f"Fig 4: {n_swap} aromatic swaps vs {n_loss} ring losses")
 
 
 if __name__ == "__main__":

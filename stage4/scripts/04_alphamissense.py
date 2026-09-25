@@ -78,7 +78,8 @@ def main():
                           "rsasa": round(sa.get(p, ("", float("nan")))[1], 3), "am_mean": round(v, 3),
                           "pct_all": round(100 * (per < v).mean(), 1),
                           "pct_buried_aromatics": round(100 * (per[buried_arom] < v).mean(), 1) if buried_arom else None,
-                          "n_buried_aromatics": len(buried_arom)})
+                          "n_buried_aromatics": len(buried_arom),
+                          "buried_aromatics_median": round(per[buried_arom].median(), 3) if buried_arom else None})
         x = am[am.pos == ua].set_index("alt").am_pathogenicity
         ref = r.ua[0]
         swaps.append({"gene": r.gene, "anchor": r.ua, **{f"{ref}->{a}": round(x.get(a, float("nan")), 3) for a in "FWYLA" if a != ref}})
