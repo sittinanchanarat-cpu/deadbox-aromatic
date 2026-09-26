@@ -21,6 +21,7 @@ cd "$(dirname "$0")/.."
 WITH_CBIO=0
 if [[ ${1:-} == --with-cbio ]]; then WITH_CBIO=1; shift; fi
 VERSION=${1:-$(awk -F'"' '/^version:/{print $2}' CITATION.cff)}
+DOI=$(awk -F'"' '/^doi:/{print $2}' CITATION.cff)
 NAME="deadbox-aromatic-$VERSION"
 OUT="deposit/out/$NAME"
 
@@ -70,7 +71,8 @@ cat > "$OUT/README.md" <<EOF
 # DEAD-box aromatic anchor: code and data ($VERSION)
 
 Deposit for "An aromatic anchor, not the Q motif, marks the DEAD-box ATP site"
-(Chanarat). Built from commit $COMMIT on $(date +%F).
+(Chanarat). DOI: https://doi.org/$DOI. Code: https://github.com/sittinanchanarat-cpu/deadbox-aromatic
+(commit $COMMIT). Built on $(date +%F).
 
 | File | Contents |
 |---|---|

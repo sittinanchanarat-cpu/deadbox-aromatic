@@ -1,6 +1,5 @@
 # Zenodo reads this file when a GitHub release is archived.
-# Fill in orcid, repository-code and doi once the GitHub repository and Zenodo record exist;
-# add preferred-citation when the paper is published.
+# Add preferred-citation when the paper is published.
 cff-version: 1.2.0
 message: "If you use this code or data, please cite the article and this archive."
 type: software
@@ -15,7 +14,7 @@ authors:
   - family-names: Chanarat
     given-names: Sittinan
     affiliation: "Mahidol University"
-    # orcid: "https://orcid.org/0000-0000-0000-0000"
+    orcid: "https://orcid.org/0000-0001-6267-0040"
 license: MIT
 version: "1.0.0"
 date-released: "2026-09-26"
@@ -26,4 +25,4 @@ keywords:
   - Molecular evolution
   - Missense variants
 repository-code: "https://github.com/sittinanchanarat-cpu/deadbox-aromatic"
-# doi: "10.5281/zenodo.<id>"
+doi: "10.5281/zenodo.22974785"
