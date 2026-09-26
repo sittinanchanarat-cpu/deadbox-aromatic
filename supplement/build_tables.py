@@ -76,7 +76,8 @@ def s1a():
 def s1b():
     d = tsv(ROOT / "stage0" / "data" / "family_curation.tsv")
     d["family"] = d.family_curated.fillna(d.family_auto)
-    d["checked"] = np.where(d.family_curated.notna(), "corrected by hand", "keyword label confirmed")
+    d["checked"] = np.where(d.family_curated.notna() & (d.family_curated != d.family_auto),
+                            "set by hand", "keyword label confirmed")
     return pick(d, [
         ("key", "UniProt", "UniProt accession (entity description when no accession is given)"),
         ("uniprot_name", "UniProt name", "Recommended name"),
@@ -86,7 +87,7 @@ def s1b():
         ("example_pdbs", "Example entries", "Up to three entries"),
         ("family_auto", "Keyword family", "Family from UniProt name and Pfam keywords; ? = no keyword matched"),
         ("family", "Family (final)", "Family used in the analysis"),
-        ("checked", "Curation", "Whether the keyword label was replaced by hand"),
+        ("checked", "Curation", "set by hand: no keyword matched (?) or the keyword label was wrong"),
         ("note", "Note", "Curation note"),
     ])
 
