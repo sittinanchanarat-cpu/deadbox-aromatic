@@ -25,8 +25,8 @@ access dates: `VERSIONS.md`. Large downloads and regenerable tables are not trac
 | `stage2` | AlphaFold models: is the called aromatic inserted at adenine N6? | `af_anchor.tsv`, `shell_covariation.tsv` |
 | `stage3` | Phylogeny: ancestral state, switches, independent origins of Trp | `asr_summary.tsv`, `asr_switches.tsv`, `family_tree_trp.txt` |
 | `stage4` | Human variants: ClinVar, gnomAD v4, cBioPortal | `variants_positions.tsv`, `constraint.tsv` |
-| `figures` | Main-figure data panels (SC Lab style) and structure renderings | `figures/out/` |
-| `supplement` | Supplementary Tables S1–S6 (one Excel workbook, README sheet defines every column) | `supplement/Supplementary_Tables_S1-S6.xlsx` |
+| `figures` | Main-figure data panels (SC Lab style) and structure renderings | `figures/out/` (generated, not tracked) |
+| `supplement` | Supplementary Tables S1–S6 (one Excel workbook, README sheet defines every column) | `supplement/Supplementary_Tables_S1-S6.xlsx` (generated, not tracked) |
 
 Stage 0 family labels are hand-curated in `stage0/data/family_curation.tsv`; keep
 that file under version control.

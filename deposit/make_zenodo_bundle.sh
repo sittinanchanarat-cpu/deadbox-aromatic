@@ -46,8 +46,8 @@ pack() {  # pack <archive name> <paths...>
 
 echo "Building $OUT from commit $COMMIT"
 
-# 1. code, curated inputs and small result tables at HEAD, without manuscript drafts or notes
-git archive --format=tar --prefix="$NAME/" HEAD -- . ':(exclude)manuscript' ':(exclude)docs' \
+# 1. code, curated inputs and small result tables at HEAD (manuscript/ and docs/ are not tracked)
+git archive --format=tar --prefix="$NAME/" HEAD \
   | gzip -n -9 > "$OUT/code.tar.gz"
 printf '  %-28s %s\n' code.tar.gz "$(du -h "$OUT/code.tar.gz" | cut -f1)"
 

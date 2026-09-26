@@ -12,11 +12,11 @@ __pycache__/
 *.log
 # large regenerable tables (stage1/run.sh)
 stage1/results/census_*.tsv
-figures/out/*.tiff
-# generated manuscript files (python manuscript/build/build_docx.py)
-manuscript/build/render/
-manuscript/build/manuscript_NAR.md
-manuscript/build/*.docx
-manuscript/build/refs.log
 # Zenodo bundle (deposit/make_zenodo_bundle.sh)
 deposit/out/
+# published with the paper, not in this repository
+# (manuscript/ is its own local git repository; the workbook is in the Zenodo deposit)
+manuscript/
+docs/
+figures/out/
+supplement/*.xlsx
