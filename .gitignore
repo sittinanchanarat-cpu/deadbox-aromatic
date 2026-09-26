@@ -18,3 +18,5 @@ manuscript/build/render/
 manuscript/build/manuscript_NAR.md
 manuscript/build/*.docx
 manuscript/build/refs.log
+# Zenodo bundle (deposit/make_zenodo_bundle.sh)
+deposit/out/
