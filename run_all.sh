@@ -20,5 +20,7 @@ for s in "${stages[@]}"; do
 done
 echo "=== figures: $(date '+%F %T')"
 figures/run.sh
+echo "=== supplementary tables: $(date '+%F %T')"
+MAMBA_ROOT_PREFIX=~/micromamba ~/.local/bin/micromamba run -n helicase python supplement/build_tables.py
 ./record_versions.sh
 echo "=== done: $(date '+%F %T')"

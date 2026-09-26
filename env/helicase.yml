@@ -121,6 +121,7 @@ dependencies:
   - ncurses=6.6=hdb14827_1
   - numpy=2.5.3=py312he827f4e_0
   - openjpeg=2.5.4=heb1ab33_2
+  - openpyxl=3.1.5=py312hafd94c1_4
   - openldap=2.6.13=hbde042b_0
   - openmpi=4.1.6=hc5af2df_101
   - openssl=3.6.4=h781a0a9_0
