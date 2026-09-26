@@ -452,7 +452,7 @@ def tables():
             ("S2A", "Partner complexes", "All 178 DEAD-box chains in 135 PDB entries that contain another polymer: anchor state "
              "and contacts with the anchor and its loop (deposited coordinates, cognate partner copy only).", *s2a()),
             ("S2B", "Free vs bound loop panel", "Eight DEAD-box proteins with free and partner-bound structures: per chain, the "
-             "anchor-loop (UA-12 to UA+6) conformation relative to the nearest free chain, and partner contacts (Figure 2C-E).",
+             "anchor-loop (UA-12 to UA+6) conformation relative to the nearest free chain, and partner contacts (Figure 2D).",
              *s2b()),
             ("S2C", "Anchors not inserted", "Chains of Table S2A in which the anchor is displaced or its state is ambiguous "
              "(Discussion).", *s2c()),
@@ -468,7 +468,7 @@ def tables():
         ]),
         ("S4", "AlphaFold models", [
             ("S4A", "Anchor in AlphaFold models", "283 proteins selected (256 analysed): anchor contact with adenine transplanted "
-             "from Vasa-AMP-PNP (PDB 2DB3) (Figure 3B-C).", *s4a()),
+             "from Vasa-AMP-PNP (PDB 2DB3) (Figure 3B).", *s4a()),
             ("S4B", "Anchor packing shell", "Residues packing around the anchor, compared between Trp- and Phe-anchored "
              "sequences (genus-balanced census).", *s4b()),
         ]),
@@ -485,10 +485,10 @@ def tables():
              "change).", *s6b()),
             ("S6C", "Per-gene counts", "Missense variation per protein in gnomAD v4 and cBioPortal.", *s6c()),
             ("S6D", "Observed vs expected", "Missense variation at each site class compared with an average residue of the "
-             "same protein (Figure 5C, Figure S1).", *s6d()),
+             "same protein (Figure S1).", *s6d()),
             ("S6E", "AlphaMissense by site", "Mean AlphaMissense pathogenicity at each site class and its percentile "
              "(Figure 5B).", *s6e()),
-            ("S6F", "AlphaMissense anchor swaps", "Predicted pathogenicity of substitutions at the anchor (Figure 5B).",
+            ("S6F", "AlphaMissense anchor swaps", "Predicted pathogenicity of substitutions at the anchor (Figure 5C).",
              *s6f()),
         ]),
     ]
