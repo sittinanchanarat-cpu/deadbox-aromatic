@@ -37,8 +37,11 @@ done
 rm -rf "$OUT"
 mkdir -p "$OUT"
 COMMIT=$(git rev-parse --short HEAD)
-# deterministic archives: fixed order, owner and timestamp
-TAR=(tar --sort=name --owner=0 --group=0 --numeric-owner --mtime="$(git log -1 --format=%cI)")
+# deterministic archives: fixed order, owner and timestamp. The timestamp is fixed (the
+# 1.0.0 upload), so data archives whose contents are unchanged stay byte-identical and
+# need no re-upload when only the code changes.
+DATA_MTIME="2026-09-26T16:20:53+07:00"
+TAR=(tar --sort=name --owner=0 --group=0 --numeric-owner --mtime="$DATA_MTIME")
 pack() {  # pack <archive name> <paths...>
   local name=$1; shift
   "${TAR[@]}" -cf - "$@" | gzip -n -9 > "$OUT/$name.tar.gz"
